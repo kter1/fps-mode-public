@@ -103,15 +103,5 @@
       "gap": 1.5,
       "sha256": "3393143e3e694259b4787655e424525fca5c92f6659191151172045b52a82142"
     }
-  ],
-  "provenance": {
-    "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
-    "model_license": "Apache-2.0",
-    "model_revisions": {
-      "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit": "5c390979e4b93af5f2932f90742ca99c7dd04687",
-      "mlx-community/whisper-base.en-mlx": "aa0678c3466ed62c5c6114ec600a0e1f96820089"
-    },
-    "cost_usd": 0,
-    "user_approved_revision": 2
-  }
+  ]
 }
