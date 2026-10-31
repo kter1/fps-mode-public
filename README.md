@@ -2,11 +2,11 @@
 
 ## Gameplay demo
 
-Real-time gameplay from the full game: shooting, crouching, reloading and the kill-cam replay.
+Real-time gameplay from the full game: shooting, crouching, reloading and the kill-cam replay. The clips below play in place; click one for the full 54-second video with sound.
 
 | Village | Neon Circuit (laser tag) |
 |---|---|
-| [![Village gameplay](docs/media/demo_village.jpg)](https://github.com/kter1/fps-mode-public/releases/download/demo-2026-10/demo_village.mp4) | [![Neon Circuit gameplay](docs/media/demo_neon.jpg)](https://github.com/kter1/fps-mode-public/releases/download/demo-2026-10/demo_neon.mp4) |
+| [![Village gameplay](docs/media/demo_village.gif)](https://github.com/kter1/fps-mode-public/releases/download/demo-2026-10/demo_village.mp4) | [![Neon Circuit gameplay](docs/media/demo_neon.gif)](https://github.com/kter1/fps-mode-public/releases/download/demo-2026-10/demo_neon.mp4) |
 
 > **Note on assets in this public repository**
 >
