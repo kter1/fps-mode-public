@@ -1,0 +1,259 @@
+{
+  "verification_scope": "Static source, anti-Foundry-topology originality audit, SurfaceTool geodesic radome & gondola verification, asset-manifest, and geometric AABB/navmesh simulation (0.50m and 0.75m agent radii). Does NOT substitute for Godot 4.7.2 runtime tests, lightmap/minimap bakes, human playtesting, or Apple M2 hardware benchmarks.",
+  "map_id": "glacier_peak",
+  "display_name": "Glacier Peak",
+  "extent_m": [
+    110,
+    90
+  ],
+  "seed": 2410,
+  "order": 70,
+  "files": {
+    "content/manifest/map_list/glacier_peak.json": {
+      "bytes": 4437,
+      "sha256": "58a50ec09101e946bcdc4ae7573eb748400efbdfa7724e276b162aab4c9d65e5"
+    },
+    "game/maps/layouts/glacier_peak.gd": {
+      "bytes": 42387,
+      "sha256": "4a37c161c4a344429cc89234f7bb511b613817521203fd720690ad011a5e93b4"
+    }
+  },
+  "passed_checks": 41,
+  "failed_checks": 0,
+  "authored_cover_pairs": 56,
+  "buildings_and_probe_volumes": 5,
+  "static_first_contact_estimates": {
+    "north_snowcat_hangar_lane": {
+      "travel_to_sightline_m": 33.9,
+      "sprint_s": 4.84,
+      "run_s": 6.78
+    },
+    "central_cryo_rotunda_lane": {
+      "travel_to_sightline_m": 38.0,
+      "sprint_s": 5.43,
+      "run_s": 7.6
+    },
+    "south_gondola_gorge_lane": {
+      "travel_to_sightline_m": 34.3,
+      "sprint_s": 4.9,
+      "run_s": 6.87
+    }
+  },
+  "unverified_in_sandbox": [
+    "Godot 4.7.2 script parser & headless/Metal preparation (`python3 tools/dev.py check`, `python3 tools/dev.py prepare --map glacier_peak`)",
+    "Generated scene & directional LightmapGI bake (`game/maps/generated/glacier_peak.tscn`, `.lmbake`)",
+    "Orthographic 1024x1024 minimap bake (`python3 tools/dev.py minimap-bake --map glacier_peak` -> `content/minimaps/glacier_peak.png`)",
+    "Godot content & integration test suites (`python3 tools/dev.py test --suite content`, `python3 tools/dev.py test --suite integration`)",
+    "Engine-rendered overview & 7 capture camera screenshots (`python3 tools/dev.py inspect-map --map glacier_peak`, `python3 tools/dev.py capture --map glacier_peak`)",
+    "Deterministic 8v8 bot match test (`python3 tools/dev.py match-test --map glacier_peak --seed 2410`)",
+    "Target hardware benchmark on fanless Apple M2 Air at Medium 1920x1080 (`python3 tools/dev.py benchmark --map glacier_peak --seed 2410 --seconds 600`)",
+    "Human playtesting for combat pacing, sightline comfort, and spawn feel"
+  ],
+  "checks": [
+    {
+      "name": "gdscript_no_inferred_var_declarations",
+      "passed": true,
+      "detail": "inferred_vars=[]"
+    },
+    {
+      "name": "gdscript_all_for_loops_explicitly_typed",
+      "passed": true,
+      "detail": "untyped_fors=[]"
+    },
+    {
+      "name": "gdscript_explicit_float_track_z_and_z_declarations",
+      "passed": true,
+      "detail": "Found `var track_z: float = side * 62.0` and `var z: float = track_z + offset`"
+    },
+    {
+      "name": "gdscript_builder_methods_exist_on_compact_map_builder",
+      "passed": true,
+      "detail": "called=['bake_light', 'box', 'cable_reel', 'collider', 'cone', 'cover', 'cylinder', 'detail', 'floor_decals', 'glass_material', 'interior_lighting', 'interior_streaks', 'pallet', 'pipe_stack', 'prop', 'railing_path', 'ramp', 'sign_text', 'small_prop'] unknown=[]"
+    },
+    {
+      "name": "bespoke_architecture_zero_foundry_prefabs",
+      "passed": true,
+      "detail": "modern_building=False, shared_bridge=False, pierced_wall_calls=16"
+    },
+    {
+      "name": "surfacetool_radome_gondolas_and_snowcats_present",
+      "passed": true,
+      "detail": "Found GeodesicRadomeCupola, GondolaAeroFairing, GondolaCenterGlass, SnowcatWindshield, OverlookGlass, and HoloProjection"
+    },
+    {
+      "name": "registry_includes_glacier_peak",
+      "passed": true,
+      "detail": "tdm_ids=['airport', 'foundry', 'ridgeline', 'harbor', 'village', 'blackout', 'transit_works', 'glacier_peak']"
+    },
+    {
+      "name": "airport_remains_default_first_map",
+      "passed": true,
+      "detail": "first=airport"
+    },
+    {
+      "name": "airport_retains_menu_backdrop",
+      "passed": true,
+      "detail": "backdrop_maps=['airport', 'foundry']"
+    },
+    {
+      "name": "registry_required_keys_present",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "style_authored_dressing_enabled_no_procedural_clutter_blockers",
+      "passed": true,
+      "detail": "authored_dressing=True"
+    },
+    {
+      "name": "all_seven_capture_cameras_present",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "unique_menu_order",
+      "passed": true,
+      "detail": "order=70 vs [5, 10, 20, 30, 30, 50, 60]"
+    },
+    {
+      "name": "unique_deterministic_seed",
+      "passed": true,
+      "detail": "seed=2410 vs [201026, 410, 920, 1630, 1730, 1707, 1906]"
+    },
+    {
+      "name": "extent_110x90",
+      "passed": true,
+      "detail": "extent=[110, 90]"
+    },
+    {
+      "name": "minimap_bounds_square_and_cover_extent",
+      "passed": true,
+      "detail": "bounds=[-59, -59, 59, 59]"
+    },
+    {
+      "name": "all_props_in_approved_manifest",
+      "passed": true,
+      "detail": "used=['WetFloorSign_01', 'industrial_pastic_container', 'industrial_storage_cart', 'old_military_compressor', 'old_tyre', 'portable_generator', 'security_camera_02', 'steel_frame_shelves_02', 'trashbag'] missing=[]"
+    },
+    {
+      "name": "all_decals_in_approved_manifest",
+      "passed": true,
+      "detail": "used=['AsphaltDamage001', 'Leaking006', 'Leaking008'] missing=[]"
+    },
+    {
+      "name": "hdri_in_approved_manifest",
+      "passed": true,
+      "detail": "content/sky/kloofendal_43d_clear_puresky_2k.hdr"
+    },
+    {
+      "name": "zero_building_positions_shared_with_foundry",
+      "passed": true,
+      "detail": "gp_centers=[(0.0, -6.5), (0.0, -33.0), (0.0, 33.0), (-39.0, -22.0), (39.0, -22.0)] shared_with_foundry=[]"
+    },
+    {
+      "name": "spawn_count_16_per_team",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "multiple_deployment_clusters_spread",
+      "passed": true,
+      "detail": "spread=68.0m"
+    },
+    {
+      "name": "authored_cover_peek_pairs_ge_36",
+      "passed": true,
+      "detail": "authored_pairs=56"
+    },
+    {
+      "name": "interior_reflection_probes_ge_4",
+      "passed": true,
+      "detail": "probe_volumes=5"
+    },
+    {
+      "name": "qa_route_indices_3_4_5_on_upper_deck",
+      "passed": true,
+      "detail": "qa_upper=[(-2.5, 3.4, 3.3), (0.0, 3.4, -0.3), (2.5, 3.4, 3.3)]"
+    },
+    {
+      "name": "all_32_spawn_capsules_clear",
+      "passed": true,
+      "detail": "conflicts=[]"
+    },
+    {
+      "name": "markers_capsule_clear_routes",
+      "passed": true,
+      "detail": "count=15 bad=[]"
+    },
+    {
+      "name": "markers_capsule_clear_domination",
+      "passed": true,
+      "detail": "count=3 bad=[]"
+    },
+    {
+      "name": "markers_capsule_clear_hardpoints",
+      "passed": true,
+      "detail": "count=5 bad=[]"
+    },
+    {
+      "name": "markers_capsule_clear_qa_route",
+      "passed": true,
+      "detail": "count=11 bad=[]"
+    },
+    {
+      "name": "markers_capsule_clear_navigation_points",
+      "passed": true,
+      "detail": "count=8 bad=[]"
+    },
+    {
+      "name": "markers_capsule_clear_cover_points",
+      "passed": true,
+      "detail": "count=56 bad=[]"
+    },
+    {
+      "name": "markers_capsule_clear_cover_peeks",
+      "passed": true,
+      "detail": "count=56 bad=[]"
+    },
+    {
+      "name": "ramp_approaches_clear_both_ends",
+      "passed": true,
+      "detail": "hits=[]"
+    },
+    {
+      "name": "smoke_test_ray_unobstructed",
+      "passed": true,
+      "detail": "origin=[0, 2, 16.0] hits=[]"
+    },
+    {
+      "name": "walkthrough_gondola_01_gangway_ray_unobstructed",
+      "passed": true,
+      "detail": "hits=[]"
+    },
+    {
+      "name": "all_7_capture_cameras_clear_and_unobstructed",
+      "passed": true,
+      "detail": "issues=[]"
+    },
+    {
+      "name": "navmesh_all_ground_markers_connected_050cm_erosion",
+      "passed": true,
+      "detail": "agent_radius=0.5m tested=190 unreached=0"
+    },
+    {
+      "name": "navmesh_all_ground_markers_connected_075cm_erosion",
+      "passed": true,
+      "detail": "agent_radius=0.75m tested=190 unreached=0"
+    },
+    {
+      "name": "both_teams_reach_upper_overlook_ramps",
+      "passed": true,
+      "detail": "west_ramp_dist=53.8m east_ramp_dist=87.0m"
+    },
+    {
+      "name": "static_first_contact_path_estimate_within_5_to_20s",
+      "passed": true,
+      "detail": "{\"north_snowcat_hangar_lane\": {\"travel_to_sightline_m\": 33.9, \"sprint_s\": 4.84, \"run_s\": 6.78}, \"central_cryo_rotunda_lane\": {\"travel_to_sightline_m\": 38.0, \"sprint_s\": 5.43, \"run_s\": 7.6}, \"south_gondola_gorge_lane\": {\"travel_to_sightline_m\": 34.3, \"sprint_s\": 4.9, \"run_s\": 6.87}}"
+    }
+  ]
+}

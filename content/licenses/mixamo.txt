@@ -1,0 +1,9 @@
+Adobe Mixamo character and animations
+"Swat Guy" (Ch15_nonPBR), Rifle 8-Way Locomotion Pack and Pro Rifle Pack.
+https://www.mixamo.com
+
+Used under Mixamo's terms: royalty-free use in games. The raw downloads are not
+redistributed; they stay in the git-ignored .tools/user-assets/characters folder
+and are pinned by SHA-256 in content/asset_sources/characters.lock.json. Only the
+processed soldier model, team textures and clips are included in this project.
+Details: content/manifest/characters.json.

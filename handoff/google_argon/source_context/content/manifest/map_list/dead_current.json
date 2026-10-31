@@ -1,0 +1,247 @@
+{
+  "id": "dead_current",
+  "order": 100,
+  "display_name": "Dead Current",
+  "menu_subtitle": "Quarantined coastal power station",
+  "layout": "res://game/maps/layouts/dead_current.gd",
+  "seed": 1707,
+  "extent": [
+    76,
+    64
+  ],
+  "minimap": {
+    "texture": "res://content/minimaps/blackout.png",
+    "bounds": [
+      -59,
+      -59,
+      59,
+      59
+    ]
+  },
+  "style": {
+    "accent": "d89a3a",
+    "wall_kind": "brick",
+    "ground_impact": "concrete",
+    "ground": {
+      "layers": [
+        "asphalt",
+        "gravel",
+        "grass",
+        "concrete_floor"
+      ],
+      "tint": [
+        0.8,
+        0.82,
+        0.85
+      ]
+    },
+    "asphalt_patches": 8,
+    "lane_arrows": [],
+    "ground_clutter": "manhole",
+    "ground_clutter_count": 6,
+    "terrain": {
+      "kind": "hills",
+      "layers": [
+        "grass",
+        "rock",
+        "dirt",
+        "gravel"
+      ],
+      "tint": [
+        0.55,
+        0.62,
+        0.5
+      ],
+      "steep_projection": true
+    },
+    "backdrop": {
+      "kind": "forests",
+      "nearest": 24.0
+    }
+  },
+  "lighting": {
+    "hdri": "res://content/sky/kloofendal_overcast_puresky_2k.hdr",
+    "sun_u": 0.5889,
+    "sun_elevation": 10.0,
+    "sky_turn": -10.0,
+    "sun_color": [
+      1.0,
+      0.68,
+      0.45
+    ],
+    "sun_energy": 0.8,
+    "sky_energy": 0.42,
+    "haze": "56616c",
+    "fog": 0.0018,
+    "volume": 0.007
+  },
+  "capture": {
+    "blue_spawn": {
+      "position": [
+        -46,
+        1.8,
+        -18
+      ],
+      "target": [
+        -20,
+        2,
+        -14
+      ]
+    },
+    "red_spawn": {
+      "position": [
+        46,
+        1.8,
+        18
+      ],
+      "target": [
+        20,
+        2,
+        14
+      ]
+    },
+    "north_route": {
+      "position": [
+        -34,
+        1.8,
+        -30
+      ],
+      "target": [
+        0,
+        3,
+        -31
+      ]
+    },
+    "center_interior": {
+      "position": [
+        -18,
+        1.7,
+        -4
+      ],
+      "target": [
+        10,
+        2.5,
+        4
+      ]
+    },
+    "south_route": {
+      "position": [
+        -40,
+        1.8,
+        40
+      ],
+      "target": [
+        0,
+        2,
+        34
+      ]
+    },
+    "elevated": {
+      "position": [
+        -6,
+        5.05,
+        -7.4
+      ],
+      "target": [
+        8,
+        1.5,
+        5
+      ]
+    },
+    "first_person": {
+      "position": [
+        -30,
+        1.62,
+        16
+      ],
+      "target": [
+        0,
+        3,
+        26
+      ]
+    }
+  },
+  "overview": [
+    {
+      "text": "INTAKE OFFICE",
+      "point": [
+        -22,
+        0,
+        13
+      ],
+      "color": "e8c36e"
+    },
+    {
+      "text": "SERVICE YARD",
+      "point": [
+        0,
+        0,
+        13
+      ],
+      "color": "e8c36e"
+    },
+    {
+      "text": "WORKSHOP",
+      "point": [
+        -22,
+        0,
+        -13
+      ],
+      "color": "e8c36e"
+    },
+    {
+      "text": "TURBINE HALL",
+      "point": [
+        0,
+        0,
+        -13
+      ],
+      "color": "e8c36e"
+    },
+    {
+      "text": "CONTROL ROOM",
+      "point": [
+        22,
+        0,
+        -13
+      ],
+      "color": "e8c36e"
+    },
+    {
+      "text": "SWITCHYARD",
+      "point": [
+        22,
+        0,
+        13
+      ],
+      "color": "e8c36e"
+    }
+  ],
+  "tests": {
+    "smoke_origin": [
+      0,
+      2,
+      14
+    ],
+    "upper_point": [
+      0,
+      3.4,
+      -8.5
+    ],
+    "navigation_points": [
+      [
+        0,
+        0,
+        28
+      ],
+      [
+        0,
+        3.4,
+        -8.5
+      ]
+    ]
+  },
+  "supported_modes": [
+    "zombies"
+  ]
+}

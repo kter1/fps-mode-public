@@ -1,0 +1,902 @@
+[
+  {
+    "path": "MAP_DESIGN.md",
+    "bytes": 22618,
+    "sha256": "1ad9ac2c34e4224f3bd49d65fa06a9df18878603092b39df362525ebf3a0de7b"
+  },
+  {
+    "path": "README.md",
+    "bytes": 17875,
+    "sha256": "23de959e2f72ce1b986dd9cff1ef2833ffec3ff05f5263330a75d193d03e28d2"
+  },
+  {
+    "path": "VALIDATION.md",
+    "bytes": 3686,
+    "sha256": "f46ddd1336e725de837eff93fa07b17345a1ee73acb343cb169a6f7b293d6fb5"
+  },
+  {
+    "path": "addons/map_baker/plugin.cfg",
+    "bytes": 191,
+    "sha256": "3d0b1bf50b1a49d48df12fc70b6fdb1849be40dd3c8becdd8dae3c2d86c0b126"
+  },
+  {
+    "path": "addons/map_baker/plugin.gd",
+    "bytes": 2468,
+    "sha256": "556a44bd6c8f73fb28660d8776cb9ad806a93768e9e81fe79a2e94ac889155f1"
+  },
+  {
+    "path": "content/asset_sources/characters.json",
+    "bytes": 2101,
+    "sha256": "23a4fc1bc70082479f5fe256b882b18bc5d665210db8436e32023f8d25015f72"
+  },
+  {
+    "path": "content/asset_sources/characters.lock.json",
+    "bytes": 777,
+    "sha256": "0f908bb761ca2a8351d424e564919ce2afa55a6bc72747dae240d84b5d015e7b"
+  },
+  {
+    "path": "content/asset_sources/maps/foundry.json",
+    "bytes": 3655,
+    "sha256": "86c7a1886e8e7f4fd8de5f9e718b3d48c91080b962fe19257e57bd276f8f6273"
+  },
+  {
+    "path": "content/asset_sources/maps/foundry.lock.json",
+    "bytes": 18,
+    "sha256": "62b405d88881f963e77d8b9452f6bd6de13151d866f980edd90e394f0ababe27"
+  },
+  {
+    "path": "content/asset_sources/maps/harbor.json",
+    "bytes": 1618,
+    "sha256": "9d97df60ccb59d156a8db5fa9b71e9adcebd0d8ccc85150924826ac0e3871002"
+  },
+  {
+    "path": "content/asset_sources/maps/harbor.lock.json",
+    "bytes": 4756,
+    "sha256": "d7c3cb770d7f459d2d6f7be8acf9e2ae23da09ad3d9fa77b441c6bf0b65f7740"
+  },
+  {
+    "path": "content/asset_sources/maps/ridgeline.json",
+    "bytes": 488,
+    "sha256": "a291ace1ae8afccffe96c413862e99c61cf284e26c37fdf7a0f92699e62e6b90"
+  },
+  {
+    "path": "content/asset_sources/maps/ridgeline.lock.json",
+    "bytes": 18,
+    "sha256": "62b405d88881f963e77d8b9452f6bd6de13151d866f980edd90e394f0ababe27"
+  },
+  {
+    "path": "content/asset_sources/maps/village.json",
+    "bytes": 5216,
+    "sha256": "99172c554cb70926cb78ff66b11e6b652954a1a6b87b20c76106392b09eec65c"
+  },
+  {
+    "path": "content/asset_sources/maps/village.lock.json",
+    "bytes": 27534,
+    "sha256": "53ebd0673c90b69360712289875f7b597bb5bf75903fa4eb31272da9c60abd0a"
+  },
+  {
+    "path": "content/asset_sources/maps.json",
+    "bytes": 12837,
+    "sha256": "f783dc8f6b26b3ba129bdcc8f8e732b818a7abb3c134034d680e263c18470dd1"
+  },
+  {
+    "path": "content/asset_sources/maps.lock.json",
+    "bytes": 85127,
+    "sha256": "091bbfa9888fa8189c6a2ebabf0f2d39a6a8b230908a1c67e75a3743fd2107d1"
+  },
+  {
+    "path": "content/asset_sources/weapons.json",
+    "bytes": 1821,
+    "sha256": "1201c87a358658c0c2fbb0bf4068e77e1d3e1878d5c2321f3286fa2f3cdbb917"
+  },
+  {
+    "path": "content/asset_sources/weapons.lock.json",
+    "bytes": 4697,
+    "sha256": "c79ecaef8e9640add7833502ecd07c75826531cb8d9d80660b0e069ecb15b26e"
+  },
+  {
+    "path": "content/licenses/3dmodelscc0-guns.txt",
+    "bytes": 505,
+    "sha256": "edd706afda9cfe5a34c86173ef5feced073cf06e1cb0834447b6c46cd969bb52"
+  },
+  {
+    "path": "content/licenses/ambientcg.txt",
+    "bytes": 1217,
+    "sha256": "0b95461d7c1ff1e256c6e3bc95f63d83113bee445c67ec7078fcec60deb369f0"
+  },
+  {
+    "path": "content/licenses/anatomical-arms.txt",
+    "bytes": 586,
+    "sha256": "2c7262b8e37f06e3ce19ca9a0434d6eed8554842c29e2f80602253bf2073fc8d"
+  },
+  {
+    "path": "content/licenses/characters.txt",
+    "bytes": 316,
+    "sha256": "c5d4967ef4b536472378216245c5ddd3d2a14c444f9efe1aa62267fa65b7b1a1"
+  },
+  {
+    "path": "content/licenses/detailed-firearms.txt",
+    "bytes": 686,
+    "sha256": "cf700e8f7042804a611a6b893a1ffe10cf65bb61bbd05987f6d50fbd2212fcdd"
+  },
+  {
+    "path": "content/licenses/godot-engine.txt",
+    "bytes": 80680,
+    "sha256": "e18c7db5c3bac29f438fcb6820f1ae05627a88a28a27d5d7b07e9c9d5875e3a7"
+  },
+  {
+    "path": "content/licenses/guns.txt",
+    "bytes": 310,
+    "sha256": "fba84f6c875e87fa2a3e3ca9495509bc50151c3fe83610f8b0940177ab4d534f"
+  },
+  {
+    "path": "content/licenses/mixamo.txt",
+    "bytes": 501,
+    "sha256": "4eb21e327c21514bea8a8ce3d849004e0d2db57f768e553574f77815bf84c6e1"
+  },
+  {
+    "path": "content/licenses/pixelhouse_zombie.txt",
+    "bytes": 442,
+    "sha256": "fb5c082e8ebf4b290f12b06acae8685dff6a4a6afec224dfa499cb6a17142269"
+  },
+  {
+    "path": "content/licenses/polyhaven-environment.txt",
+    "bytes": 8554,
+    "sha256": "f8e5011abf8408baa308001098105ad8c52faa37fb1c7ed81c004de28be8a172"
+  },
+  {
+    "path": "content/manifest/characters.json",
+    "bytes": 31215,
+    "sha256": "e6fff5eb3555d17eb3788f70f6d7c02d91609a1ea758df100b5b44cb6f4c71e3"
+  },
+  {
+    "path": "content/manifest/map_list/airport.json",
+    "bytes": 2168,
+    "sha256": "36337a25a3a6f0a2be2fc656b932b1fb3cd2d249e3fd3c0cf7e5fafe8ffd417c"
+  },
+  {
+    "path": "content/manifest/map_list/blackout.json",
+    "bytes": 1950,
+    "sha256": "57e81f3f01956f139e1579368aece2bef0cb953c15cb5b9dad9f6db6c95036d7"
+  },
+  {
+    "path": "content/manifest/map_list/dead_air.json",
+    "bytes": 3610,
+    "sha256": "a5e1c2fa9b943afd3257d13e434a0a2280085d988428699a323b1808041103a8"
+  },
+  {
+    "path": "content/manifest/map_list/dead_current.json",
+    "bytes": 3609,
+    "sha256": "3df49cd413a34bd472f031091e570f40d987e6fa099c4199f8e0a66c52ef6020"
+  },
+  {
+    "path": "content/manifest/map_list/foundry.json",
+    "bytes": 1818,
+    "sha256": "a8004e21474d3bd4fa1adcd5a0a25d00c1d9233ab6d95654861c329033eae8ae"
+  },
+  {
+    "path": "content/manifest/map_list/harbor.json",
+    "bytes": 2325,
+    "sha256": "4b710762be0588d9156fa5fe77022988d6df4d101060dfb52848dbdb5541987e"
+  },
+  {
+    "path": "content/manifest/map_list/ridgeline.json",
+    "bytes": 1759,
+    "sha256": "3e10a9dfb4d316e5a965ab1027be1524c3919bb21a6b6f73b342b9ea4340a3a1"
+  },
+  {
+    "path": "content/manifest/map_list/village.json",
+    "bytes": 1737,
+    "sha256": "52fb1db530ebce36066956f1ec539fa1f33752d21ef41bdfcba92f36686e134f"
+  },
+  {
+    "path": "content/manifest/maps/foundry.json",
+    "bytes": 23289,
+    "sha256": "b51ec6c318c3ab7a58480401d013c1113b7e0174c5bea082023d724477099bb4"
+  },
+  {
+    "path": "content/manifest/maps/harbor.json",
+    "bytes": 7306,
+    "sha256": "387173fb45e5dc570be94b48368cf8ff227aa0ba71a46fddbd342e770cd7fdf6"
+  },
+  {
+    "path": "content/manifest/maps/ridgeline.json",
+    "bytes": 3889,
+    "sha256": "349f156c60026982649e055a74c958b627a7de62b544e1624bbc122d557d7014"
+  },
+  {
+    "path": "content/manifest/maps/village.json",
+    "bytes": 28809,
+    "sha256": "15300f07e7865f2436f829320c6462d6e6bdd24b0c3811818ff093f9d9e553ef"
+  },
+  {
+    "path": "content/manifest/maps.json",
+    "bytes": 80179,
+    "sha256": "376b0e15a4ca569f5845e74b7f0ce652b0c976d470a8a79e86d19142bc3a548d"
+  },
+  {
+    "path": "content/manifest/weapons.json",
+    "bytes": 52750,
+    "sha256": "aac8948c67cc4b7e3c33959d5f2552cc788db8cd8f77260217880d7449a07c9a"
+  },
+  {
+    "path": "content/manifest/zombies.json",
+    "bytes": 1519,
+    "sha256": "761ecc8c953383932d64c0c9e03491099429ded37b5de87548f97a48b078a6b3"
+  },
+  {
+    "path": "export_presets.cfg",
+    "bytes": 803,
+    "sha256": "9b1ed676311babd75b09abd9a9f59337473f5be2eaa7d1291dc9e30cdea2448b"
+  },
+  {
+    "path": "game/actors/actor_command.gd",
+    "bytes": 728,
+    "sha256": "a24b479bbfb7c9c9586d6a5a81eb51c8c34e80afa9248a9e9280afca2477f59e"
+  },
+  {
+    "path": "game/actors/bot_controller.gd",
+    "bytes": 6943,
+    "sha256": "f8deab3831f80a3c6b5d35af80088a10be817b97dccb1df5da5e7fc28319840d"
+  },
+  {
+    "path": "game/actors/combatant.gd",
+    "bytes": 13672,
+    "sha256": "41b4bab56beb502f07620726db358433312656090714e1a99c1bddd51b7c73bc"
+  },
+  {
+    "path": "game/actors/player_controls.gd",
+    "bytes": 5496,
+    "sha256": "3609c963c780c8f75bab27132558a4251a973c64ba6679bfe997a4995b9b416a"
+  },
+  {
+    "path": "game/combat/attachment_definition.gd",
+    "bytes": 700,
+    "sha256": "949d3fb9b6bab409853bb1f8e6b283bbd1849e786a54095d9912fe36b4c7400b"
+  },
+  {
+    "path": "game/combat/damage_event.gd",
+    "bytes": 239,
+    "sha256": "e73075d98d06f8c39c85e98b3d28eba424b0edef9e77cd637107af7c7ab95c78"
+  },
+  {
+    "path": "game/combat/destructible.gd",
+    "bytes": 14220,
+    "sha256": "9d2d940149476f81c2e2676ed970bb6bfedb22117602399daf8d7be160629b60"
+  },
+  {
+    "path": "game/combat/grenade.gd",
+    "bytes": 3407,
+    "sha256": "5cbcd403456ed281a70bf42f952264125e90fe45ba02289bba64a54877bab131"
+  },
+  {
+    "path": "game/combat/loadout_definition.gd",
+    "bytes": 536,
+    "sha256": "4e7f302831bcf7a94d91c6dcee5ad37fa9a752e551ff7dab46b5c842d0e6f2e1"
+  },
+  {
+    "path": "game/combat/throw_timeline.gd",
+    "bytes": 3390,
+    "sha256": "1dc6e2e2fb32ef711d2fc6bb35ec128ca1f9486fedba9a7827a298c2210d88f2"
+  },
+  {
+    "path": "game/combat/weapon_definition.gd",
+    "bytes": 863,
+    "sha256": "6f5872682797ce35b06d531192ea3a5d3db12a79a6edd42a8e8df99c48de9afb"
+  },
+  {
+    "path": "game/combat/weapon_runtime.gd",
+    "bytes": 3363,
+    "sha256": "2aeeca40fd1fb1815a725dbf82d36b4cb20fedc76680161be88c677c14caf93d"
+  },
+  {
+    "path": "game/core/actor_slot.gd",
+    "bytes": 284,
+    "sha256": "a4a329c45a7e41b44651d4f014064c622d1d4828c38e0404eaba2c78af61e792"
+  },
+  {
+    "path": "game/core/app.gd",
+    "bytes": 75853,
+    "sha256": "ccb3b41d0e6f52469b7b14d2fa51a30de9b8bc3f5e35ebf7d7ca4c72a4b20cad"
+  },
+  {
+    "path": "game/core/catalog.gd",
+    "bytes": 1517,
+    "sha256": "e86ff13bf4de0f4d3429dc8aaf9130b69276f099dcd9a77ab8d69dbce0b15cce"
+  },
+  {
+    "path": "game/core/match_world.gd",
+    "bytes": 28796,
+    "sha256": "c8fa9aab09565b0cb454c104a0ffc9b94471d470e97c6faf47b6840b976f821b"
+  },
+  {
+    "path": "game/core/profile_store.gd",
+    "bytes": 3670,
+    "sha256": "7a6c71263131618c813c03ae1e9b8761708120c5f4bde33ec834a5ecc9ea43ae"
+  },
+  {
+    "path": "game/core/spawn_director.gd",
+    "bytes": 2756,
+    "sha256": "fc69cb6bf5bc6fc7e961e5ea41ee709b9198f5dc4a750e5af37762447813468c"
+  },
+  {
+    "path": "game/core/team_deathmatch_mode.gd",
+    "bytes": 852,
+    "sha256": "95268a3aecad9b22179e09ad1352a78d7c0a949357208f73f9995dd17e6ad6c8"
+  },
+  {
+    "path": "game/maps/compact_map_builder.gd",
+    "bytes": 37898,
+    "sha256": "3512dec6694e9f2045ebe34fab5602ad9950472603f468828dd90402f82ba8ca"
+  },
+  {
+    "path": "game/maps/layouts/airport.gd",
+    "bytes": 31518,
+    "sha256": "d40ac45bbf33dd442c26e8aa3d886bea1b0ed9b8144cb94d5b23b3dd5b857a99"
+  },
+  {
+    "path": "game/maps/layouts/blackout.gd",
+    "bytes": 57234,
+    "sha256": "1635e6a91c7ad696d380149ee4fda6e535467fdf1122c9e37f89c51f80cb6844"
+  },
+  {
+    "path": "game/maps/layouts/dead_air.gd",
+    "bytes": 188,
+    "sha256": "4525e8189d7ffcde9558921b70869bd1aa29343e9eac473b0c7e2e6281f0c63a"
+  },
+  {
+    "path": "game/maps/layouts/dead_current.gd",
+    "bytes": 192,
+    "sha256": "6c0112b0346f7722daa526fb10e8198ab2003d937f2375f0afe9cf12149fa35f"
+  },
+  {
+    "path": "game/maps/layouts/foundry.gd",
+    "bytes": 11968,
+    "sha256": "66b6f45a735eab5f4e88d20890ff38b5451a7e546ac5817e417dd2bc4c242ec8"
+  },
+  {
+    "path": "game/maps/layouts/harbor.gd",
+    "bytes": 79342,
+    "sha256": "98e472569097f5e68310bd0aa806bdb31002c6ac8e3ed0482b012ef7bf47b054"
+  },
+  {
+    "path": "game/maps/layouts/ridgeline.gd",
+    "bytes": 12084,
+    "sha256": "03b7d8ca424f5c3b718cb23eeb6e782a6828731a80a9925c1d7dd21ba7309ea3"
+  },
+  {
+    "path": "game/maps/layouts/village.gd",
+    "bytes": 77744,
+    "sha256": "58c9c44ceaf333dc8c0e117dc673479be20f89374d4c749227c023ab6d39195e"
+  },
+  {
+    "path": "game/maps/map_arena.gd",
+    "bytes": 8633,
+    "sha256": "891e8b3059e916eedd69e23d2d9ce12671ef9de2ed62269914b0ce52f29ce10f"
+  },
+  {
+    "path": "game/maps/map_builder.gd",
+    "bytes": 47194,
+    "sha256": "5b52471d604812e5446c212af9ddd1e28756e71eef2ef5f1556aa1f52800b1d9"
+  },
+  {
+    "path": "game/maps/map_catalog.gd",
+    "bytes": 3593,
+    "sha256": "ef031f44c455e6c67eb586f4584eb83f3e6ba99e821a59f31621365464903bd1"
+  },
+  {
+    "path": "game/maps/map_definition.gd",
+    "bytes": 597,
+    "sha256": "a74bb0ccdbc481b5ddbef0f2c3bfe43d7b43c85e7b0e6a1596110d33e30a5e20"
+  },
+  {
+    "path": "game/maps/map_layout.gd",
+    "bytes": 1787,
+    "sha256": "84d920355064eaab7652ff99d9a6a27edbc6a9513e578b46161b5816b103700c"
+  },
+  {
+    "path": "game/maps/map_meshes.gd",
+    "bytes": 8675,
+    "sha256": "74b1e4a15ef087371527b92ffbdb8c471c53778d83b4fb078a0d8e7d351d7ff5"
+  },
+  {
+    "path": "game/maps/map_nature.gd",
+    "bytes": 31071,
+    "sha256": "a3d3e4b08bbb9a8bc24c01068d9cae53aa3f9aedb3ade2c16ba8dd4ca1859564"
+  },
+  {
+    "path": "game/maps/map_props.gd",
+    "bytes": 5081,
+    "sha256": "ee60cb2bd60a3d0ba1b820db150fd55596a37c60870920300238b9dcaed558bb"
+  },
+  {
+    "path": "game/maps/map_surfaces.gd",
+    "bytes": 5251,
+    "sha256": "66faeea859954143e998d1d201dec43366ba77faf5cea8b4cb7ac10972114fcb"
+  },
+  {
+    "path": "game/maps/zombies_map_builder.gd",
+    "bytes": 9255,
+    "sha256": "0e5de4f82f20969f41ef85d50ea73fe96abd0d8d685e4275a9b22018117b65dc"
+  },
+  {
+    "path": "game/maps/zombies_set_dressing.gd",
+    "bytes": 7590,
+    "sha256": "729a5e29f9a9dea86f9384a65fb083a94719c39472c75fe4fdc75413abda3a3f"
+  },
+  {
+    "path": "game/presentation/battle_audio.gd",
+    "bytes": 13133,
+    "sha256": "14f3c9128d602e6fb53ba97eaa08054b00fa4634f7c24c6e67cca5dccbd084f5"
+  },
+  {
+    "path": "game/presentation/effect_meshes.gd",
+    "bytes": 3823,
+    "sha256": "bce9f1c832c0447acba6ab472db7dc96e3ea2e4b572b4a4bbfe20a9295de0fc3"
+  },
+  {
+    "path": "game/presentation/effects.gd",
+    "bytes": 51921,
+    "sha256": "86e0c13d15b37ffd370a581cda22ee31966f269953850080ac30bf55e2f9c54d"
+  },
+  {
+    "path": "game/presentation/kill_replay.gd",
+    "bytes": 7163,
+    "sha256": "4ea059d01f0a08150d421d92a4ade72fc0f0f385dbc1df3e42f512c49737da3a"
+  },
+  {
+    "path": "game/presentation/minimap.gd",
+    "bytes": 7680,
+    "sha256": "4c5c6ff8392b8abb106ef9ccde5404e3bb25d33dc617354fa689beb4395f9466"
+  },
+  {
+    "path": "game/presentation/model_factory.gd",
+    "bytes": 16335,
+    "sha256": "b19718c807d87fe7178159f74d11d6032829c2abb6e3511d13dc424be0d287b2"
+  },
+  {
+    "path": "game/presentation/ragdoll_driver.gd",
+    "bytes": 1780,
+    "sha256": "022da69e6576d3c79dc51075e718bd5613642a45fa279554dd6b8838f388f257"
+  },
+  {
+    "path": "game/presentation/replay_history.gd",
+    "bytes": 1579,
+    "sha256": "0fe5d251cb4d3e0acee9786165b55c4cd761f4b79ef8cbb12573467f84294ef8"
+  },
+  {
+    "path": "game/presentation/soldier_factory.gd",
+    "bytes": 25364,
+    "sha256": "952e7b5b16caa2b6f24484bb4f94264f72eb64883c316ddf42ee41e691f2dcc5"
+  },
+  {
+    "path": "game/presentation/stance_modifier.gd",
+    "bytes": 26177,
+    "sha256": "a2c63ead3b6f0315da97f1c4d75394db4e587af615cfeb79be688daef140fbdd"
+  },
+  {
+    "path": "game/presentation/view_model.gd",
+    "bytes": 50621,
+    "sha256": "a24f72f614b0d00665e0661c959d94ee30b8aada1bc7374236f868aed2205c45"
+  },
+  {
+    "path": "game/presentation/zombie_visual.gd",
+    "bytes": 11787,
+    "sha256": "36eef541b02099a658b1c7dea33591688624cbfe22e7c5c61890fbac4f4a827b"
+  },
+  {
+    "path": "game/ui/hud.gd",
+    "bytes": 12532,
+    "sha256": "5f636df11c9940110a63e7489b663b782daac8cdf74c2887a173fe47b066d037"
+  },
+  {
+    "path": "game/ui/zombies_hud.gd",
+    "bytes": 4178,
+    "sha256": "4028e7ab41abcbc79042bea7f347870ed5953f13cf82ecd7481ec8a3b43ff72f"
+  },
+  {
+    "path": "game/zombies/mystery_box.gd",
+    "bytes": 2728,
+    "sha256": "d2056368f934ab89a70a89dd733cf0e2c78e653a81d31c712703e31e6cdd5406"
+  },
+  {
+    "path": "game/zombies/zombie_actor.gd",
+    "bytes": 8397,
+    "sha256": "a7901e623a34bd1c3f3dd92cc738fded6e7128b1196e435f7b60671c0d2dd46a"
+  },
+  {
+    "path": "game/zombies/zombie_barrier.gd",
+    "bytes": 1770,
+    "sha256": "6c85cf1d9145c832d92fcabbeddd1a7d855b6229e920726c7a346324cdeec722"
+  },
+  {
+    "path": "game/zombies/zombie_interactions.gd",
+    "bytes": 6991,
+    "sha256": "a77c491a06689108ce174c26ccd290c39733c13522fed9436525184578326a1e"
+  },
+  {
+    "path": "game/zombies/zombie_objects.gd",
+    "bytes": 4545,
+    "sha256": "33f9fe054a4bbc652511d705b14806846e0a4ebe071faaf49397e33e04d316c5"
+  },
+  {
+    "path": "game/zombies/zombie_player.gd",
+    "bytes": 616,
+    "sha256": "d1054c38f59e6c6d3326751d3ff6b6a9709978cc684bb81f050893d0774c0f7f"
+  },
+  {
+    "path": "game/zombies/zombie_station.gd",
+    "bytes": 3274,
+    "sha256": "1f1001f1e603ac09ed8624966c21481582ab856c9ad925059be1d52ee56a8445"
+  },
+  {
+    "path": "game/zombies/zombie_weapon_runtime.gd",
+    "bytes": 1573,
+    "sha256": "d5f40c38167237ad35dbaf593db2107eaae80a2e50a09720019bcc56ec8773a5"
+  },
+  {
+    "path": "game/zombies/zombies_catalog.gd",
+    "bytes": 1483,
+    "sha256": "f92b885ea9283f5d766aa2f58deb172253d1b169374dacee070b13eef168449f"
+  },
+  {
+    "path": "game/zombies/zombies_mode.gd",
+    "bytes": 1990,
+    "sha256": "8d6055deaa9747de03d8f17bb2eaa66812c910700d1bf514e8ff9cd8d8f2cfb1"
+  },
+  {
+    "path": "game/zombies/zombies_world.gd",
+    "bytes": 22130,
+    "sha256": "71ec094e793d48e586af776b011909fcfcf574a1c741f6bad8b0eb67a8f6d405"
+  },
+  {
+    "path": "project.godot",
+    "bytes": 1176,
+    "sha256": "4027dca2b91032739034da14d4afc69e760f528eaca405b02002977af0a78f48"
+  },
+  {
+    "path": "tests/suites/audio.gd",
+    "bytes": 7959,
+    "sha256": "dd167c563b8ef5b05dddc613ec7ace32cf8c067ee82ed1935d7716366f905dcd"
+  },
+  {
+    "path": "tests/suites/characters.gd",
+    "bytes": 16726,
+    "sha256": "e15259e5281a8a62fde11fc8ba07c4c5f943ef410e06898b959630c71b45e005"
+  },
+  {
+    "path": "tests/suites/destructibles.gd",
+    "bytes": 15038,
+    "sha256": "1692f3e8520e4195c865183fcb15ca20b2aa61582ad44b6c878baf0418cf19ae"
+  },
+  {
+    "path": "tests/suites/maps.gd",
+    "bytes": 8857,
+    "sha256": "2ac6f6a61bcc6c663684f787126abcd4cb34d3ab67bbe158b683caecc122623e"
+  },
+  {
+    "path": "tests/suites/weapons.gd",
+    "bytes": 16597,
+    "sha256": "6c5e5ccf934ec962b799251866f04828341b8d532a3005a092de0a82f00f29ab"
+  },
+  {
+    "path": "tests/suites/zombies.gd",
+    "bytes": 14843,
+    "sha256": "85718115652402f288f321a458339b81cf588871b80cf89132439e2e3ec128b2"
+  },
+  {
+    "path": "tests/test_runner.gd",
+    "bytes": 46777,
+    "sha256": "67f71f1c1f33bd92d33959819eca7f0f90f03d03a0c8466719d8fe9a1c069071"
+  },
+  {
+    "path": "tools/airport_sightlines.gd",
+    "bytes": 4682,
+    "sha256": "0a00cfae3861b72f2e5e78bb31b1c2ba6cd2499e5b2a469a72465469e0eba833"
+  },
+  {
+    "path": "tools/airport_stability_probe.gd",
+    "bytes": 10221,
+    "sha256": "22bfd153cb5cf862b24000510dd8a797c935f3f3bd23bec50e1a58c2c7aea5ae"
+  },
+  {
+    "path": "tools/audio_probe.gd",
+    "bytes": 3860,
+    "sha256": "3064a64c9557ac63cf9acba236ee4cc23ada8608e311d194e4d54cf15b68f40c"
+  },
+  {
+    "path": "tools/blender/build_attachments.py",
+    "bytes": 20642,
+    "sha256": "7b8d0c0fd7751d3a47c34ae0ab90be595d31e4371ab3caaa107219a59359decc"
+  },
+  {
+    "path": "tools/blender/build_fp_arms.py",
+    "bytes": 18667,
+    "sha256": "a17640e702551496336c5163c9b2f4d5cca70d0e5f9337f769d775b893e04af8"
+  },
+  {
+    "path": "tools/blender/ingest_soldier.py",
+    "bytes": 29126,
+    "sha256": "6b87ec4b62389bd1f18ed4131f67ca996d9b4b41f57d048708226bec8b293c5d"
+  },
+  {
+    "path": "tools/blender/ingest_weapon.py",
+    "bytes": 37085,
+    "sha256": "3df41d2ca39163573874e97c4cb692584f1391d36132cf113aedc86bfa77c7c1"
+  },
+  {
+    "path": "tools/build_arms.gd",
+    "bytes": 1606,
+    "sha256": "23e954bd5e3930221b33c87e2620b9ba9a347ad10c8b6a1d7b9636b66e5e804a"
+  },
+  {
+    "path": "tools/check_scripts.gd",
+    "bytes": 572,
+    "sha256": "9afcc35eaa68181bb25b156fca20d3ce9fa74fc61258f6598e5449008bf10727"
+  },
+  {
+    "path": "tools/convert_legacy_art.py",
+    "bytes": 2816,
+    "sha256": "0bd82405e6506513a59ac9e4ed74ffed07975fdfc51a7c00432010a27a50df59"
+  },
+  {
+    "path": "tools/destruction_probe.gd",
+    "bytes": 8779,
+    "sha256": "359050e86f3e9783be9a9fcf180a23261e491ca7129236d2fe62917715d28737"
+  },
+  {
+    "path": "tools/dev.py",
+    "bytes": 28823,
+    "sha256": "e6225c131ecd8df81a04bf355f713f42a902d41d5850915fdcd8c0cbcc370e97"
+  },
+  {
+    "path": "tools/effects_probe.gd",
+    "bytes": 10128,
+    "sha256": "53d24d4dd2ba87b52ef59159c85dbcf9526490fa20bff2d40bff12bc33f9af32"
+  },
+  {
+    "path": "tools/exposure_probe.gd",
+    "bytes": 3377,
+    "sha256": "0a66ec240b78c57fdd019a06afa773c2b82239d4816801a65ce7299488bc38d5"
+  },
+  {
+    "path": "tools/feature_probe.gd",
+    "bytes": 4531,
+    "sha256": "fc542db6ad55ed12ea58b421a35fac791d77a95c8ab07c5d4e57e0a653a1328b"
+  },
+  {
+    "path": "tools/fetch_assets.py",
+    "bytes": 13984,
+    "sha256": "237f9ac94123636ed22be3ef92e5f187809c142338310534f95ed3e1e44d3ac1"
+  },
+  {
+    "path": "tools/generate_content.py",
+    "bytes": 6560,
+    "sha256": "067ae3dbc48e40dd89d9e1c05cbc2b8ddfa4e25bbc3c49eede815c21a34d9c11"
+  },
+  {
+    "path": "tools/generate_effect_textures.gd",
+    "bytes": 11035,
+    "sha256": "668a30b97457300ea3a2dc84e2417bbb46027e7e1b9278d949f57f54bdc673a1"
+  },
+  {
+    "path": "tools/generate_fabric.py",
+    "bytes": 872,
+    "sha256": "aa09865269c170dbebd1712c7529cf7d94b193e769a0010df1a0860532661dd4"
+  },
+  {
+    "path": "tools/generate_grass_clumps.gd",
+    "bytes": 7445,
+    "sha256": "1f71d67af0106f38094dec8450edcc4afc3dd83caa5a37cc118290a339e6eb94"
+  },
+  {
+    "path": "tools/generate_surfaces.py",
+    "bytes": 1267,
+    "sha256": "ae90bb1238c6d61bc8b701253e93a2b7eda91322fe68777a36aa73106a10da43"
+  },
+  {
+    "path": "tools/generate_village_leaves.gd",
+    "bytes": 8237,
+    "sha256": "0fb694d417363615fbb455e8035406ae1cf113131e62b32a6c5b6dca633a4bc8"
+  },
+  {
+    "path": "tools/graphics_check.gd",
+    "bytes": 4582,
+    "sha256": "f42311ac7a7620a06c8a0064ab46c2bb82974f6670a0ae23f7fa850ecd197d5a"
+  },
+  {
+    "path": "tools/inspect_arsenal.gd",
+    "bytes": 3573,
+    "sha256": "47085a69d021b3e4a5967489ec19685872fd7eb09359a1400ab29567b32d28fd"
+  },
+  {
+    "path": "tools/inspect_controls.gd",
+    "bytes": 596,
+    "sha256": "a78ffe89ce6f194e55a163a41e518e7bad7f81429850655901838e9f4d8fadd4"
+  },
+  {
+    "path": "tools/inspect_operators.gd",
+    "bytes": 9120,
+    "sha256": "d7474218b7459087f30b638d787ae0d473a76b5cc9b3397b662741b6f89283f0"
+  },
+  {
+    "path": "tools/inspect_optics.gd",
+    "bytes": 1204,
+    "sha256": "69f60818c7b6bf99d73183c99eb2c62cc0e830c33c634c993821a8788a617ce9"
+  },
+  {
+    "path": "tools/inspect_pistol.gd",
+    "bytes": 3455,
+    "sha256": "9ecff6cd6f5c88e5ba1c7c32b7aee5b8f8b626723872e41ce75e09548092ad5d"
+  },
+  {
+    "path": "tools/inspect_profiles.gd",
+    "bytes": 1566,
+    "sha256": "20ccb24dfb3e591e901eedb656a2de891dbd5502a6651d6b0095862870a74dba"
+  },
+  {
+    "path": "tools/inspect_replay.gd",
+    "bytes": 4480,
+    "sha256": "bed77989bf71edaf90b048da3b0da232349316e335e58ca9521678f41dbf4fa0"
+  },
+  {
+    "path": "tools/inspect_rig.gd",
+    "bytes": 724,
+    "sha256": "b16b742b42a01a0638e2afb6ee797b1ded82e6e7c970608e557dd1f675dd4e33"
+  },
+  {
+    "path": "tools/inspect_soldiers.gd",
+    "bytes": 10388,
+    "sha256": "6942b676579c20294abc7c6abcf54a60b8984b4ee337c4fe848c04a39dd02845"
+  },
+  {
+    "path": "tools/inspect_soldiers.py",
+    "bytes": 399,
+    "sha256": "3e3d6f357c829c944fd04ee6a153a3efdc0a21255c01d47eab758a115fcc2b0a"
+  },
+  {
+    "path": "tools/inspect_throw.gd",
+    "bytes": 4412,
+    "sha256": "0f5eb4f20750227679384a2811f3bb890bca36aa2d3980275fd0a15c5c28bfaa"
+  },
+  {
+    "path": "tools/inspect_zombies.gd",
+    "bytes": 1747,
+    "sha256": "37a09d39838e7e01aa0bbd8efdd6571ef866ae1975fa32d46a6877feb5c59977"
+  },
+  {
+    "path": "tools/inspect_zombies_game.gd",
+    "bytes": 1691,
+    "sha256": "4a505196e0bd4868dd2de65e1f00bee49d41fb6029bcd75b453bdcc0762dabde"
+  },
+  {
+    "path": "tools/manifest_assets.gd",
+    "bytes": 2020,
+    "sha256": "af6b85b21bfad7fe0f3cf01b2e27d287c8aec491544fc80793a8e7cfbfe55738"
+  },
+  {
+    "path": "tools/map_overview.gd",
+    "bytes": 2648,
+    "sha256": "54417d932adb8053a376fc0568fdc09c4c6a517ae4a727050f6a5a44efb6d805"
+  },
+  {
+    "path": "tools/minimap_bake.gd",
+    "bytes": 2589,
+    "sha256": "bfdb29e87f85c7fc873af8e3072a7ef78f66e3d642011d4bfae1053aa4cc2b90"
+  },
+  {
+    "path": "tools/prepare.gd",
+    "bytes": 5845,
+    "sha256": "e32585cc6e69f5d3c8cd1a0e9101e8ab2a8272f1c00b3597d17d918b0c3c15e1"
+  },
+  {
+    "path": "tools/prepare_weapon_optics.py",
+    "bytes": 2961,
+    "sha256": "0071fa77103205d8e34351dd41e7c8a0bb6f3fc5f43558445ef773874ea47bd6"
+  },
+  {
+    "path": "tools/prepare_zombies.gd",
+    "bytes": 490,
+    "sha256": "30991ce3cbd3a87483830bf7d30c01ac87f5e0901c27d7cc40f8a03da559cd1b"
+  },
+  {
+    "path": "tools/presentation_probe.gd",
+    "bytes": 1606,
+    "sha256": "3820aba650a681fc04aa25c99e9317752b491e8b3a1dd7054eb93c07245c210f"
+  },
+  {
+    "path": "tools/refine_combat_art.py",
+    "bytes": 5361,
+    "sha256": "18862f3b4646f0d0cebd8179a45b19cad57aedf86ba9c00bdeeaac98bed6e9d0"
+  },
+  {
+    "path": "tools/refine_operator.py",
+    "bytes": 3046,
+    "sha256": "ad033559302d4a2c4b2e94107c118224cff099dc23f7046c89d29d468e062e5e"
+  },
+  {
+    "path": "tools/release_verify.py",
+    "bytes": 4361,
+    "sha256": "594540e354f0ba7184c7c1b7b77b7f1e86db6ebbdc3023b7d86e3871df3ab45b"
+  },
+  {
+    "path": "tools/repack_clip.py",
+    "bytes": 3812,
+    "sha256": "a7c91ed85008b2c220af543a04018456178098c9d721a3c4b1f184e0f45e0fcc"
+  },
+  {
+    "path": "tools/report.py",
+    "bytes": 10764,
+    "sha256": "8f61d0e8c0470fd24e26aaa26fc115863824b15a9787970c84539d311e9544ec"
+  },
+  {
+    "path": "tools/review_sheets.gd",
+    "bytes": 1527,
+    "sha256": "9c6472c8d643d1e264d41cce84d077063ac0f5097e0d6d09a70b08612359af63"
+  },
+  {
+    "path": "tools/shadow_probe.gd",
+    "bytes": 7170,
+    "sha256": "e628b5ac7e9da4910ad3a1dc88dfb99345b39dbf60e076eee726937d44ebb391"
+  },
+  {
+    "path": "tools/sight_probe.gd",
+    "bytes": 2978,
+    "sha256": "549dffdf00dbb80c2eb40afe41593011a014d88fc1549a34b3e6992eb2d3cadc"
+  },
+  {
+    "path": "tools/start_probe.gd",
+    "bytes": 4448,
+    "sha256": "90a841bcbfef1ee5f54185db5a64e8f478982bdc80f04acbc4abb8b734a87f96"
+  },
+  {
+    "path": "tools/synthesize_destruction_audio.py",
+    "bytes": 3450,
+    "sha256": "e4588b81f7457c229d2bd1faf6c58c9eb2fc6ed02c0a06ab0a4e6dc6ee9f72ff"
+  },
+  {
+    "path": "tools/synthesize_knife_audio.py",
+    "bytes": 2632,
+    "sha256": "bd4e8669ab50051700cdf24f0ac3c5a8bbf251932621772d810da23ea774411e"
+  },
+  {
+    "path": "tools/synthesize_world_audio.py",
+    "bytes": 15899,
+    "sha256": "f88e99e32f92df758426afd7d4b45784c823dd768d51a9e66aeaa2c4f27e834e"
+  },
+  {
+    "path": "tools/synthesize_zombies_audio.py",
+    "bytes": 1932,
+    "sha256": "9f5b983ee6df09e5e68c7492768a042c976584829ef985483f47f3ecec60a59a"
+  },
+  {
+    "path": "tools/view_probe.gd",
+    "bytes": 2077,
+    "sha256": "b9a3fd3e02adf747c005af2a326b1312a067a0ead5483aa5d9ce2c08de4ab479"
+  },
+  {
+    "path": "tools/walkthrough_probe.gd",
+    "bytes": 4173,
+    "sha256": "4c3c03f2f08323b6b468ddcfdcf53185efe5dd1dbc2cbab76b7b0d6656056935"
+  },
+  {
+    "path": "tools/wall_probe.gd",
+    "bytes": 2866,
+    "sha256": "f13f5e928df44afab564d75f32cb3ef5f0f35073511419154902695b676942e5"
+  },
+  {
+    "path": "tools/zfight_probe.gd",
+    "bytes": 2708,
+    "sha256": "525fd16f59a047f9b015e4e86feb23c57ee159741b2802edbb21977100848ebd"
+  },
+  {
+    "path": "tools/zombie_asset_info.gd",
+    "bytes": 3169,
+    "sha256": "416ba670a290f4fcc0cff15fc4c6244f0c29abd43945d43966590bb84be09ec6"
+  },
+  {
+    "path": "tools/zombies_path_probe.gd",
+    "bytes": 1381,
+    "sha256": "ec7390e07d8fa492a54e2056e88660a563dd984751d6f05cc207239f97c738c5"
+  }
+]

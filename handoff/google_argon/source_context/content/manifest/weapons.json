@@ -1,0 +1,1983 @@
+{
+  "assets": {
+    "bolt_action_rifle_7_62": {
+      "creator": "Mateusz Sadek",
+      "fetched_unix": 1792190506,
+      "files": [
+        {
+          "path": "content/models/weapons/source/bolt_action_rifle_7_62/bolt_action_rifle_7_62_2k.gltf",
+          "sha256": "d9e9290e531c9a04ddfe3281ba73501a4f2a640f1ff150a12d2cb879b8d43ae3"
+        },
+        {
+          "path": "content/models/weapons/source/bolt_action_rifle_7_62/textures/bolt_action_rifle_7_62_accesories_nor_gl_2k.jpg",
+          "sha256": "384c30a68b6d26c06520aca240782e1d1c6a8242c6821eceb1cda3bfdfcced5b"
+        },
+        {
+          "path": "content/models/weapons/source/bolt_action_rifle_7_62/textures/bolt_action_rifle_7_62_accesories_diff_2k.jpg",
+          "sha256": "92e851b49dd7352e0a22c6c643f61a8bcb64c92877e4fcdfab26811fa5dbcbd2"
+        },
+        {
+          "path": "content/models/weapons/source/bolt_action_rifle_7_62/textures/bolt_action_rifle_7_62_accesories_arm_2k.jpg",
+          "sha256": "39f7a89d3617903948a97bcc7c339b285edbc727c1d265066ed43f85b6658538"
+        },
+        {
+          "path": "content/models/weapons/source/bolt_action_rifle_7_62/textures/bolt_action_rifle_7_62_nor_gl_2k.jpg",
+          "sha256": "fe3725ff044b4001d322a177c3d5d2738c0bc3a9c1b432bd0febc7cccf8f99d1"
+        },
+        {
+          "path": "content/models/weapons/source/bolt_action_rifle_7_62/textures/bolt_action_rifle_7_62_diff_2k.jpg",
+          "sha256": "dffc7b47305ca8d0d6e813ca8284d118e78dec4db27f98baee249401da081af3"
+        },
+        {
+          "path": "content/models/weapons/source/bolt_action_rifle_7_62/textures/bolt_action_rifle_7_62_arm_2k.jpg",
+          "sha256": "8a542b1488d21ed66042b0e632217cd2aa1fda6fa75fd4936467ed1205ee397b"
+        },
+        {
+          "path": "content/models/weapons/source/bolt_action_rifle_7_62/bolt_action_rifle_7_62.bin",
+          "sha256": "c9a32b6471ef08b6d901f9c1865a31c22d37b254a3f772a3c3348d0fa8203ed0"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 19985,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/bolt_action_rifle_7_62",
+      "type": "model"
+    },
+    "guns_explosives_pack": {
+      "creator": "3DModelsCC0",
+      "fetched_unix": 1792190505,
+      "filename": "Guns&Explosives.rar",
+      "files": [
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/AK-47/AK47.fbx",
+          "sha256": "d73bbbaa153d49f67a8180d0197c14aaab925540db231db00e3461d74a56246e"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/AK-47/AK47_Base_Color.png",
+          "sha256": "6a4ba8b206ac58ede07f5826a20791d52a0121b1f8d2d517a551805148ac8e62"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/AK-47/AK47_Height.png",
+          "sha256": "e6c1d75b693410e54e82d1003772905f84987f74d6910720905442dbd8bdfb6d"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/AK-47/AK47_Metallic.png",
+          "sha256": "55b80ee2cec9d6933c22c16807f87365f75ab96b1a9bc72a11bcd8b10bb67c06"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/AK-47/AK47_Normal_DirectX.png",
+          "sha256": "52eaa62b293d2c9546c69d48d16e0c85d78c1b84e6ef0592b6fc598679c47144"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/AK-47/AK47_Roughness.png",
+          "sha256": "ebea10558d2b63b0aabd24efad8da8f30316f8662bb9a2de0e01f6b0105034b4"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/FragGrenade/FragGrenadeModel.fbx",
+          "sha256": "5a2291975c949a4237f493a5e552f2d20f99720d13b6c649ccbde9054d7e3d54"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/FragGrenade/FragGrenade_Base_Color.png",
+          "sha256": "d720c094efc7b1c0498937f25b944bb2a0f36264957343fe5ce0178d64224aba"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/FragGrenade/FragGrenade_Height.png",
+          "sha256": "3c38b3c9e2905b2811276ab3a6177ef66280fab563641d2c2ece76b22176b052"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/FragGrenade/FragGrenade_Metallic.png",
+          "sha256": "c79f843cfdbf9561b97a3db5e76afa2438fb137f28fff44597befd4349d9a47b"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/FragGrenade/FragGrenade_Normal_DirectX.png",
+          "sha256": "1c7ca2494486da13f9f614f452611dbb5345d32d16410b5cf78bf998346ebf8a"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/FragGrenade/FragGrenade_Roughness.png",
+          "sha256": "93aff09e314588e46549ca61aa40da3ae1f72e4dbaaddd3fa4f3241f770b2d94"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/GreaseGun/Grease_Gun.fbx",
+          "sha256": "68c31ebbf1967b59d12f0ef10d5c1750522a4a7c152b8529f0c326971a0822bd"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/GreaseGun/Grease_Gun_Base_Color.png",
+          "sha256": "f4caf3bb029eb0f453984613ca609a7eee5f0c2c9188431b55885e5dabc08dcf"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/GreaseGun/Grease_Gun_Height.png",
+          "sha256": "42412f0210d6de6e9305af05ed83e357edd14c4f6b0135a70da70472439742ce"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/GreaseGun/Grease_Gun_Metallic.png",
+          "sha256": "2bd68e1aa5ea79afc4a570b088298738b89ca2586eb329ec95618cda6b0ae7f7"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/GreaseGun/Grease_Gun_Normal_DirectX.png",
+          "sha256": "2a6f4fe336a9c151f12354a298fb2bf3129fcd1c972ee6fffd96f6f4129a02c5"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/GreaseGun/Grease_Gun_Roughness.png",
+          "sha256": "cdeed4bb3ee39680530069325b3815a024e89bda693dab2b369d1a66488d1344"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Luger/Luger.fbx",
+          "sha256": "9651c96b21167b3a71dc113dfe3c37b911adcbec7bae1adfef6183e9422b7ee5"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Luger/Luger_Base_Color.png",
+          "sha256": "fed21c3f4ecbf82213ed1aabef353b9414b87cece36315591253de935ee06728"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Luger/Luger_Height.png",
+          "sha256": "57ee1928d0dc20e21a62e7231dc65343ddd70ecd14e5698ff621d4ca5528e7bc"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Luger/Luger_Metallic.png",
+          "sha256": "754cbd6be8fd31a232245af5250a70c3291926e820d552a48eb0ddfb0b37412d"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Luger/Luger_Normal_DirectX.png",
+          "sha256": "76ff0fb3d8d509b904dd621c4d77caebcd35ab448bb5b954f803f945d6b322c7"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Luger/Luger_Roughness.png",
+          "sha256": "e1f3dd6b00877673b931e98393f749b629cbcaad18a50c7369d0888ce80fb462"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/M4A1/M4A1.fbx",
+          "sha256": "d66516a3455b975027556394b9afb92a1e9093d700ccf779aab223cd6ac4076e"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/M4A1/M4A1_Base_Color.png",
+          "sha256": "e28fb02a6a1d951ec2d356fad8f267ba04da7d294bfa001eb3995549971e1b34"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/M4A1/M4A1_Height.png",
+          "sha256": "df12e21e2c5a8553bb7b5e9bee80477a123f3c5cda5cf55d50d739f69a51b904"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/M4A1/M4A1_Metallic.png",
+          "sha256": "e9cc71ff7886c552030586c650e67c78a86c8b2a812357e40edc19d5bc9426ca"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/M4A1/M4A1_Normal.png",
+          "sha256": "9da0b6da232cc676482eeb2b21fdfe04f03504a0e37407f3bbc35556335bd998"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/M4A1/M4A1_Roughness.png",
+          "sha256": "708eff9df647f0ecf258467e983052e164286d1dc579e763a6d8261074d3eb9a"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Pistol_MK/Makarov.fbx",
+          "sha256": "5ba448b9091b426405a25c0e0c6742ef4309cf79c334845cb3e3552b7be70b9c"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Pistol_MK/Makarov_Base_Color.png",
+          "sha256": "72d3caf155e5b26f58692551ccedbdcab2a40b5e78c1848f0a772916d6f13d44"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Pistol_MK/Makarov_Height.png",
+          "sha256": "9ca7cad19369c760fdbe63e2d4fe5682ea6bbd96b141d2ec01c97d80705d777e"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Pistol_MK/Makarov_Metallic.png",
+          "sha256": "7d066c9627fc402c9a93e25ea439343d79cd216f76f5654cb757f4b655c28e2c"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Pistol_MK/Makarov_Normal.png",
+          "sha256": "d5d4376abe5cf66067aa492387e0cb5bef32217be44657de7d755f756ff00190"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Pistol_MK/Makarov_Roughness.png",
+          "sha256": "2cbc0756c03ff015422b168c1eea08bf349982fc3420cb65d8a2576c014fcd5a"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Shotgun/Shotgun.fbx",
+          "sha256": "2184f1477025779f05bf4a20c72107518aa5ae8ca69b96dcd6e83d060c570932"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Shotgun/Shotgun_Base_Color.png",
+          "sha256": "16697299215a5bd2d7db97829c41f5288902be1826116a1c0a2d140474801101"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Shotgun/Shotgun_Height.png",
+          "sha256": "8aeea58f27eb9ac0d97d4c5dc1aaaabff4cb3321ebe3ceed2e75ac7cba7a4638"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Shotgun/Shotgun_Metallic.png",
+          "sha256": "e1b6afe27fe6d2ad8f9bbfc12b1e22f1dfdd0951a6bf34264496e1b98fe3cba3"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Shotgun/Shotgun_Normal_DirectX.png",
+          "sha256": "eca6b17fb887cbaf02d9a53ba2c5281bf9875773a45f6a333019a6df013087a2"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Shotgun/Shotgun_Roughness.png",
+          "sha256": "a6238046ab06d123f723e50229a292c3b1d951d9221ad07de73717c74e71442c"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Smoke_Grenade/Smoke_Grenade.fbx",
+          "sha256": "11fd11c9fc0cd9eda9290736d295c4b8ad444093cf796fbcceb601992caead1d"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Smoke_Grenade/Smoke_Grenade_Base_Color.png",
+          "sha256": "a61d9ad8fb039dc2840133489600032643d313433fa1c5a44d71a2c557849048"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Smoke_Grenade/Smoke_Grenade_Height.png",
+          "sha256": "ff313fcca77bd994b1701a994d7cfdf5694af7d55353a652672f60caf7b1021a"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Smoke_Grenade/Smoke_Grenade_Metallic.png",
+          "sha256": "2b048a47e7b1f7bc6e21cf5cbc9d7ed804c99414bf54ead557c91c7685384410"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Smoke_Grenade/Smoke_Grenade_Normal_DirectX.png",
+          "sha256": "85a7c4e7d02de44dda6ede74c0d6896c4cf8169e2f263e0fa440ed4b91041d1d"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Smoke_Grenade/Smoke_Grenade_Roughness.png",
+          "sha256": "e0aee5fc6d6ab626cc8df864e7a34790e4f01b7110152e6144b0539fa796e4d2"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Sniper/Sniper.fbx",
+          "sha256": "f039fe19d71ed3f2a99c9f22775f17410f65c05742bb9cc71db3ffc7acc1f02e"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Sniper/Sniper_Base_Color.png",
+          "sha256": "eab993defe4d5b813281cb218fa3dad1699381e1e37dc69db677dcaa01d263ea"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Sniper/Sniper_Height.png",
+          "sha256": "2d706ae84a0ee226fb5f561fa65c6e5a904388bd6775f84a2270d2945709015a"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Sniper/Sniper_Metallic.png",
+          "sha256": "7093c1d780103d19244e36150d325074c33fb0815a7bf93c775cf2e24988eb04"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Sniper/Sniper_Normal.png",
+          "sha256": "703c57a8017142a2af3f06ffb6a88177e9665841f9b8a502bce35a528a752f2e"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Sniper/Sniper_Roughness.png",
+          "sha256": "df3adefe9bb251ef1be8624f056ded9600042216e2bccd4027b42c9ed8ad0f0c"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Suomi_KP/Suomi_KP.fbx",
+          "sha256": "e382e3e0a69338bc7080f2fd46fcf478f4df172736d8bd03323e4743ba85e683"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Suomi_KP/Suomi_KP_Base_Color.png",
+          "sha256": "3096872d0f6e29c207461edd65c2dc881e750baef611b126035b09b437d96bf7"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Suomi_KP/Suomi_KP_Height.png",
+          "sha256": "21a5e6338ca95b94ef7cef25c263eb1d9a5365d6e98f11644a7815f8adbccf98"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Suomi_KP/Suomi_KP_Metallic.png",
+          "sha256": "669ced668ded8ccf7c0de86b539f457c354971dabe3e0247e86a7ae8bb6b1134"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Suomi_KP/Suomi_KP_Normal.png",
+          "sha256": "9bb87df62f639c18890405dacd3aaf49d3683c4beed5c9b989aaa8cce54c70fc"
+        },
+        {
+          "path": "content/models/weapons/source/guns_explosives/Guns&Explosives/Suomi_KP/Suomi_KP_Roughness.png",
+          "sha256": "060ea7b6873ee2987a5e492b50d35ea34a11652e61e8196aa419fc0a05bb3888"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "manual",
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "type": null
+    },
+    "service_pistol": {
+      "creator": "Mateusz Sadek",
+      "fetched_unix": 1792190506,
+      "files": [
+        {
+          "path": "content/models/weapons/source/service_pistol/service_pistol_2k.gltf",
+          "sha256": "0930deef47632f7254f1be7c0a8dc44b0376b451be5fc8cf8525be4fe064c824"
+        },
+        {
+          "path": "content/models/weapons/source/service_pistol/textures/service_pistol_arm_2k.jpg",
+          "sha256": "da6d5b10f35c10a43516e503661406513e52289ce9630cf5ce6e738b26214bba"
+        },
+        {
+          "path": "content/models/weapons/source/service_pistol/textures/service_pistol_nor_gl_2k.jpg",
+          "sha256": "118349e76f9d0433eba65e375fdbba5812f850eaa00390f6c7b54f82529dd98b"
+        },
+        {
+          "path": "content/models/weapons/source/service_pistol/service_pistol.bin",
+          "sha256": "a97b6d31ca8865384a76d31289017e25a326a67b3b254162b2a02ecbd97600bc"
+        },
+        {
+          "path": "content/models/weapons/source/service_pistol/textures/service_pistol_diff_2k.jpg",
+          "sha256": "ca680cbbc712ee2c70a337686274eb1e5aae383dbe9b99692c4eedb9e64f6cfb"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 27548,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/service_pistol",
+      "type": "model"
+    },
+    "tabasco_smallarms": {
+      "creator": "Tabasco",
+      "fetched_unix": 1792190506,
+      "files": [
+        {
+          "path": "content/models/weapons/source/tabasco_smallarms/ak47.blend",
+          "sha256": "06800fadab59b5539df5b0d3393e104933a5ce13ce5ba21af9d6e689f1f90225"
+        },
+        {
+          "path": "content/models/weapons/source/tabasco_smallarms/dragunov.blend",
+          "sha256": "ccdc960c722b58752cf33cd04f391b7fb9ea9a2352d4299c3605c409d5868eda"
+        },
+        {
+          "path": "content/models/weapons/source/tabasco_smallarms/g3a3.blend",
+          "sha256": "64ec872fc0620cc10b3ed5b197f91ff31a050a87d13faca112eaa05d3902fda5"
+        },
+        {
+          "path": "content/models/weapons/source/tabasco_smallarms/l85.blend",
+          "sha256": "9afacce625fb40804e13911fca1371106b50163146646036e1aacf15125a2250"
+        },
+        {
+          "path": "content/models/weapons/source/tabasco_smallarms/m1911.blend",
+          "sha256": "062b7ed5b6fa76c2222b4477d6c02ccac79f1639385c9c981bf742d96b97bb16"
+        },
+        {
+          "path": "content/models/weapons/source/tabasco_smallarms/m4.blend",
+          "sha256": "2f421dbe336413b4a8d34b89ca7068f1fd7d81c892aef17789d57f0ae807c3a7"
+        },
+        {
+          "path": "content/models/weapons/source/tabasco_smallarms/mosin9130.blend",
+          "sha256": "15b9a2b95811898b3bb82291fb6fc076d0a5442123f8852a1e79ccc8401ffbcf"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "url",
+      "source_page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol",
+      "type": null
+    }
+  },
+  "attachments": {
+    "angled": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/angled.gltf",
+      "sockets": {
+        "axis": [
+          0,
+          -0.6,
+          0.8
+        ],
+        "hand": [
+          0.0,
+          -0.018,
+          0.004
+        ]
+      },
+      "triangles": 628
+    },
+    "bipod": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/bipod.gltf",
+      "sockets": {},
+      "triangles": 2008
+    },
+    "compensator": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/compensator.gltf",
+      "sockets": {
+        "muzzle": [
+          0.0,
+          0.0,
+          -0.05
+        ]
+      },
+      "triangles": 868
+    },
+    "fast": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/fast.gltf",
+      "sockets": {},
+      "triangles": 376
+    },
+    "holographic": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/holographic.gltf",
+      "sockets": {
+        "eye": [
+          0.0,
+          0.045,
+          0.04
+        ],
+        "lens": [
+          0.0,
+          0.045,
+          0.0045
+        ]
+      },
+      "triangles": 1044
+    },
+    "reflex": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/reflex.gltf",
+      "sockets": {
+        "eye": [
+          0.0,
+          0.052,
+          0.025
+        ],
+        "lens": [
+          0.0,
+          0.052,
+          -0.0115
+        ]
+      },
+      "triangles": 2388
+    },
+    "scope": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/scope.gltf",
+      "sockets": {
+        "eye": [
+          0.0,
+          0.046,
+          0.18
+        ],
+        "lens": [
+          0.0,
+          0.046,
+          0.1015
+        ]
+      },
+      "triangles": 4100
+    },
+    "suppressor": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/suppressor.gltf",
+      "sockets": {
+        "muzzle": [
+          0.0,
+          0.0,
+          -0.183
+        ]
+      },
+      "triangles": 1052
+    },
+    "vertical": {
+      "creator": "FPS Mode (generated by tools/blender/build_attachments.py)",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/attachments/vertical.gltf",
+      "sockets": {
+        "axis": [
+          0,
+          -1,
+          0
+        ],
+        "hand": [
+          0.0,
+          -0.06,
+          0.0
+        ]
+      },
+      "triangles": 2088
+    }
+  },
+  "grenades": {
+    "grenade_frag": {
+      "base_model": "fragmentation grenade",
+      "creator": "3DModelsCC0",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/grenade_frag.gltf",
+      "size_m": [
+        0.0544,
+        0.0635,
+        0.1018
+      ],
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "triangles": 3642
+    },
+    "grenade_smoke": {
+      "base_model": "smoke grenade",
+      "creator": "3DModelsCC0",
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/grenade_smoke.gltf",
+      "size_m": [
+        0.0653,
+        0.0749,
+        0.1513
+      ],
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "triangles": 2810
+    }
+  },
+  "weapons": {
+    "ar_a4": {
+      "action": "closed",
+      "base_model": "M4A1 carbine",
+      "creator": "3DModelsCC0",
+      "display_name": "A4 Carbine",
+      "grip_pose": "pistol",
+      "length_m": 0.8588,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/ar_a4.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "RearSight",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.02034,
+            0.42942
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.02364,
+            0.04943,
+            0.06344
+          ]
+        },
+        "grip": {
+          "angle_deg": 17.42,
+          "position": [
+            -0.00091,
+            -0.04706,
+            0.17844
+          ],
+          "trigger": [
+            -0.00091,
+            -0.00206,
+            0.13239
+          ]
+        },
+        "magwell": {
+          "length": 0.1844,
+          "position": [
+            -0.00091,
+            0.0512,
+            0.06198
+          ]
+        },
+        "muzzle": {
+          "position": [
+            -0.00101,
+            0.066,
+            -0.42942
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.09636,
+            0.10239
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.12172,
+            -0.23058
+          ],
+          "position": [
+            0.0,
+            0.12496,
+            0.17342
+          ],
+          "rear_top": 0.1275,
+          "relief": 0.14
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.06544,
+            -0.11261
+          ],
+          "radius": 0.0309
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "handguard",
+      "triangles": {
+        "lod": 4399,
+        "view": 9236
+      },
+      "variant": ""
+    },
+    "ar_b56": {
+      "action": "closed",
+      "base_model": "M4A1 carbine",
+      "creator": "3DModelsCC0",
+      "display_name": "B56 Carbine",
+      "grip_pose": "pistol",
+      "length_m": 0.8588,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/ar_b56.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "RearSight",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.02034,
+            0.42942
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.02364,
+            0.04943,
+            0.06344
+          ]
+        },
+        "grip": {
+          "angle_deg": 17.42,
+          "position": [
+            -0.00091,
+            -0.04706,
+            0.17844
+          ],
+          "trigger": [
+            -0.00091,
+            -0.00206,
+            0.13239
+          ]
+        },
+        "magwell": {
+          "length": 0.1844,
+          "position": [
+            -0.00091,
+            0.0512,
+            0.06198
+          ]
+        },
+        "muzzle": {
+          "position": [
+            -0.00101,
+            0.066,
+            -0.42942
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.09636,
+            0.10239
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.12172,
+            -0.23058
+          ],
+          "position": [
+            0.0,
+            0.12496,
+            0.17342
+          ],
+          "rear_top": 0.1275,
+          "relief": 0.14
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.06544,
+            -0.11261
+          ],
+          "radius": 0.0309
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "handguard",
+      "triangles": {
+        "lod": 4399,
+        "view": 9236
+      },
+      "variant": "M4A1 with flat dark earth furniture"
+    },
+    "ar_k47": {
+      "action": "reciprocating",
+      "base_model": "AK-47 rifle",
+      "creator": "3DModelsCC0",
+      "display_name": "K47 Rifle",
+      "grip_pose": "pistol",
+      "length_m": 0.8765,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/ar_k47.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.0335,
+            0.43826
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.01997,
+            0.08999,
+            0.01237
+          ]
+        },
+        "grip": {
+          "angle_deg": 20.0,
+          "position": [
+            0.0,
+            -0.01514,
+            0.17907
+          ],
+          "trigger": [
+            -0.00463,
+            0.02986,
+            0.11907
+          ]
+        },
+        "magwell": {
+          "length": 0.1841,
+          "position": [
+            -0.00463,
+            0.05502,
+            0.02359
+          ]
+        },
+        "muzzle": {
+          "position": [
+            -0.00463,
+            0.07144,
+            -0.43826
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.08338,
+            0.08907
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.12859,
+            -0.40574
+          ],
+          "position": [
+            0.0,
+            0.12859,
+            -0.03774
+          ],
+          "rear_top": 0.1225
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.08782,
+            -0.10093
+          ],
+          "radius": 0.0306
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "handguard",
+      "triangles": {
+        "lod": 4400,
+        "view": 4801
+      },
+      "variant": ""
+    },
+    "dmr_d14": {
+      "action": "bolt",
+      "base_model": "scoped bolt-action rifle",
+      "creator": "3DModelsCC0",
+      "display_name": "D14 Marksman",
+      "grip_pose": "stock",
+      "length_m": 1.1438,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/dmr_d14.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.0,
+            0.5719
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.02495,
+            0.06628,
+            0.19102
+          ]
+        },
+        "grip": {
+          "angle_deg": 60.07,
+          "position": [
+            0.0,
+            -0.00138,
+            0.27114
+          ],
+          "trigger": [
+            -0.00762,
+            0.01359,
+            0.19614
+          ]
+        },
+        "magwell": {
+          "length": 0.0842,
+          "position": [
+            -0.0098,
+            0.00748,
+            0.10532
+          ]
+        },
+        "muzzle": {
+          "position": [
+            -0.01029,
+            0.04253,
+            -0.5719
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.0873,
+            0.17614
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.1068,
+            -0.5319
+          ],
+          "position": [
+            0.0,
+            0.1068,
+            0.1799
+          ],
+          "rear_top": 0.0842
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.02859,
+            -0.06386
+          ],
+          "radius": 0.025
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "handguard",
+      "triangles": {
+        "lod": 3470,
+        "view": 3470
+      },
+      "variant": "bolt-action rifle with the integrated scope removed (irons or rail optics)"
+    },
+    "lmg_l56": {
+      "action": "closed",
+      "base_model": "M4A1 carbine",
+      "creator": "3DModelsCC0",
+      "display_name": "L56 Support",
+      "grip_pose": "pistol",
+      "length_m": 0.9588,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/lmg_l56.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "RearSight",
+        "LOD"
+      ],
+      "sockets": {
+        "bipod": {
+          "position": [
+            0.0,
+            0.0202,
+            -0.19761
+          ]
+        },
+        "butt": {
+          "position": [
+            0.0,
+            0.0,
+            0.47942
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.02379,
+            0.0291,
+            0.11344
+          ]
+        },
+        "grip": {
+          "angle_deg": 17.42,
+          "position": [
+            -0.00076,
+            -0.06739,
+            0.22844
+          ],
+          "trigger": [
+            -0.00076,
+            -0.02239,
+            0.18239
+          ]
+        },
+        "magwell": {
+          "length": 0.1422,
+          "position": [
+            0.0,
+            0.03086,
+            0.10682
+          ]
+        },
+        "muzzle": {
+          "position": [
+            -0.00085,
+            0.04566,
+            -0.47942
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.07602,
+            0.15239
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.10138,
+            -0.18458
+          ],
+          "position": [
+            0.0,
+            0.10467,
+            0.22342
+          ],
+          "rear_top": 0.1072,
+          "relief": 0.14
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.0451,
+            -0.06261
+          ],
+          "radius": 0.0309
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "handguard",
+      "triangles": {
+        "lod": 4399,
+        "view": 9944
+      },
+      "variant": "M4A1 heavy-barrel automatic rifle with drum magazine and bipod"
+    },
+    "lmg_l762": {
+      "action": "reciprocating",
+      "base_model": "AK-47 rifle",
+      "creator": "3DModelsCC0",
+      "display_name": "L762 Support",
+      "grip_pose": "pistol",
+      "length_m": 1.0165,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/lmg_l762.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "bipod": {
+          "position": [
+            0.0,
+            0.00892,
+            -0.19093
+          ]
+        },
+        "butt": {
+          "position": [
+            0.0,
+            0.01256,
+            0.50826
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.02205,
+            0.06905,
+            0.08237
+          ]
+        },
+        "grip": {
+          "angle_deg": 20.0,
+          "position": [
+            0.0,
+            -0.03608,
+            0.24907
+          ],
+          "trigger": [
+            -0.00255,
+            0.00892,
+            0.18907
+          ]
+        },
+        "magwell": {
+          "length": 0.1422,
+          "position": [
+            0.0,
+            0.03408,
+            0.05413
+          ]
+        },
+        "muzzle": {
+          "position": [
+            -0.00255,
+            0.0505,
+            -0.50826
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.06041,
+            0.15907
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.10138,
+            -0.47974
+          ],
+          "position": [
+            0.0,
+            0.10138,
+            0.03226
+          ],
+          "rear_top": 0.1016
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.06688,
+            -0.03093
+          ],
+          "radius": 0.0306
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "handguard",
+      "triangles": {
+        "lod": 4399,
+        "view": 5801
+      },
+      "variant": "AK light machine gun (RPK pattern) with drum magazine and bipod"
+    },
+    "pistol_p45": {
+      "action": "slide",
+      "base_model": "Makarov PM pistol",
+      "creator": "3DModelsCC0",
+      "display_name": "PM Combat",
+      "grip_pose": "pistol",
+      "length_m": 0.1685,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/pistol_p45.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.001,
+            0.08423
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.01286,
+            0.04917,
+            0.02078
+          ]
+        },
+        "grip": {
+          "angle_deg": 14.21,
+          "position": [
+            0.00052,
+            -0.02983,
+            0.058
+          ],
+          "trigger": [
+            0.00077,
+            0.01517,
+            5e-05
+          ]
+        },
+        "magwell": {
+          "length": 0.1066,
+          "position": [
+            -0.00015,
+            0.04292,
+            0.04287
+          ]
+        },
+        "muzzle": {
+          "position": [
+            0.00052,
+            0.05131,
+            -0.08423
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.05494,
+            -0.02995
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.06217,
+            -0.07577
+          ],
+          "position": [
+            0.0,
+            0.05981,
+            0.06023
+          ],
+          "rear_top": 0.0608
+        },
+        "support": {
+          "position": [
+            0.00052,
+            -0.02983,
+            0.058
+          ],
+          "radius": 0.016
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "pistol",
+      "triangles": {
+        "lod": 3991,
+        "view": 3991
+      },
+      "variant": ""
+    },
+    "pistol_p9": {
+      "action": "slide",
+      "base_model": "9 mm service pistol",
+      "creator": "Poly Haven",
+      "display_name": "P9 Duty",
+      "grip_pose": "pistol",
+      "length_m": 0.2219,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/pistol_p9.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.001,
+            0.11096
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.01326,
+            0.05137,
+            0.04769
+          ]
+        },
+        "grip": {
+          "angle_deg": 7.61,
+          "position": [
+            -0.00017,
+            -0.03551,
+            0.0742
+          ],
+          "trigger": [
+            -0.00035,
+            0.00949,
+            0.00957
+          ]
+        },
+        "magwell": {
+          "length": 0.1161,
+          "position": [
+            -0.00072,
+            0.05032,
+            0.06134
+          ]
+        },
+        "muzzle": {
+          "position": [
+            -0.00035,
+            0.05003,
+            -0.11096
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.05571,
+            -0.02043
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.06403,
+            -0.10104
+          ],
+          "position": [
+            0.0,
+            0.0626,
+            0.06296
+          ],
+          "rear_top": 0.0636
+        },
+        "support": {
+          "position": [
+            -0.00017,
+            -0.03551,
+            0.0742
+          ],
+          "radius": 0.016
+        }
+      },
+      "source_page": "https://polyhaven.com/a/service_pistol",
+      "support_pose": "pistol",
+      "triangles": {
+        "lod": 4400,
+        "view": 16650
+      },
+      "variant": ""
+    },
+    "pistol_r357": {
+      "action": "slide",
+      "base_model": "Luger P08 pistol",
+      "creator": "3DModelsCC0",
+      "display_name": "L08 Luger",
+      "grip_pose": "pistol",
+      "length_m": 0.2389,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/pistol_r357.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.001,
+            0.11805
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.01411,
+            0.06661,
+            0.08468
+          ]
+        },
+        "grip": {
+          "angle_deg": 35.24,
+          "position": [
+            0.00087,
+            -0.0242,
+            0.09266
+          ],
+          "trigger": [
+            0.00087,
+            0.0208,
+            -0.00348
+          ]
+        },
+        "magwell": {
+          "length": 0.1116,
+          "position": [
+            -9e-05,
+            0.03547,
+            0.04722
+          ]
+        },
+        "muzzle": {
+          "position": [
+            0.00087,
+            0.06171,
+            -0.11943
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.06651,
+            -0.03348
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.07242,
+            -0.11395
+          ],
+          "position": [
+            0.0,
+            0.07193,
+            0.10205
+          ],
+          "rear_top": 0.0729
+        },
+        "support": {
+          "position": [
+            0.00087,
+            -0.0242,
+            0.09266
+          ],
+          "radius": 0.016
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "pistol",
+      "triangles": {
+        "lod": 4400,
+        "view": 4970
+      },
+      "variant": ""
+    },
+    "sg_a12": {
+      "action": "pump",
+      "base_model": "pump-action shotgun",
+      "creator": "3DModelsCC0",
+      "display_name": "A12 Tactical",
+      "grip_pose": "stock",
+      "length_m": 0.9618,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/sg_a12.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Pump",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.0,
+            0.48092
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.01541,
+            0.09539,
+            -0.07429
+          ]
+        },
+        "grip": {
+          "angle_deg": 61.04,
+          "position": [
+            0.0,
+            0.0565,
+            0.13078
+          ],
+          "trigger": [
+            0.0,
+            0.02024,
+            0.05578
+          ]
+        },
+        "magwell": {
+          "length": 0.0,
+          "position": [
+            0.0,
+            0.04024,
+            0.02578
+          ]
+        },
+        "muzzle": {
+          "position": [
+            0.0,
+            0.0574,
+            -0.48092
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.10224,
+            -0.00422
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.11208,
+            -0.42708
+          ],
+          "position": [
+            0.0,
+            0.11324,
+            -0.13908
+          ],
+          "rear_top": 0.1157
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.0574,
+            -0.38918
+          ],
+          "radius": 0.0281
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "pump",
+      "triangles": {
+        "lod": 1740,
+        "view": 1740
+      },
+      "variant": "short-barrel shotgun with black synthetic furniture"
+    },
+    "sg_p12": {
+      "action": "pump",
+      "base_model": "pump-action shotgun",
+      "creator": "3DModelsCC0",
+      "display_name": "P12 Pump",
+      "grip_pose": "stock",
+      "length_m": 1.2192,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/sg_p12.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Pump",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.0,
+            0.60959
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.01541,
+            0.09539,
+            0.05438
+          ]
+        },
+        "grip": {
+          "angle_deg": 61.04,
+          "position": [
+            0.0,
+            0.0565,
+            0.25945
+          ],
+          "trigger": [
+            0.0,
+            0.02024,
+            0.18445
+          ]
+        },
+        "magwell": {
+          "length": 0.0,
+          "position": [
+            0.0,
+            0.04024,
+            0.15445
+          ]
+        },
+        "muzzle": {
+          "position": [
+            0.0,
+            0.09826,
+            -0.60959
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.10224,
+            0.12445
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.11944,
+            -0.58241
+          ],
+          "position": [
+            0.0,
+            0.11944,
+            -0.01041
+          ],
+          "rear_top": 0.1157
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.0574,
+            -0.26051
+          ],
+          "radius": 0.0281
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "pump",
+      "triangles": {
+        "lod": 1740,
+        "view": 1740
+      },
+      "variant": ""
+    },
+    "smg_mp9": {
+      "action": "closed",
+      "base_model": "M3 submachine gun",
+      "creator": "3DModelsCC0",
+      "display_name": "M3 Grease Gun",
+      "grip_pose": "pistol",
+      "length_m": 0.6271,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/smg_mp9.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.06091,
+            0.31353
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.00291,
+            0.15323,
+            -0.02442
+          ]
+        },
+        "grip": {
+          "angle_deg": 20.0,
+          "position": [
+            0.0,
+            -0.00891,
+            0.20006
+          ],
+          "trigger": [
+            0.00101,
+            0.03609,
+            0.14006
+          ]
+        },
+        "magwell": {
+          "length": 0.281,
+          "position": [
+            0.00101,
+            0.11394,
+            -0.06483
+          ]
+        },
+        "muzzle": {
+          "position": [
+            0.00101,
+            0.11268,
+            -0.31353
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.0934,
+            0.07006
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.14697,
+            -0.09447
+          ],
+          "position": [
+            0.0,
+            0.15346,
+            0.20153
+          ],
+          "rear_top": 0.156,
+          "relief": 0.14
+        },
+        "support": {
+          "position": [
+            0.00101,
+            0.04394,
+            -0.06484
+          ],
+          "radius": 0.0215
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "magwell",
+      "triangles": {
+        "lod": 4400,
+        "view": 7721
+      },
+      "variant": ""
+    },
+    "smg_p90": {
+      "action": "reciprocating",
+      "base_model": "Suomi KP/-31 submachine gun",
+      "creator": "3DModelsCC0",
+      "display_name": "KP31 Drum SMG",
+      "grip_pose": "stock",
+      "length_m": 0.8749,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/smg_p90.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.0,
+            0.43745
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.0129,
+            0.06973,
+            -0.07383
+          ]
+        },
+        "grip": {
+          "angle_deg": 50.25,
+          "position": [
+            0.0,
+            0.0315,
+            0.15817
+          ],
+          "trigger": [
+            0.0,
+            0.00094,
+            0.08317
+          ]
+        },
+        "magwell": {
+          "length": 0.1422,
+          "position": [
+            0.0,
+            0.0571,
+            -0.09005
+          ]
+        },
+        "muzzle": {
+          "position": [
+            0.0,
+            0.06731,
+            -0.43745
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.10015,
+            0.03317
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.09951,
+            -0.41855
+          ],
+          "position": [
+            0.0,
+            0.09951,
+            0.03745
+          ],
+          "rear_top": 0.0994
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.05419,
+            -0.11683
+          ],
+          "radius": 0.0308
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "handguard",
+      "triangles": {
+        "lod": 4400,
+        "view": 9208
+      },
+      "variant": ""
+    },
+    "smg_v45": {
+      "action": "closed",
+      "base_model": "M3 submachine gun",
+      "creator": "3DModelsCC0",
+      "display_name": "V45 Grease Gun",
+      "grip_pose": "pistol",
+      "length_m": 0.6271,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/smg_v45.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Magazine",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.06091,
+            0.31353
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.00291,
+            0.15323,
+            -0.02442
+          ]
+        },
+        "grip": {
+          "angle_deg": 20.0,
+          "position": [
+            0.0,
+            -0.00891,
+            0.20006
+          ],
+          "trigger": [
+            0.00101,
+            0.03609,
+            0.14006
+          ]
+        },
+        "magwell": {
+          "length": 0.281,
+          "position": [
+            0.00101,
+            0.11394,
+            -0.06483
+          ]
+        },
+        "muzzle": {
+          "position": [
+            0.00101,
+            0.11268,
+            -0.31353
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.0934,
+            0.07006
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.14697,
+            -0.09447
+          ],
+          "position": [
+            0.0,
+            0.15346,
+            0.20153
+          ],
+          "rear_top": 0.156,
+          "relief": 0.14
+        },
+        "support": {
+          "position": [
+            0.00101,
+            0.04394,
+            -0.06484
+          ],
+          "radius": 0.0215
+        }
+      },
+      "source_page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "support_pose": "magwell",
+      "triangles": {
+        "lod": 4400,
+        "view": 7721
+      },
+      "variant": "M3 with olive-drab Cerakote finish"
+    },
+    "sniper_s90": {
+      "action": "bolt",
+      "base_model": "7.62 mm bolt-action rifle",
+      "creator": "Poly Haven",
+      "display_name": "S90 Precision",
+      "grip_pose": "stock",
+      "length_m": 1.231,
+      "license": "CC0-1.0",
+      "model": "res://content/models/weapons/sniper_s90.gltf",
+      "nodes": [
+        "Body",
+        "Bolt",
+        "Scope",
+        "LOD"
+      ],
+      "sockets": {
+        "butt": {
+          "position": [
+            0.0,
+            0.0,
+            0.61549
+          ]
+        },
+        "ejection": {
+          "position": [
+            0.03329,
+            0.05125,
+            0.21096
+          ]
+        },
+        "grip": {
+          "angle_deg": 70.04,
+          "position": [
+            0.0,
+            0.00269,
+            0.3455
+          ],
+          "trigger": [
+            -0.00691,
+            -0.00782,
+            0.2705
+          ]
+        },
+        "magwell": {
+          "length": 0.0,
+          "position": [
+            0.0,
+            0.01218,
+            0.2405
+          ]
+        },
+        "muzzle": {
+          "position": [
+            -0.00693,
+            0.05746,
+            -0.61549
+          ]
+        },
+        "optic_rail": {
+          "position": [
+            0.0,
+            0.06734,
+            0.2505
+          ]
+        },
+        "scope_eye": {
+          "position": [
+            -0.00741,
+            0.09249,
+            0.24131
+          ]
+        },
+        "sight": {
+          "front": [
+            0.0,
+            0.05876,
+            -0.55651
+          ],
+          "position": [
+            0.0,
+            0.07176,
+            0.13949
+          ],
+          "rear_top": 0.0743
+        },
+        "support": {
+          "position": [
+            0.0,
+            0.06607,
+            0.0205
+          ],
+          "radius": 0.0143
+        }
+      },
+      "source_page": "https://polyhaven.com/a/bolt_action_rifle_7_62",
+      "support_pose": "handguard",
+      "triangles": {
+        "lod": 4400,
+        "view": 19365
+      },
+      "variant": ""
+    }
+  }
+}

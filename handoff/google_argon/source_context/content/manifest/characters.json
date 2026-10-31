@@ -1,0 +1,971 @@
+{
+  "assets": {
+    "mixamo_pro_rifle": {
+      "creator": "Adobe Mixamo",
+      "fetched_unix": 1792187500,
+      "filename": "Pro Rifle Pack.zip",
+      "files": [
+        {
+          "path": ".tools/character-source/pro_rifle/crouching turn 90 left.fbx",
+          "sha256": "4d30bbd63a14e2744c63b52e45a8d0ce480faff394ed0f651e751cd4da52df12"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/crouching turn 90 right.fbx",
+          "sha256": "3da4be48446126c0362caa34c08e30636e8f49aca24f3a38f14d000b25ea73b0"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/death crouching headshot front.fbx",
+          "sha256": "fe41f028e90d1ac0ec7604977cd3b91e54b03b8eb627d4a31795d3f692d6183e"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/death from back headshot.fbx",
+          "sha256": "304816e3d52c7e035c066cccf9a0800bf8aa2318eb7058efe2706405cf21ac1d"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/death from front headshot.fbx",
+          "sha256": "ae678de994c522de7a975b5cd516a7bf282ae543d76586c1a337e3466f114538"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/death from right.fbx",
+          "sha256": "0f34740b7a647578ca8214de7186b99c3fc7d6e946edd0f4b3e9d91cebc2faa1"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/death from the back.fbx",
+          "sha256": "43435935d6f95a9bd9c6082f09baf94b13c9e7f38e5ae8bfbae89e08026a9192"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/death from the front.fbx",
+          "sha256": "dce9eda52babbc028b3a640354c7bb5f77a64107646138aa1ff53cc12f42826b"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/idle aiming.fbx",
+          "sha256": "f5b6be5bb2e24ff2a01872373f880d02ea6e9576133cb2318d16c6095ade0d96"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/idle crouching aiming.fbx",
+          "sha256": "199f5e57ef593ad279abad6c3833e7fc7204a7ed8ab3a4d0f76f8ae95107e6ee"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/idle crouching.fbx",
+          "sha256": "05f1f016982b013a9a328edeff83b33b677e7a4af1ad3349e5dca6875da87f6f"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/idle.fbx",
+          "sha256": "87e98957b4e77c991582f03fd3e2524dfe808ede924c37040080692854abe017"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/jump down.fbx",
+          "sha256": "24a78fa095a30694dae164f6f134e5a6977e7f53750220ce331097a3297359f7"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/jump loop.fbx",
+          "sha256": "dd6b97134f15566016184c76ddc03606a959f0849ea2a58d44fc4fa2373e1266"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/jump up.fbx",
+          "sha256": "727ee0846b6a715b59d6a8a3a802402dbad2c72ad59044ad4aaef247cc9cabc6"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/run backward left.fbx",
+          "sha256": "142f0d5a52d1e795a118c410138f8e76ee0767396d70890f09baf4c1e17c26f4"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/run backward right.fbx",
+          "sha256": "c5a14686389558293374a4398d0c39516b2f92291b3f542ffe53cb6d30204cf0"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/run backward.fbx",
+          "sha256": "769323d1c5bf7e4ce27fe5e1b361c41662603e0250037dd4d9cefb3aba2a9005"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/run forward left.fbx",
+          "sha256": "28d0f8fdb610dd33f7b4884eb600d8cb8a5349fd1dcb6922c5d6fcb4f5affd35"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/run forward right.fbx",
+          "sha256": "27a29ff4d693c94886fb460d4db24e72c5f47b2c8d566003be4ba9ea3180130b"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/run forward.fbx",
+          "sha256": "c23b64c37afbea641b2978ee64a09ef3b3d873e379ee6e2de9075f64e975a0a6"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/run left.fbx",
+          "sha256": "4f59ecf1173fcfdd8eca748b67b7aa4a781127e981f356b93df296a1edf89f63"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/run right.fbx",
+          "sha256": "175c4218b1acbe883af7eb04b0a3a7b9d0e2bf43a66c24c8102281679868fc83"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/sprint backward left.fbx",
+          "sha256": "341a4a9c7c429047a97e0d89bbe8cb22a075fd2749b1b369e01d522c2c09ea2b"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/sprint backward right.fbx",
+          "sha256": "5cb6e3bfa310a32644674762174615a936c6c38c9bc36d0c3838a794e8688e0d"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/sprint backward.fbx",
+          "sha256": "b5822a0fcbab182a4c97f2687cd70563121c6d11e9b1848c31291b04b721bc17"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/sprint forward left.fbx",
+          "sha256": "5544cd46128b1947707281e61a3cec1265ccec7c92e670aa2a3c98ae27c27800"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/sprint forward right.fbx",
+          "sha256": "170fd3ed21a75627faa59a9f4432966e444f93c4289dbdf7eb5a91d7bcb63dbd"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/sprint forward.fbx",
+          "sha256": "8be96d9ffedae9f8692774000e8499d600136e20f4144273a9513c3f767f11f6"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/sprint left.fbx",
+          "sha256": "44d4ae6ffeaab9be480ce7f478f752e848f123623418aca75bbd956e98c7b7d5"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/sprint right.fbx",
+          "sha256": "7c79369827a2d29e9475cd4ebd776ebc1ca5a64340f36994453e047be97a8055"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/turn 90 left.fbx",
+          "sha256": "d296b0d50fa30551f19f27ad5bf75c62d08074fe2e587642e5d2a1ee494998ca"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/turn 90 right.fbx",
+          "sha256": "6d6022e5a5d92d0beac3d1a07d207d9402138ef22558b3ad0e5ddceefbbad14b"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk backward left.fbx",
+          "sha256": "b29e6f4cc6b3a136b6f9d5f973a5c1ef8281c1e4458e15123facefa9bd69c765"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk backward right.fbx",
+          "sha256": "deb29d72f5bb43756f86af69f7a21fe1264d81e2584e1f4fa788820ea8676ccd"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk backward.fbx",
+          "sha256": "6b99bfc336a6b439968c2b6b61ebada503f4b979ccb558086a40ae1b60ec7ef1"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk crouching backward left.fbx",
+          "sha256": "803750242fc069cc4746e21d06533198490aab52a7db341d2c9b49f1f207d8ca"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk crouching backward right.fbx",
+          "sha256": "c118828d0f147464570304b8333c23b7bb2f81fa01c80a0e78b6e28ebcffe90e"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk crouching backward.fbx",
+          "sha256": "c4a38261dd4c66d6ffb4df2407aa8c278b33aec6c9e2fb8f31ab821edb95d202"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk crouching forward left.fbx",
+          "sha256": "b28f7e750e8b3040465dbd9935b86dde7f6d953f3aa83f549b31872a4b6f7b1f"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk crouching forward right.fbx",
+          "sha256": "bbe66941783b4bf249cae36d95ba0ef58d0b2472b1c4bd45e72d30fc7ffdc87b"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk crouching forward.fbx",
+          "sha256": "723ce09d60dabac374ad139b2433618db7a5b3aad921e789adeb53a4c8de7405"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk crouching left.fbx",
+          "sha256": "299aa14729bf5e6beddeff7a88b2fa16d89d07d6e5f5bc82705d350d77337612"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk crouching right.fbx",
+          "sha256": "2b3d5cec89cf810b8c3f84f858220e867464e3343bc77085855df435542d73c4"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk forward left.fbx",
+          "sha256": "ff14677a6bcd041d889fafb82f978ba46a9c607d3dd86fd6ab57e88172661d49"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk forward right.fbx",
+          "sha256": "3506b9d40fae4286534bbc408c2e956d6aff8fd4da5702121fe37ae5b8c91c54"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk forward.fbx",
+          "sha256": "110b912ef52b53b7f4710a315de386d356f33e62668a5a53c53910387e2d789d"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk left.fbx",
+          "sha256": "a661b309b829d3bf2ad922294981970ea72941a8bcdf791811325eb1a4b6520b"
+        },
+        {
+          "path": ".tools/character-source/pro_rifle/walk right.fbx",
+          "sha256": "f1d487b581a59336accb55e3896c2c7531e148c4e52952b553971d2a587efaf9"
+        }
+      ],
+      "license": "Mixamo terms (Adobe): royalty-free use in games; raw files must not be redistributed",
+      "source": "manual",
+      "source_page": "https://www.mixamo.com/#/?page=1&query=pro%20rifle&type=MotionPack",
+      "type": "animation"
+    },
+    "mixamo_rifle_8way": {
+      "creator": "Adobe Mixamo",
+      "fetched_unix": 1792187499,
+      "filename": "Rifle 8-Way Locomotion Pack.zip",
+      "files": [
+        {
+          "path": ".tools/character-source/rifle_8way/crouching turn 90 left.fbx",
+          "sha256": "61af6f89acb4146c9f87c52100d15b54f5c1c75ba46d01eafff16362b9349a33"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/crouching turn 90 right.fbx",
+          "sha256": "5555ea764de3ec94bf8b6878053193e8785319868b21828b98f55b19f95fc923"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/death crouching headshot front.fbx",
+          "sha256": "7586eac48b4e1b3c7f06ad85642b9031e4d9cedfdbc3036b7887e37af308289b"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/death from back headshot.fbx",
+          "sha256": "7fd2a9d27e040e0385f9b57c947cb88f26043ea6bd97a8bca347faaf13e856e5"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/death from front headshot.fbx",
+          "sha256": "8cb9b9d137a370c69773eed4ea54c31c20b85780c060592e77e06e80877879e8"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/death from right.fbx",
+          "sha256": "37f1228d5b83c44b5afb55acfb74b9c62f54cc03349a97255844405e71a80b6e"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/death from the back.fbx",
+          "sha256": "00637468fdadf9f91f0a88e58d99ff025c7ce225d803175ffe035b2d868f35fd"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/death from the front.fbx",
+          "sha256": "6d5ceb6ac1367abb7734b3efb32a7d93b121894d28f6a8315cc40cbf9f704069"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/idle aiming.fbx",
+          "sha256": "0850a646b25ee0404b245c85fb75e5b40685e1a83289c3443fa7af88c4c22a83"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/idle crouching aiming.fbx",
+          "sha256": "16a9d0ac91215553104e8f63c38680701142655c61415ff1efdb90356d8fa00a"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/idle crouching.fbx",
+          "sha256": "1c0a8483259493e491f74a813234eed6284fef45b96fdd0e32afc96284ec8c1a"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/idle.fbx",
+          "sha256": "7f9643fd7fa3d686a0818a32ab1ea580c5cd1d4717007407756c9cbe15ed414f"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/jump down.fbx",
+          "sha256": "6ac84967630a87788548e98063af840e681111edffd78b87efd4968619925791"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/jump loop.fbx",
+          "sha256": "cf94490595f5bc812a3e0a704e10e655e0cbac88badaf36a2cdefdcd40b61787"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/jump up.fbx",
+          "sha256": "f790bdad15a10cbd2cd8030251a096f6a12630f44ab8a41f5bb974f9eedb1de9"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/run backward left.fbx",
+          "sha256": "e65c3bda81953c7a52aeccd77f528eb571e67120df29d42adc8a843df0ca1038"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/run backward right.fbx",
+          "sha256": "20a545147c6d0f0dce9c7ae4a06c76abf52a105b2abe33a684ae48f2c2ef5e6e"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/run backward.fbx",
+          "sha256": "9aaa586b4ad73ccede57899a275f6313d2d7449476242adab43a1df1f92bacaa"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/run forward left.fbx",
+          "sha256": "2fcc578f2a7c31060fa08b13609eb55b84997940237a429bf61622d607505cbc"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/run forward right.fbx",
+          "sha256": "669d6caad62ee123b19fae78091c5bf3659b7f7d50d0000a4be82786729d4b59"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/run forward.fbx",
+          "sha256": "d4ae8873e37d29712ae3f14de00d0a45a127c64420a132f5d54afa21d9fd77d4"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/run left.fbx",
+          "sha256": "247588b7b5498b3e65066ed69550cfd959c6288d3a8fb548d955861adadb9b77"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/run right.fbx",
+          "sha256": "4543b3e2b1f09460bafcbc3fa14feab55b91b2af683de3417d8c8278352137eb"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/sprint backward left.fbx",
+          "sha256": "784fe041e48555a0e49a9eed896646463073abcf8ace0ac7e2c86178a2f08e86"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/sprint backward right.fbx",
+          "sha256": "ac779a4bbffd7582bda9014d9baf2c70b1c7989e426e2df26915f2acca398732"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/sprint backward.fbx",
+          "sha256": "cae4eb0e55dfa3c79b1d2d874f8954b4264e64c66a05c6f4a4377958540ecb33"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/sprint forward left.fbx",
+          "sha256": "ec36a16d8b779d19bba126415bdce5d77e98da8f68c4764410004446c10d21a7"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/sprint forward right.fbx",
+          "sha256": "102d7fa6d596ccabed930cd84ac00c24d739c460e26f92054890b89e47e5e72f"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/sprint forward.fbx",
+          "sha256": "cd97d85dd837623a8f89bd6bfe6aa65a9bd510967ba2afc1d80990ec42b5d770"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/sprint left.fbx",
+          "sha256": "8830bcf8fff672ea5c92374b547a4e4c66cd421dd805adb369d10f266cf85039"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/sprint right.fbx",
+          "sha256": "7cd55af3152c5b10e0b91961bfa9eaddb7bd7704486da2b9ef79f94b4b1c4572"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/turn 90 left.fbx",
+          "sha256": "c8de21c5589b563fca457c235f95e5636be8625b8d11caf38298fd2dfb6c3934"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/turn 90 right.fbx",
+          "sha256": "b213cf7a266bfe9af0339a7e1ea583e898f05c62868a6212bb239f480f04f503"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk backward left.fbx",
+          "sha256": "ba1fcadf78fb413b99cc82817aad7a9f5c643fdb81531045d40351998267ecc0"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk backward right.fbx",
+          "sha256": "9071577612d4b7f77fa0f82a7453675c4b7e64273cdb8f33a6068b65b902a9bb"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk backward.fbx",
+          "sha256": "33886c3559b21b070d374cb6b1d2bace28bf0a90401c1bbd9c121ec7f5c6bdc5"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk crouching backward left.fbx",
+          "sha256": "8d5aacbef1af48aecf667d21e2418aeac09c436a3e31b0bdcf20f9cfad2e7861"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk crouching backward right.fbx",
+          "sha256": "c9e88a01d944a1e5931ed8d7cbc8ae0e51cb19563afbe167c2f3f8d4f1455411"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk crouching backward.fbx",
+          "sha256": "67bda8d6b63acff1b4dd386e98a016a7f155bc110503c8e8bfca0ec2eca13f01"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk crouching forward left.fbx",
+          "sha256": "8a20834ac153939331ebff95991b733058d4381762027c1a253c7741ec47ff50"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk crouching forward right.fbx",
+          "sha256": "b42b057a97c7d41f931fb9a2e77282ff3a269bcff4fdf60fd0f2ac9610a469d5"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk crouching forward.fbx",
+          "sha256": "9605d862d58836e3327a8714b1ef117345a05c68f3ee881c43caa44b56e73e6c"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk crouching left.fbx",
+          "sha256": "05b6bed2fd23f784cd1b94408826ce14149a3f61b1ba602c80b25214ab2b9499"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk crouching right.fbx",
+          "sha256": "77af1ec44f92b38cf63ecfa1a119212e8721d337f926818ed0b628b2e658bf5d"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk forward left.fbx",
+          "sha256": "1fbfbc28a6d293bb0901b1484cdc3764b16b45a8b6bcfb45a2f4e0020657b710"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk forward right.fbx",
+          "sha256": "d4dbf6c6f6d757e132abb68ec54515e3387880e16849758f24b028810be08877"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk forward.fbx",
+          "sha256": "3e7db502f2b6352ef346f17aa784272e43cc6bcacb91eaa8269d1ec15906843f"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk left.fbx",
+          "sha256": "02a97b51d40f6caa267d0bb327fe235c9c68750396183521a86683363ef59156"
+        },
+        {
+          "path": ".tools/character-source/rifle_8way/walk right.fbx",
+          "sha256": "d9044d10e1720124dfd723eef847dc302b5249694ceb7ef7f7f5811b699337de"
+        }
+      ],
+      "license": "Mixamo terms (Adobe): royalty-free use in games; raw files must not be redistributed",
+      "source": "manual",
+      "source_page": "https://www.mixamo.com/#/?page=1&query=rifle%208-way&type=MotionPack",
+      "type": "animation"
+    },
+    "mixamo_swat_guy": {
+      "creator": "Adobe Mixamo",
+      "fetched_unix": 1792187499,
+      "filename": "Ch15_nonPBR.fbx",
+      "files": [
+        {
+          "path": ".tools/character-source/swat_guy/Ch15_nonPBR.fbx",
+          "sha256": "41bebaa5634c33d56b0b7235d17994e1183e1fdc78559d5b1b3b437fb70478ca"
+        }
+      ],
+      "license": "Mixamo terms (Adobe): royalty-free use in games; raw files must not be redistributed",
+      "source": "manual",
+      "source_page": "https://www.mixamo.com/#/?page=1&query=swat%20guy&type=Character",
+      "type": "character"
+    }
+  },
+  "soldier": {
+    "bones": [
+      "Hips",
+      "Spine",
+      "Spine1",
+      "Spine2",
+      "Neck",
+      "Head",
+      "LeftShoulder",
+      "LeftArm",
+      "LeftForeArm",
+      "LeftHand",
+      "LeftHandThumb1",
+      "LeftHandThumb2",
+      "LeftHandThumb3",
+      "LeftHandIndex1",
+      "LeftHandIndex2",
+      "LeftHandIndex3",
+      "LeftHandMiddle1",
+      "LeftHandMiddle2",
+      "LeftHandMiddle3",
+      "LeftHandRing1",
+      "LeftHandRing2",
+      "LeftHandRing3",
+      "LeftHandPinky1",
+      "LeftHandPinky2",
+      "LeftHandPinky3",
+      "RightShoulder",
+      "RightArm",
+      "RightForeArm",
+      "RightHand",
+      "RightHandThumb1",
+      "RightHandThumb2",
+      "RightHandThumb3",
+      "RightHandIndex1",
+      "RightHandIndex2",
+      "RightHandIndex3",
+      "RightHandMiddle1",
+      "RightHandMiddle2",
+      "RightHandMiddle3",
+      "RightHandRing1",
+      "RightHandRing2",
+      "RightHandRing3",
+      "RightHandPinky1",
+      "RightHandPinky2",
+      "RightHandPinky3",
+      "LeftUpLeg",
+      "LeftLeg",
+      "LeftFoot",
+      "LeftToeBase",
+      "RightUpLeg",
+      "RightLeg",
+      "RightFoot",
+      "RightToeBase"
+    ],
+    "clips": {
+      "airborne": {
+        "kind": "loop",
+        "length": 0.9333,
+        "loop": true,
+        "source": "jump loop",
+        "speed": 0.001,
+        "velocity": [
+          -0.0,
+          -0.0
+        ]
+      },
+      "crouch_b": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk crouching backward",
+        "speed": 1.954,
+        "velocity": [
+          0.001,
+          -1.954
+        ]
+      },
+      "crouch_bl": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk crouching backward left",
+        "speed": 2.021,
+        "velocity": [
+          -1.429,
+          -1.429
+        ]
+      },
+      "crouch_br": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk crouching backward right",
+        "speed": 1.885,
+        "velocity": [
+          1.334,
+          -1.332
+        ]
+      },
+      "crouch_f": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk crouching forward",
+        "speed": 2.021,
+        "velocity": [
+          0.0,
+          2.021
+        ]
+      },
+      "crouch_fl": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk crouching forward left",
+        "speed": 2.021,
+        "velocity": [
+          -1.429,
+          1.429
+        ]
+      },
+      "crouch_fr": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk crouching forward right",
+        "speed": 2.021,
+        "velocity": [
+          1.429,
+          1.429
+        ]
+      },
+      "crouch_idle": {
+        "kind": "loop",
+        "length": 2.0333,
+        "loop": true,
+        "source": "idle crouching aiming",
+        "speed": 0.0,
+        "velocity": [
+          -0.0,
+          -0.0
+        ]
+      },
+      "crouch_l": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk crouching left",
+        "speed": 2.021,
+        "velocity": [
+          -2.021,
+          0.0
+        ]
+      },
+      "crouch_r": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk crouching right",
+        "speed": 2.021,
+        "velocity": [
+          2.021,
+          0.0
+        ]
+      },
+      "death_back": {
+        "kind": "death",
+        "length": 2.9667,
+        "loop": false,
+        "source": "death from the back",
+        "speed": 0.369,
+        "velocity": [
+          -0.065,
+          0.363
+        ]
+      },
+      "death_back_head": {
+        "kind": "death",
+        "length": 3.7,
+        "loop": false,
+        "source": "death from back headshot",
+        "speed": 0.24,
+        "velocity": [
+          0.012,
+          0.24
+        ]
+      },
+      "death_crouch": {
+        "kind": "death",
+        "length": 1.9,
+        "loop": false,
+        "source": "death crouching headshot front",
+        "speed": 0.463,
+        "velocity": [
+          0.067,
+          0.458
+        ]
+      },
+      "death_front": {
+        "kind": "death",
+        "length": 3.4333,
+        "loop": false,
+        "source": "death from the front",
+        "speed": 0.289,
+        "velocity": [
+          -0.072,
+          0.279
+        ]
+      },
+      "death_front_head": {
+        "kind": "death",
+        "length": 2.8333,
+        "loop": false,
+        "source": "death from front headshot",
+        "speed": 0.114,
+        "velocity": [
+          0.091,
+          -0.069
+        ]
+      },
+      "death_right": {
+        "kind": "death",
+        "length": 3.3,
+        "loop": false,
+        "source": "death from right",
+        "speed": 0.248,
+        "velocity": [
+          -0.247,
+          -0.021
+        ]
+      },
+      "idle": {
+        "kind": "loop",
+        "length": 2.1,
+        "loop": true,
+        "source": "idle aiming",
+        "speed": 0.0,
+        "velocity": [
+          0.0,
+          -0.0
+        ]
+      },
+      "idle_relaxed": {
+        "kind": "loop",
+        "length": 2.1,
+        "loop": true,
+        "source": "idle",
+        "speed": 0.0,
+        "velocity": [
+          -0.0,
+          -0.0
+        ]
+      },
+      "jump_down": {
+        "kind": "once",
+        "length": 0.6667,
+        "loop": false,
+        "source": "jump down",
+        "speed": 0.029,
+        "velocity": [
+          -0.022,
+          -0.019
+        ]
+      },
+      "jump_up": {
+        "kind": "once",
+        "length": 0.5333,
+        "loop": false,
+        "source": "jump up",
+        "speed": 0.036,
+        "velocity": [
+          0.027,
+          0.023
+        ]
+      },
+      "run_b": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "run backward",
+        "speed": 4.761,
+        "velocity": [
+          -0.0,
+          -4.761
+        ]
+      },
+      "run_bl": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "run backward left",
+        "speed": 4.761,
+        "velocity": [
+          -3.367,
+          -3.367
+        ]
+      },
+      "run_br": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "run backward right",
+        "speed": 4.761,
+        "velocity": [
+          3.367,
+          -3.367
+        ]
+      },
+      "run_f": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "run forward",
+        "speed": 4.761,
+        "velocity": [
+          0.0,
+          4.761
+        ]
+      },
+      "run_fl": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "run forward left",
+        "speed": 4.761,
+        "velocity": [
+          -3.367,
+          3.367
+        ]
+      },
+      "run_fr": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "run forward right",
+        "speed": 4.761,
+        "velocity": [
+          3.367,
+          3.367
+        ]
+      },
+      "run_l": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "run left",
+        "speed": 4.761,
+        "velocity": [
+          -4.761,
+          0.0
+        ]
+      },
+      "run_r": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "run right",
+        "speed": 4.761,
+        "velocity": [
+          4.761,
+          -0.0
+        ]
+      },
+      "sprint_f": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "sprint forward",
+        "speed": 7.142,
+        "velocity": [
+          0.0,
+          7.142
+        ]
+      },
+      "sprint_fl": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "sprint forward left",
+        "speed": 7.142,
+        "velocity": [
+          -5.05,
+          5.05
+        ]
+      },
+      "sprint_fr": {
+        "kind": "loop",
+        "length": 0.5,
+        "loop": true,
+        "source": "sprint forward right",
+        "speed": 7.141,
+        "velocity": [
+          5.049,
+          5.049
+        ]
+      },
+      "turn_l": {
+        "kind": "once",
+        "length": 0.9667,
+        "loop": false,
+        "source": "turn 90 left",
+        "speed": 0.015,
+        "velocity": [
+          -0.015,
+          0.004
+        ]
+      },
+      "turn_r": {
+        "kind": "once",
+        "length": 1.0,
+        "loop": false,
+        "source": "turn 90 right",
+        "speed": 0.015,
+        "velocity": [
+          -0.004,
+          -0.014
+        ]
+      },
+      "walk_b": {
+        "kind": "loop",
+        "length": 0.9667,
+        "loop": true,
+        "source": "walk backward",
+        "speed": 1.909,
+        "velocity": [
+          0.001,
+          -1.909
+        ]
+      },
+      "walk_bl": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk backward left",
+        "speed": 1.905,
+        "velocity": [
+          -1.347,
+          -1.347
+        ]
+      },
+      "walk_br": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk backward right",
+        "speed": 1.905,
+        "velocity": [
+          1.347,
+          -1.347
+        ]
+      },
+      "walk_f": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk forward",
+        "speed": 1.905,
+        "velocity": [
+          -0.0,
+          1.905
+        ]
+      },
+      "walk_fl": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk forward left",
+        "speed": 1.905,
+        "velocity": [
+          -1.347,
+          1.347
+        ]
+      },
+      "walk_fr": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk forward right",
+        "speed": 1.905,
+        "velocity": [
+          1.347,
+          1.347
+        ]
+      },
+      "walk_l": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk left",
+        "speed": 1.905,
+        "velocity": [
+          -1.905,
+          -0.0
+        ]
+      },
+      "walk_r": {
+        "kind": "loop",
+        "length": 1.0,
+        "loop": true,
+        "source": "walk right",
+        "speed": 1.905,
+        "velocity": [
+          1.905,
+          0.0
+        ]
+      }
+    },
+    "forward": "-Z",
+    "fps": 30,
+    "height_m": 1.8,
+    "model": "res://content/models/characters/soldier.glb",
+    "pack_duplicates": {
+      "compared": 41,
+      "identical": 41
+    },
+    "pipeline": "tools/blender/ingest_soldier.py",
+    "textures": {
+      "body": {
+        "albedo_blue": "res://content/models/characters/textures/body_albedo_blue.jpg",
+        "albedo_red": "res://content/models/characters/textures/body_albedo_red.jpg",
+        "normal": "res://content/models/characters/textures/body_normal.jpg",
+        "orm": "res://content/models/characters/textures/body_orm.jpg"
+      },
+      "gear": {
+        "albedo_blue": "res://content/models/characters/textures/gear_albedo_blue.jpg",
+        "albedo_red": "res://content/models/characters/textures/gear_albedo_red.jpg",
+        "normal": "res://content/models/characters/textures/gear_normal.jpg",
+        "orm": "res://content/models/characters/textures/gear_orm.jpg"
+      }
+    },
+    "triangles": {
+      "exoskeleton_removed": 9386,
+      "lod0": 29499,
+      "lod0_budget": 30000,
+      "source": 46301
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# Raw third-party downloads (re-created by `python3 tools/dev.py fetch --domain weapons`).
+*
+!.gitignore
+!.gdignore

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="AttachmentDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/attachment_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "fast"
+slot = "magazine"
+display_name = "Fast magazine"
+description = "−20% reload time · −15% capacity"
+modifiers = {"capacity": 0.85, "reload": 0.8}

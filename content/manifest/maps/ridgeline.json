@@ -1,0 +1,97 @@
+{
+  "assets": {
+    "metal_stool_02": {
+      "creator": "Ulan Cabanilla",
+      "fetched_unix": 1792299579,
+      "files": [
+        {
+          "path": "content/models/props/metal_stool_02/metal_stool_02_1k.gltf",
+          "sha256": "de8d603993443294b8a0aed48ea631ac38f2b15872491ea929551f72be726fcb"
+        },
+        {
+          "path": "content/models/props/metal_stool_02/textures/metal_stool_02_nor_gl_1k.jpg",
+          "sha256": "65d0a8be725f094222ca5badf388042d76f24e374398fc0cfb579bc03a29a8c6"
+        },
+        {
+          "path": "content/models/props/metal_stool_02/textures/metal_stool_02_diff_1k.jpg",
+          "sha256": "6dd23ca9932da71c37eb537e7d996e1cc7fc8752c566cec0f7e18690c06f07af"
+        },
+        {
+          "path": "content/models/props/metal_stool_02/textures/metal_stool_02_arm_1k.jpg",
+          "sha256": "dff17b725379af449dae2af9f5224d8b3e863d2dbd645f13d5f4c8b2c9aa1999"
+        },
+        {
+          "path": "content/models/props/metal_stool_02/metal_stool_02.bin",
+          "sha256": "17127317d391eb90ce3446739463b1067cc490210db821769b7a46bd1ff02e1c"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 6532,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/metal_stool_02",
+      "type": "model"
+    },
+    "security_camera_02": {
+      "creator": "Garrison Gager, Yann Kervran",
+      "fetched_unix": 1792299579,
+      "files": [
+        {
+          "path": "content/models/props/security_camera_02/security_camera_02_1k.gltf",
+          "sha256": "912c8e01a7a3f3edc52ac39cc6f357bef9a967e5a1ded270c634c621f74d0b51"
+        },
+        {
+          "path": "content/models/props/security_camera_02/textures/security_camera_02_nor_gl_1k.jpg",
+          "sha256": "87e70382709059a3c0b85ff803c3e68aec622f13062debe103c2069a78b71fef"
+        },
+        {
+          "path": "content/models/props/security_camera_02/security_camera_02.bin",
+          "sha256": "15512a4c0add24cd6ec38386e7707b02587f6bb873d9a0620ca6bbc548f1dc7b"
+        },
+        {
+          "path": "content/models/props/security_camera_02/textures/security_camera_02_diff_1k.jpg",
+          "sha256": "619756fa57b0972248d0f0100e99ca62d7cd95daa80c7439bb49ff8254eb7d12"
+        },
+        {
+          "path": "content/models/props/security_camera_02/textures/security_camera_02_arm_1k.jpg",
+          "sha256": "dd55c2295a8c2265c97e7730d3dad436032413f2ca0b1a976f2e4314ac1efcbf"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 12477,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/security_camera_02",
+      "type": "model"
+    },
+    "small_lpg_tank": {
+      "creator": "Ulan Cabanilla",
+      "fetched_unix": 1792299579,
+      "files": [
+        {
+          "path": "content/models/props/small_lpg_tank/small_lpg_tank_1k.gltf",
+          "sha256": "fbe2e6c9c5f9f14d42c34b61f664decdb8a0e1c224776812d3a07a9175a98e05"
+        },
+        {
+          "path": "content/models/props/small_lpg_tank/textures/small_lpg_tank_nor_gl_1k.jpg",
+          "sha256": "1e6690a7e7c64da080b2047fb316c5a439cbd3c720729f686f0b07d02ae8122f"
+        },
+        {
+          "path": "content/models/props/small_lpg_tank/textures/small_lpg_tank_diff_1k.jpg",
+          "sha256": "7c998ddf9bf0824d5e7d7e0ba4dc171b2f39c6ac124f583d98dc0e8bb62d4f1b"
+        },
+        {
+          "path": "content/models/props/small_lpg_tank/textures/small_lpg_tank_arm_1k.jpg",
+          "sha256": "419ece07a7dd6800e25b38357c0ac55f94664aa4d3253234abf78b3225a094a1"
+        },
+        {
+          "path": "content/models/props/small_lpg_tank/small_lpg_tank.bin",
+          "sha256": "9f79b87d9aa4474f54bfd558075b03d04c9af99fb370170ab1bda0eefd5f9c40"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 15042,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/small_lpg_tank",
+      "type": "model"
+    }
+  }
+}

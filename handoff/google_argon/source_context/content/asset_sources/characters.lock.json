@@ -1,0 +1,19 @@
+{
+  "files": {
+    "user-assets/characters/Ch15_nonPBR.fbx": {
+      "sha256": "41bebaa5634c33d56b0b7235d17994e1183e1fdc78559d5b1b3b437fb70478ca",
+      "size": 115014208,
+      "url": "https://www.mixamo.com/#/?page=1&query=swat%20guy&type=Character"
+    },
+    "user-assets/characters/Pro Rifle Pack.zip": {
+      "sha256": "14c49757881a5e712b9a4f037a89e012ac56d77eb1bc5cb186947b3ef23374bb",
+      "size": 117277340,
+      "url": "https://www.mixamo.com/#/?page=1&query=pro%20rifle&type=MotionPack"
+    },
+    "user-assets/characters/Rifle 8-Way Locomotion Pack.zip": {
+      "sha256": "e6358e3e7a87d008809d36bc50a92dc1d25df6f39c9baf86db278c6493eecdd9",
+      "size": 117276263,
+      "url": "https://www.mixamo.com/#/?page=1&query=rifle%208-way&type=MotionPack"
+    }
+  }
+}

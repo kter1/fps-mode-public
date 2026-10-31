@@ -1,0 +1,568 @@
+{
+  "assets": {
+    "Leaking001": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299574,
+      "files": [
+        {
+          "path": "content/decals/Leaking001/Leaking001_1K-JPG_Color.jpg",
+          "sha256": "ffe6d676330590d090e07626d36cf9d57804f4e967e8c4a9643828d25911445f"
+        },
+        {
+          "path": "content/decals/Leaking001/Leaking001_1K-JPG_NormalGL.jpg",
+          "sha256": "ad500b245a661cd0b205890a588cdacf7e1df3d1c851f515af348ae52b65638d"
+        },
+        {
+          "path": "content/decals/Leaking001/Leaking001_1K-JPG_Opacity.jpg",
+          "sha256": "fb4fc7afcb9f5444be1b166fead08591226dfce75b56853e27d89c7f58a8eba5"
+        },
+        {
+          "path": "content/decals/Leaking001/Leaking001_1K-JPG_Roughness.jpg",
+          "sha256": "04ca61cbb976d1fbca5db63e6322ea9b899b6448a3fdc48fc14dfb245be1e5f7"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=Leaking001",
+      "type": null
+    },
+    "Leaking002": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299574,
+      "files": [
+        {
+          "path": "content/decals/Leaking002/Leaking002_1K-JPG_Color.jpg",
+          "sha256": "18e32744cd4b0bd44efa36a5430486cb8f3b19361851d91b1bf6c0d203ecf7fe"
+        },
+        {
+          "path": "content/decals/Leaking002/Leaking002_1K-JPG_NormalGL.jpg",
+          "sha256": "2df0b1af0be5949daa9863cb8a2461edf4aad05ce608c82da24030d8e4a5f0d7"
+        },
+        {
+          "path": "content/decals/Leaking002/Leaking002_1K-JPG_Opacity.jpg",
+          "sha256": "2a31b63dba8c3fcbbd0095a1e2880e4f50789305d1de401b0efb77fa9be029e5"
+        },
+        {
+          "path": "content/decals/Leaking002/Leaking002_1K-JPG_Roughness.jpg",
+          "sha256": "8a3392db9392fa1798319d82c85086718a0c182d60c9050cfa94ac655b7e9fc3"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=Leaking002",
+      "type": null
+    },
+    "Leaking003": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299575,
+      "files": [
+        {
+          "path": "content/decals/Leaking003/Leaking003_1K-JPG_Color.jpg",
+          "sha256": "946891879b9790e2667b46990c3440dfef3a87b58617192c1c5747027d761ba7"
+        },
+        {
+          "path": "content/decals/Leaking003/Leaking003_1K-JPG_NormalGL.jpg",
+          "sha256": "0931c843881f6eb30100361e856aad5beff04541bffc71cb76b041d0f1c9bb4e"
+        },
+        {
+          "path": "content/decals/Leaking003/Leaking003_1K-JPG_Opacity.jpg",
+          "sha256": "83f44b7175e063b7ee135db4fa7323f80f6d735781d9b37e1246b9ebaaaa6ed7"
+        },
+        {
+          "path": "content/decals/Leaking003/Leaking003_1K-JPG_Roughness.jpg",
+          "sha256": "1dfba470a7a118f91635376af70a73ab360935bdbe101624c44fc3a44fc63b98"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=Leaking003",
+      "type": null
+    },
+    "Leaking005": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299576,
+      "files": [
+        {
+          "path": "content/decals/Leaking005/Leaking005_1K-JPG_Color.jpg",
+          "sha256": "d0128342ab8db5675f188c5f5634d9170380d233c4e3359493a03d73266fd2ed"
+        },
+        {
+          "path": "content/decals/Leaking005/Leaking005_1K-JPG_NormalGL.jpg",
+          "sha256": "91e3e7d3e85e665f1ae8a5d31d784c19b1b54f4b11788206d4ad27b2693ce4b1"
+        },
+        {
+          "path": "content/decals/Leaking005/Leaking005_1K-JPG_Opacity.jpg",
+          "sha256": "bc5b5dc94e12ffe9aa59bd22b0d6e012fdaccd6a571fa63d991bdd489c26e70f"
+        },
+        {
+          "path": "content/decals/Leaking005/Leaking005_1K-JPG_Roughness.jpg",
+          "sha256": "3fbc8e7ad40c43c8bb7a06df20789be47945b8e548437451c466dfc8237860b5"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=Leaking005",
+      "type": null
+    },
+    "Leaking006": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299576,
+      "files": [
+        {
+          "path": "content/decals/Leaking006/Leaking006_1K-JPG_Color.jpg",
+          "sha256": "dd2ea8bfeb910043a4ce3a89ab05835202de979b0c32056d030d06a92a9c9fc3"
+        },
+        {
+          "path": "content/decals/Leaking006/Leaking006_1K-JPG_NormalGL.jpg",
+          "sha256": "14d38d4b17002b8914d15379a5d8a94414c902aa337eeb9ea1a8965dcb42533d"
+        },
+        {
+          "path": "content/decals/Leaking006/Leaking006_1K-JPG_Opacity.jpg",
+          "sha256": "3807d3a23714c90c6bbfa9b28292f9a0022f63d6ef7515974c7cda0c94196060"
+        },
+        {
+          "path": "content/decals/Leaking006/Leaking006_1K-JPG_Roughness.jpg",
+          "sha256": "2462dc3080f389a3a0b065603901087f1b314df34e809137afe5aa54e1c948ef"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=Leaking006",
+      "type": null
+    },
+    "Leaking007": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299577,
+      "files": [
+        {
+          "path": "content/decals/Leaking007/Leaking007_1K-JPG_Color.jpg",
+          "sha256": "43e360afedccf7b5fb73a9fa1e9bf41d482c777cb82287d95148f4bc29d27b37"
+        },
+        {
+          "path": "content/decals/Leaking007/Leaking007_1K-JPG_NormalGL.jpg",
+          "sha256": "2e9f8f88d70b3d9416bcf0aa2702eb619768bd3a2ee3bf54939aa73dde0d62b8"
+        },
+        {
+          "path": "content/decals/Leaking007/Leaking007_1K-JPG_Opacity.jpg",
+          "sha256": "baa8ad7ee670106eae43d1c326d29ac6e3baf8ae4d7c72a5ee6247b302b34977"
+        },
+        {
+          "path": "content/decals/Leaking007/Leaking007_1K-JPG_Roughness.jpg",
+          "sha256": "21f238107ba0c80cf003d98db8cc42e90530fe6ad19a4dc924812978c9defa0d"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=Leaking007",
+      "type": null
+    },
+    "Leaking009": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299578,
+      "files": [
+        {
+          "path": "content/decals/Leaking009/Leaking009_1K-JPG_Color.jpg",
+          "sha256": "accde13b18a9699c3a628fa7a8a68278d2d40d9ec249e1ef2ab9ed3b3ffce1ed"
+        },
+        {
+          "path": "content/decals/Leaking009/Leaking009_1K-JPG_NormalGL.jpg",
+          "sha256": "69ca7094bf6a52b6944214b5d090f1d2ab601747eb2f19bcfb0f73e6895ab41f"
+        },
+        {
+          "path": "content/decals/Leaking009/Leaking009_1K-JPG_Opacity.jpg",
+          "sha256": "b0a369d8063b45bf057c000eaba4ab5bef9306abbdab0b657c4a38645e55885c"
+        },
+        {
+          "path": "content/decals/Leaking009/Leaking009_1K-JPG_Roughness.jpg",
+          "sha256": "0c447bf0c2da2a53e09b80aad3afa70785756afcab507eadb434a38fb3d97820"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=Leaking009",
+      "type": null
+    },
+    "Leaking010A": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299578,
+      "files": [
+        {
+          "path": "content/decals/Leaking010A/Leaking010A_1K-JPG_Color.jpg",
+          "sha256": "9ad1d6420fa7c101f5981eadb6fa5dfa494cdc9624e91d0c0b22464f9f25a9fb"
+        },
+        {
+          "path": "content/decals/Leaking010A/Leaking010A_1K-JPG_NormalGL.jpg",
+          "sha256": "c22209d95c9a83607b407ff8ebaa97e1bc0e318a3c540f0f73f8a3888e03184e"
+        },
+        {
+          "path": "content/decals/Leaking010A/Leaking010A_1K-JPG_Opacity.jpg",
+          "sha256": "549f1cc786bd3ef974f50710dde8fbcf34af7053aafc7087aa43538f4928d5a0"
+        },
+        {
+          "path": "content/decals/Leaking010A/Leaking010A_1K-JPG_Roughness.jpg",
+          "sha256": "fb0612209237ed726a176a31290c009658d20b94009b202096239f134ca8487b"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=Leaking010A",
+      "type": null
+    },
+    "TireTracks001": {
+      "creator": "ambientCG (Lennart Demes)",
+      "fetched_unix": 1792299573,
+      "files": [
+        {
+          "path": "content/decals/TireTracks001/TireTracks001_1K-JPG_Color.jpg",
+          "sha256": "d2b9dcbdb533465fecd6e9099e7f6221d816106817637a2cc9738decd6bcef09"
+        },
+        {
+          "path": "content/decals/TireTracks001/TireTracks001_1K-JPG_NormalGL.jpg",
+          "sha256": "62e3bff4ba844a1bdfaf9a56e9066dcb19a40a889fb79383e3336012f4101607"
+        },
+        {
+          "path": "content/decals/TireTracks001/TireTracks001_1K-JPG_Roughness.jpg",
+          "sha256": "48c250757c06a97b08de7d7c205e34dfa5c1c4fd5f66c51a789b0bd56342ab50"
+        }
+      ],
+      "license": "CC0-1.0",
+      "source": "ambientcg",
+      "source_page": "https://ambientcg.com/view?id=TireTracks001",
+      "type": null
+    },
+    "WetFloorSign_01": {
+      "creator": "Fran Calvente",
+      "fetched_unix": 1792299569,
+      "files": [
+        {
+          "path": "content/models/props/WetFloorSign_01/WetFloorSign_01_1k.gltf",
+          "sha256": "ba5b10d2de7bb60b77dc3e44a96446181a078e35597947a490a4b6de906059e4"
+        },
+        {
+          "path": "content/models/props/WetFloorSign_01/textures/WetFloorSign_01_arm_1k.jpg",
+          "sha256": "6cd1d7c6648c36d2d66a7ddfc620ea78374ac770a5726f879b6914366e133e1a"
+        },
+        {
+          "path": "content/models/props/WetFloorSign_01/textures/WetFloorSign_01_nor_gl_1k.jpg",
+          "sha256": "62269358f3b30569783c1872613d1d70d5eda36babe5b5f04fcfd5e92de1af62"
+        },
+        {
+          "path": "content/models/props/WetFloorSign_01/textures/WetFloorSign_01_diff_1k.jpg",
+          "sha256": "01e18486a858defc0f44a73ec5037c4bee770bae88e7fed5beb6877df120fa90"
+        },
+        {
+          "path": "content/models/props/WetFloorSign_01/WetFloorSign_01.bin",
+          "sha256": "d23cdec8975ac452d64ae97b08f1eecd22e38f052bd5d588d352dbc0f0373af0"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 228,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/WetFloorSign_01",
+      "type": "model"
+    },
+    "desk_lamp_arm_01": {
+      "creator": "Yann Kervran, Kuutti Siitonen",
+      "fetched_unix": 1792299572,
+      "files": [
+        {
+          "path": "content/models/props/desk_lamp_arm_01/desk_lamp_arm_01_1k.gltf",
+          "sha256": "2ac8389afc1519449a9cfdf7efd9fa36780a2177bb47ab58f7a7dda7d247dc8c"
+        },
+        {
+          "path": "content/models/props/desk_lamp_arm_01/textures/desk_lamp_arm_01_nor_gl_1k.jpg",
+          "sha256": "feefedc3835ecef3634e97a24977451671f8f57747a023f48cd14c84bc73513a"
+        },
+        {
+          "path": "content/models/props/desk_lamp_arm_01/textures/desk_lamp_arm_01_arm_1k.jpg",
+          "sha256": "206404c79fb7dcf8e2c4558c13544342f87d2190526231a1750c3c9adc256fbc"
+        },
+        {
+          "path": "content/models/props/desk_lamp_arm_01/textures/desk_lamp_arm_01_diff_1k.jpg",
+          "sha256": "159eb178aba3271bd555cbe07ca36431d8af9a006f0b8e9d8c67030cbdc9e4d3"
+        },
+        {
+          "path": "content/models/props/desk_lamp_arm_01/desk_lamp_arm_01.bin",
+          "sha256": "07f34e32abecbaa63d28b9d12d6a0eb82b775a0f50c92327655909d72ff8489b"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 25710,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/desk_lamp_arm_01",
+      "type": "model"
+    },
+    "korean_fire_extinguisher_01": {
+      "creator": "UM JOORIN",
+      "fetched_unix": 1792299570,
+      "files": [
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/korean_fire_extinguisher_01_1k.gltf",
+          "sha256": "565f9e41909165c2bead24b722746e29ba55e8eb5e541f61fe0d1ef7e66d2ecf"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_paper_nor_gl_1k.jpg",
+          "sha256": "caaa26dd438e827e994c69605091d58ecc6a152813ece776cc561e0b24a8433a"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_paper_diff_1k.jpg",
+          "sha256": "2d56948aa72a9bad6133db3e6b17fa0df1a56cdf25db4b7e21e6ceb21999a038"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_body_nor_gl_1k.jpg",
+          "sha256": "b6ba7a7cafa04557c93dc63b44260b635863f0a95f8ba1445b75758dac3443d3"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_paper_arm_1k.jpg",
+          "sha256": "542b45184bb0ea66cdd2f180792148c45d45862a12f1ac341f798e53029015b9"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_glass_diff_1k.jpg",
+          "sha256": "ca7e49959126aa51e2d4ab440aeb9f7ff17a8a6d025b116f6327f2343ee041af"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_glass_nor_gl_1k.jpg",
+          "sha256": "3b299c54cb9b6f72d4f79e6ecd2f8cfcc618292c87881de1d17892b5ca668896"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_glass_arm_1k.jpg",
+          "sha256": "412712fddc3654d801949889f78c9ee92d8855624a1fe1057be29a38e766bda0"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/korean_fire_extinguisher_01.bin",
+          "sha256": "a460dd65b63477bb641196d77393258af0c8a6e2a64728156cb45d92658c86bd"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_body_diff_1k.jpg",
+          "sha256": "2d874513cfb6d7485b67e936ee32e7af14992da6a5eedf980dbdfc32a2119987"
+        },
+        {
+          "path": "content/models/props/korean_fire_extinguisher_01/textures/korean_fire_extinguisher_01_body_arm_1k.jpg",
+          "sha256": "2c8fa0a85d5acc5f4e784ecefd8bfd16e1aafd112e553bfcece0c81c9b129eea"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 9913,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/korean_fire_extinguisher_01",
+      "type": "model"
+    },
+    "metal_stool_01": {
+      "creator": "Ulan Cabanilla",
+      "fetched_unix": 1792299571,
+      "files": [
+        {
+          "path": "content/models/props/metal_stool_01/metal_stool_01_1k.gltf",
+          "sha256": "e69a99778cacbbf0a2447971d8917a2463b411cdd2a50ff2c53c2230b4c43881"
+        },
+        {
+          "path": "content/models/props/metal_stool_01/textures/metal_stool_01_nor_gl_1k.jpg",
+          "sha256": "55d71cb01dd9afba245d4513728ce0cde8b112d5a7e1695a68578445c7b02b82"
+        },
+        {
+          "path": "content/models/props/metal_stool_01/textures/metal_stool_01_diff_1k.jpg",
+          "sha256": "d11949df1f0c59b5a85145395703a2aa7617e76b80759a5ef80b09e1798acb3d"
+        },
+        {
+          "path": "content/models/props/metal_stool_01/textures/metal_stool_01_arm_1k.jpg",
+          "sha256": "eb13e80e9fe232d022b4136e817d4590a7279d8da327d35e525e1aa4cf30e334"
+        },
+        {
+          "path": "content/models/props/metal_stool_01/metal_stool_01.bin",
+          "sha256": "a57dae498990e7b56cba33b64721d1d0b940ca6352248de149740cd4678d451d"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 8334,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/metal_stool_01",
+      "type": "model"
+    },
+    "office_notepads": {
+      "creator": "Ulan Cabanilla",
+      "fetched_unix": 1792299572,
+      "files": [
+        {
+          "path": "content/models/props/office_notepads/office_notepads_1k.gltf",
+          "sha256": "dec1bd1f656e21bbda8957bcd19a715b1d1fbc5f9f153ada7ccdaf8407d97411"
+        },
+        {
+          "path": "content/models/props/office_notepads/textures/office_notepads_nor_gl_1k.jpg",
+          "sha256": "d6be173e3c16755e3c163724b205114f0dc93ff2d6a746b819815f4100432018"
+        },
+        {
+          "path": "content/models/props/office_notepads/textures/office_notepads_diff_1k.jpg",
+          "sha256": "6cce5f76748a73954a9158904b6d26319f028f796166c140b3cbf0bbb7c62727"
+        },
+        {
+          "path": "content/models/props/office_notepads/textures/office_notepads_arm_1k.jpg",
+          "sha256": "a4a1c7356075ab0de890ae7de0397a0b4c35f6dd7feacafe3a32e773b76c7e68"
+        },
+        {
+          "path": "content/models/props/office_notepads/office_notepads.bin",
+          "sha256": "4095356347a19a2e64ee2f5cee46d50d9bdf7c52f617573bca94cfe6e494842c"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 666,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/office_notepads",
+      "type": "model"
+    },
+    "plastic_crate_02": {
+      "creator": "Fabi_G",
+      "fetched_unix": 1792299569,
+      "files": [
+        {
+          "path": "content/models/props/plastic_crate_02/plastic_crate_02_1k.gltf",
+          "sha256": "531f7ba7d4b501759b04fb704db1948bcaab34d8342e71e3f5877d9f0340dba7"
+        },
+        {
+          "path": "content/models/props/plastic_crate_02/textures/plastic_crate_02_nor_gl_1k.jpg",
+          "sha256": "492b4cb03b043fb30a21b5de1cdf91dfbcd9bb7d080957af69a333d622050f30"
+        },
+        {
+          "path": "content/models/props/plastic_crate_02/textures/plastic_crate_02_diff_1k.jpg",
+          "sha256": "f153478d5f44f39ab27a967850caac27b35ee8f04185d0d4eaf7ad501742fb15"
+        },
+        {
+          "path": "content/models/props/plastic_crate_02/textures/plastic_crate_02_arm_1k.jpg",
+          "sha256": "f0c667358c7afd46be37b40c30435b63ae3dba8432b45c507f3298fc6f163418"
+        },
+        {
+          "path": "content/models/props/plastic_crate_02/plastic_crate_02.bin",
+          "sha256": "f51696aa04643b5c1948da88be8ce1d4e92596ae4908b0132cd690f8fb8e0b63"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 5840,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/plastic_crate_02",
+      "type": "model"
+    },
+    "power_box_01": {
+      "creator": "Rico Cilliers, Yann Kervran",
+      "fetched_unix": 1792299570,
+      "files": [
+        {
+          "path": "content/models/props/power_box_01/power_box_01_1k.gltf",
+          "sha256": "edb54e68fb1229e9f59906459d782c2ddc576f6bd1141cf09ad864f48d7cb93b"
+        },
+        {
+          "path": "content/models/props/power_box_01/textures/power_box_01_arm_1k.jpg",
+          "sha256": "4601e901e2f7c1584ab5ecf65e0e192a99a4be86da505527f1622658e1b1e527"
+        },
+        {
+          "path": "content/models/props/power_box_01/textures/power_box_01_nor_gl_1k.jpg",
+          "sha256": "199b6fe93776aa0934f7bc36d8c82f1b4db9be9243e82e0cb3727bbcf25d85f1"
+        },
+        {
+          "path": "content/models/props/power_box_01/power_box_01.bin",
+          "sha256": "b46efdf668ec2d4e04ff51604b5f1486caf20df632f442aab62601718058db05"
+        },
+        {
+          "path": "content/models/props/power_box_01/textures/power_box_01_diff_1k.jpg",
+          "sha256": "845c425ebc0ded263a7d49909e2c26710dd6160da11c0ca44aebd723f4f6f168"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 21272,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/power_box_01",
+      "type": "model"
+    },
+    "security_camera_01": {
+      "creator": "Alexander Otterbeck, Yann Kervran",
+      "fetched_unix": 1792299571,
+      "files": [
+        {
+          "path": "content/models/props/security_camera_01/security_camera_01_1k.gltf",
+          "sha256": "d2468fe353cd9f992a5549709cf9efcfae67e9fd17f80bf7ff3866e2881dd2ae"
+        },
+        {
+          "path": "content/models/props/security_camera_01/security_camera_01.bin",
+          "sha256": "c43dd3576213c169d1b3a9968788c0da2d14073e59c7d2503bc230c05042bb21"
+        },
+        {
+          "path": "content/models/props/security_camera_01/textures/security_camera_01_diff_1k.jpg",
+          "sha256": "572968d8c693682aa5c87d59428e1db234b0d81ec620af8a019c72e3f011d53f"
+        },
+        {
+          "path": "content/models/props/security_camera_01/textures/security_camera_01_arm_1k.jpg",
+          "sha256": "68bb728aff5af6bd4141201cd221c7e17ef537f49978c321b0e183677f8877ba"
+        },
+        {
+          "path": "content/models/props/security_camera_01/textures/security_camera_01_nor_gl_1k.jpg",
+          "sha256": "80e791da5d975177d16d5f30202deac0b262ffe6b13311605c09c630b93d0de5"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 13571,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/security_camera_01",
+      "type": "model"
+    },
+    "television_02": {
+      "creator": "Benny Weimer",
+      "fetched_unix": 1792299572,
+      "files": [
+        {
+          "path": "content/models/props/television_02/television_02_1k.gltf",
+          "sha256": "8e7d7cb6bbdb5713b7d4ed21ece7c0f9c41912359c2c0f5065b7e77f5bf4cdcf"
+        },
+        {
+          "path": "content/models/props/television_02/textures/television_02_nor_gl_1k.jpg",
+          "sha256": "d241001bb67ffe262612ff46930d62f751c425b6e9be8704e762c2dc5b48e536"
+        },
+        {
+          "path": "content/models/props/television_02/textures/television_02_diff_1k.jpg",
+          "sha256": "216bc64108a79f3728e4f0fa2927da2491a3c3f5c619c8d48418c2aad84afb5e"
+        },
+        {
+          "path": "content/models/props/television_02/textures/television_02_arm_1k.jpg",
+          "sha256": "7fa42cc4ce2b2a09e2889aaf7897265a79223cad2f3267e035884c96ab37d48b"
+        },
+        {
+          "path": "content/models/props/television_02/television_02.bin",
+          "sha256": "73f1d3519f7bdacca24c892e2614ff756d5d27f5c33fb518cb8aac9154fa710b"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 2310,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/television_02",
+      "type": "model"
+    },
+    "trashbag": {
+      "creator": "Benny Weimer",
+      "fetched_unix": 1792299569,
+      "files": [
+        {
+          "path": "content/models/props/trashbag/trashbag_1k.gltf",
+          "sha256": "22202e1ec48d924577584dce6751d5ab198fd7c0aee44602e9a7317b5b60a4a7"
+        },
+        {
+          "path": "content/models/props/trashbag/textures/trashbag_nor_gl_1k.jpg",
+          "sha256": "33ddb9711bb3ab2ff1ed19fa361a4251909643fada7e5579a28f6346a58b4daf"
+        },
+        {
+          "path": "content/models/props/trashbag/textures/trashbag_diff_1k.jpg",
+          "sha256": "676e01cbeef39b51c9ecd67315c952a605c8db9c11544fbe11e14dcbd00be27f"
+        },
+        {
+          "path": "content/models/props/trashbag/textures/trashbag_arm_1k.jpg",
+          "sha256": "95e69ba47bc7b84f342cdbe4385cfab670295827740fb09407b967ea2114c0aa"
+        },
+        {
+          "path": "content/models/props/trashbag/trashbag.bin",
+          "sha256": "7bfac5b9c39a058af347944b437f712718ec129ec883c16339179862cc155fe2"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 4482,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/trashbag",
+      "type": "model"
+    }
+  }
+}

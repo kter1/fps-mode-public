@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WeaponDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/weapon_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "sg_a12"
+display_name = "A12 Tactical"
+category = "shotgun"
+automatic = false
+damage = 12.0
+rpm = 150.0
+capacity = 8
+reload_seconds = 2.7
+pellets = 8
+shell_reload = false
+ads_seconds = 0.24
+range_start = 8.0
+range_end = 25.0
+min_damage = 0.2
+hip_spread = 6
+ads_spread = 3.5
+recoil = 2.6
+model_path = "res://content/models/weapons/sg_a12.gltf"
+audio_path = "res://content/audio/shotgun_0.wav"

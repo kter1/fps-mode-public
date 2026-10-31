@@ -1,0 +1,167 @@
+{
+ "assets": [
+  {
+   "id": "white_stucco",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/white_stucco"
+  },
+  {
+   "id": "white_sandstone_blocks_02",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/white_sandstone_blocks_02"
+  },
+  {
+   "id": "roof_slates_02",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/roof_slates_02"
+  },
+  {
+   "id": "marble_tiles",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/marble_tiles"
+  },
+  {
+   "id": "herringbone_parquet",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/herringbone_parquet"
+  },
+  {
+   "id": "terracotta_floor_tiles",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/terracotta_floor_tiles"
+  },
+  {
+   "id": "wine_barrel_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/wine_barrel_01"
+  },
+  {
+   "id": "wine_bottles_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/wine_bottles_01"
+  },
+  {
+   "id": "chess_set",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/chess_set"
+  },
+  {
+   "id": "outdoor_table_chair_set_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/outdoor_table_chair_set_01"
+  },
+  {
+   "id": "round_wooden_table_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/round_wooden_table_01"
+  },
+  {
+   "id": "dining_chair_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/dining_chair_02"
+  },
+  {
+   "id": "bar_chair_round_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/bar_chair_round_01"
+  },
+  {
+   "id": "wooden_bookshelf_worn",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/wooden_bookshelf_worn"
+  },
+  {
+   "id": "sofa_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/sofa_02"
+  },
+  {
+   "id": "lantern_chandelier_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/lantern_chandelier_01"
+  },
+  {
+   "id": "street_lamp_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/street_lamp_02"
+  },
+  {
+   "id": "planter_pot_clay",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/planter_pot_clay"
+  },
+  {
+   "id": "shrub_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/shrub_02"
+  }
+ ]
+}

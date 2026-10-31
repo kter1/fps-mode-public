@@ -1,0 +1,9 @@
+.godot/
+.tools/
+.artifacts/
+builds/
+__pycache__/
+.DS_Store
+*.tmp
+.claude/
+.voice-audition-venv/

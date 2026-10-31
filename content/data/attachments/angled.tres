@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="AttachmentDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/attachment_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "angled"
+slot = "grip"
+display_name = "Angled grip"
+description = "−15% aim time · +15% hip spread"
+modifiers = {"ads": 0.85, "hip": 1.15}

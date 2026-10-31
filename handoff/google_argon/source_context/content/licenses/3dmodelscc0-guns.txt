@@ -1,0 +1,9 @@
+Free CC0 Guns & Explosives Pack
+Creator: 3DModelsCC0. License: Creative Commons CC0 1.0 Universal.
+https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Used for the M4A1, AK-47, shotgun, sniper rifle, M3 Grease Gun, Suomi KP/-31,
+Luger and Makarov based weapon slots and the frag and smoke grenades. Slot
+mappings, modifications and hashes: content/manifest/weapons.json. The archive's
+SHA-256 is pinned in content/asset_sources/weapons.lock.json.

@@ -1,0 +1,10 @@
+Dead Circuit / West Gate — original fictional AI-generated dialogue
+
+Voices generated locally using Qwen3-TTS VoiceDesign, Apache-2.0:
+https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit
+https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
+
+Inference: MLX-Audio, MIT, https://github.com/Blaizzy/mlx-audio
+No real person was cloned. No paid generation services were used.
+The user approved audition revision 2; Atlas relay line uses take 2.
+The manifest records exact asset hashes and model revisions.

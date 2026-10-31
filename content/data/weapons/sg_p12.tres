@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WeaponDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/weapon_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "sg_p12"
+display_name = "P12 Pump"
+category = "shotgun"
+automatic = false
+damage = 14.0
+rpm = 70.0
+capacity = 8
+reload_seconds = 0.6
+pellets = 9
+shell_reload = true
+ads_seconds = 0.24
+range_start = 8.0
+range_end = 25.0
+min_damage = 0.2
+hip_spread = 6
+ads_spread = 3.5
+recoil = 2.6
+model_path = "res://content/models/weapons/sg_p12.gltf"
+audio_path = "res://content/audio/shotgun_0.wav"

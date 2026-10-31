@@ -1,0 +1,257 @@
+{
+ "assets": [
+  {
+   "id": "kloofendal_43d_clear_puresky",
+   "source": "polyhaven",
+   "type": "hdri",
+   "resolution": "2k",
+   "format": "hdr",
+   "dest": "content/sky"
+  },
+  {
+   "id": "cobblestone_floor_001",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/cobblestone_floor_001"
+  },
+  {
+   "id": "damaged_plaster",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/damaged_plaster"
+  },
+  {
+   "id": "patterned_clay_plaster",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/patterned_clay_plaster"
+  },
+  {
+   "id": "old_stone_wall",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/old_stone_wall"
+  },
+  {
+   "id": "clay_roof_tiles_02",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/clay_roof_tiles_02"
+  },
+  {
+   "id": "ceramic_roof_01",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/ceramic_roof_01"
+  },
+  {
+   "id": "weathered_brown_planks",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/weathered_brown_planks"
+  },
+  {
+   "id": "old_wood_floor",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "2k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/old_wood_floor"
+  },
+  {
+   "id": "reed_roof_03",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "1k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/reed_roof_03"
+  },
+  {
+   "id": "bark_brown_02",
+   "source": "polyhaven",
+   "type": "texture",
+   "resolution": "1k",
+   "maps": {
+    "Diffuse": "jpg",
+    "nor_gl": "jpg",
+    "arm": "jpg"
+   },
+   "dest": "content/materials/bark_brown_02"
+  },
+  {
+   "id": "LeafSet024",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg"
+   ],
+   "dest": "content/models/props/LeafSet024"
+  },
+  {
+   "id": "LeafSet004",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg"
+   ],
+   "dest": "content/models/props/LeafSet004"
+  },
+  {
+   "id": "Foliage001",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg"
+   ],
+   "dest": "content/models/props/Foliage001"
+  },
+  {
+   "id": "weed_plant_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/weed_plant_02"
+  },
+  {
+   "id": "fern_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/fern_02"
+  },
+  {
+   "id": "painted_wooden_bench",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/painted_wooden_bench"
+  },
+  {
+   "id": "painted_wooden_table",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/painted_wooden_table"
+  },
+  {
+   "id": "painted_wooden_chair_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/painted_wooden_chair_01"
+  },
+  {
+   "id": "painted_wooden_cabinet",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/painted_wooden_cabinet"
+  },
+  {
+   "id": "wooden_bucket_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/wooden_bucket_01"
+  },
+  {
+   "id": "wooden_ladder",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/wooden_ladder"
+  },
+  {
+   "id": "metal_jerrycan",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/metal_jerrycan"
+  },
+  {
+   "id": "tree_stump_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/tree_stump_01"
+  },
+  {
+   "id": "wicker_basket_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/wicker_basket_01"
+  },
+  {
+   "id": "wooden_axe",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/wooden_axe"
+  }
+ ],
+ "pipeline": [
+  {
+   "godot": "res://tools/generate_village_leaves.gd"
+  },
+  {
+   "godot": "res://tools/generate_grass_clumps.gd"
+  }
+ ]
+}

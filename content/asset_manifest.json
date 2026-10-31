@@ -1,0 +1,783 @@
+{
+	"assets": {
+		"ar_a4": {
+			"import_scale": 1.10613911572055,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/AssaultRifle_4.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Tabasco",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_archive_sha256": "fac981bb2df3dac9574e3567ef40df0fa5b77f0d6be0a36b83bdd95fcc86a492",
+				"source_file": "m4.blend",
+				"source_page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol"
+			},
+			"render_model": "content/models/weapons/ar_a4.gltf",
+			"render_model_sha256": "8cfb22a84dafeb2de10495a8e93e89b68b1bfcc26e3341777d7c0961398dbdf9",
+			"sha256": "a6b90047927c65d0026bb19b5d4625b5ed3270e4ea5e39619cc50f0770aa6259",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					-0.00101000000722706,
+					0.0659999996423721,
+					-0.429419994354248
+				],
+				"optic": [
+					0,
+					0.124959997832775,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/9a0e478c-de82-4773-9b70-a0219bb0057c.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"ar_b56": {
+			"import_scale": 1.10613911572055,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/Bullpup_1.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Tabasco",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_archive_sha256": "fac981bb2df3dac9574e3567ef40df0fa5b77f0d6be0a36b83bdd95fcc86a492",
+				"source_file": "l85.blend",
+				"source_page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol"
+			},
+			"render_model": "content/models/weapons/ar_b56.gltf",
+			"render_model_sha256": "c945a15d30655143c6c23ca8a7befea0e026175ad70114591bc457942882a5a4",
+			"sha256": "55d2040d95e550f0debd9104d8e470ae430ecf5f1fec5334bef937ff03fb61f9",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					-0.00101000000722706,
+					0.0659999996423721,
+					-0.429419994354248
+				],
+				"optic": [
+					0,
+					0.124959997832775,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/44e99086-b803-4f8f-b1e4-302068cff16a.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"ar_k47": {
+			"import_scale": 1.08382100338182,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/AssaultRifle2_1.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Tabasco",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_archive_sha256": "fac981bb2df3dac9574e3567ef40df0fa5b77f0d6be0a36b83bdd95fcc86a492",
+				"source_file": "ak47.blend",
+				"source_page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol"
+			},
+			"render_model": "content/models/weapons/ar_k47.gltf",
+			"render_model_sha256": "5fcc3f7b580780f410f6a21d9408835f5b0bc6b5597d1d3d6a79f71012b22ba3",
+			"sha256": "34f9ea1e664444b024e29c3ad5e910912716b570fe803ce965df19c8ce6907a1",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					-0.00462999986484647,
+					0.0714399963617325,
+					-0.438259989023209
+				],
+				"optic": [
+					0,
+					0.128590002655983,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/db2d564c-63b2-4316-a89e-0f7d7a2416c9.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"dmr_d14": {
+			"import_scale": 0.830569443813318,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/SniperRifle_2.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Tabasco",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish; fixed scope and mounts removed to preserve bare and interchangeable sights",
+				"source_archive_sha256": "fac981bb2df3dac9574e3567ef40df0fa5b77f0d6be0a36b83bdd95fcc86a492",
+				"source_file": "dragunov.blend",
+				"source_page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol"
+			},
+			"render_model": "content/models/weapons/dmr_d14.gltf",
+			"render_model_sha256": "1a4080af8bafa4169f0dc5a5184a7939f3fbc1ccf96137c01f96dc343a0b6dbd",
+			"sha256": "095e918bd89823b1ca726eac0016d7c9daee15cc6f71010ab251fb0365819f02",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					-0.0102899996563792,
+					0.0425300002098083,
+					-0.571900010108948
+				],
+				"optic": [
+					0,
+					0.106799997389317,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/2def4aa0-1f3a-40dd-aa92-0661ce39ae50.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"lmg_l56": {
+			"import_scale": 1.14721576226948,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/AssaultRifle_4.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Quaternius",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_file": "content/models/AssaultRifle_4.glb",
+				"source_page": "https://quaternius.com/packs/ultimategun.html"
+			},
+			"render_model": "content/models/weapons/lmg_l56.gltf",
+			"render_model_sha256": "8c1922246a586564d3f1aa9939e65deb102bbdbbfd6355e8b7f5ab4058533782",
+			"sha256": "a6b90047927c65d0026bb19b5d4625b5ed3270e4ea5e39619cc50f0770aa6259",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					-0.000850000011269003,
+					0.0456600002944469,
+					-0.479420006275177
+				],
+				"optic": [
+					0,
+					0.104670003056526,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/9a0e478c-de82-4773-9b70-a0219bb0057c.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"lmg_l762": {
+			"import_scale": 1.08211428783857,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/AssaultRifle2_4.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Tabasco",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_archive_sha256": "fac981bb2df3dac9574e3567ef40df0fa5b77f0d6be0a36b83bdd95fcc86a492",
+				"source_file": "g3a3.blend",
+				"source_page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol"
+			},
+			"render_model": "content/models/weapons/lmg_l762.gltf",
+			"render_model_sha256": "ac1d95e75c76e688b956fb7ffa446d4d9600ede8a82cfb128b7c7633fe8a3637",
+			"sha256": "34f9ea1e664444b024e29c3ad5e910912716b570fe803ce965df19c8ce6907a1",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					-0.00255000009201467,
+					0.050500001758337,
+					-0.508260011672974
+				],
+				"optic": [
+					0,
+					0.101379998028278,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/db2d564c-63b2-4316-a89e-0f7d7a2416c9.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"pistol_p45": {
+			"import_scale": 2.01831741230935,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/Pistol_2.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Tabasco",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_archive_sha256": "fac981bb2df3dac9574e3567ef40df0fa5b77f0d6be0a36b83bdd95fcc86a492",
+				"source_file": "m1911.blend",
+				"source_page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol"
+			},
+			"render_model": "content/models/weapons/pistol_p45.gltf",
+			"render_model_sha256": "8484120505a2673c142f550c1ea86e304d039eaaa1f51b2bfbf18f71a797da0b",
+			"sha256": "4622ab2909aa0f4e88b74a13f52f9e28183a6ff5fca5896fc7e98d44008f2148",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					0.00052000000141561,
+					0.0513099990785122,
+					-0.0842299982905388
+				],
+				"optic": [
+					0,
+					0.0598100014030933,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/f5a88c73-af97-49ca-8650-4bde579d2f80.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"pistol_p9": {
+			"import_scale": 1.5321039103845,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/Pistol_1.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Quaternius",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_file": "content/models/Pistol_1.glb",
+				"source_page": "https://quaternius.com/packs/ultimategun.html"
+			},
+			"render_model": "content/models/weapons/pistol_p9.gltf",
+			"render_model_sha256": "949037f4de1a2bc83e6be990331855f35019e390ef5d3abdf898f17c7d9fdafa",
+			"sha256": "267c2dc0652798aeac335e89c739111ace0ba1090a361c1de16d7bf09ab1b472",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					-0.000349999987520278,
+					0.0500300005078316,
+					-0.110959999263287
+				],
+				"optic": [
+					0,
+					0.0626000016927719,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/3b53f0fe-f86e-451c-816d-6ab9bd265cdc.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"pistol_r357": {
+			"import_scale": 1.42339538327847,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/Revolver_1.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Quaternius",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_file": "content/models/Revolver_1.glb",
+				"source_page": "https://quaternius.com/packs/ultimategun.html"
+			},
+			"render_model": "content/models/weapons/pistol_r357.gltf",
+			"render_model_sha256": "fa1644f6df3ca3cc0623b09b65a0ca3a92347838871b72c463e8e5353fccf463",
+			"sha256": "3e661102b0c277625559316b6d5b6762536e70ac2b071fb9ef0f5f96f4d22158",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					0.000869999988935888,
+					0.061710000038147,
+					-0.119429998099804
+				],
+				"optic": [
+					0,
+					0.0719299986958504,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/9e728565-67a3-44db-9567-982320abff09.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"sg_a12": {
+			"import_scale": 0.987690225901992,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/Shotgun_2.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Quaternius",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_file": "content/models/Shotgun_2.glb",
+				"source_page": "https://quaternius.com/packs/ultimategun.html"
+			},
+			"render_model": "content/models/weapons/sg_a12.gltf",
+			"render_model_sha256": "2a5ca5128202b1121c2ec6d0a7aff51a7012e9ceba6b317dbb88d62cec672aec",
+			"sha256": "128a0075192f82582e2e2acc363108cabcb32335086f16b1fa2f5e1186b2ff43",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					0.0,
+					0.0573999993503094,
+					-0.480919986963272
+				],
+				"optic": [
+					0,
+					0.113240003585815,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/f71d6771-f512-4374-bd23-ba00b564db68.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"sg_p12": {
+			"import_scale": 0.779209141369578,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/Shotgun_1.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Quaternius",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_file": "content/models/Shotgun_1.glb",
+				"source_page": "https://quaternius.com/packs/ultimategun.html"
+			},
+			"render_model": "content/models/weapons/sg_p12.gltf",
+			"render_model_sha256": "db12153c28eed802b289e020c6f5e4597727b166f2ddc74927fd7d66f16ecdbc",
+			"sha256": "cc6e3dee173d845a032d6e12c9261caadaf47f7c56c34d4f780f472aa663f7f9",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					0.0,
+					0.0982600003480911,
+					-0.609589993953705
+				],
+				"optic": [
+					0,
+					0.119439996778965,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/032e6589-3188-41bc-b92b-e25528344275.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"smg_mp9": {
+			"import_scale": 1.05252076009879,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/SubmachineGun_1.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Quaternius",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_file": "content/models/SubmachineGun_1.glb",
+				"source_page": "https://quaternius.com/packs/ultimategun.html"
+			},
+			"render_model": "content/models/weapons/smg_mp9.gltf",
+			"render_model_sha256": "a409b6a46b02db75f13d97f4010eb9f3488d8d87e16c8da7a52841b5944552d3",
+			"sha256": "69df22d1aa8603d66366d20c46755cca2a19e1cabe8c1db1b72edb491ae48699",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					0.00101000000722706,
+					0.112680003046989,
+					-0.313529998064041
+				],
+				"optic": [
+					0,
+					0.153459995985031,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/fb8ae707-d5b9-4eb8-ab8c-1c78d3c1f710.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"smg_p90": {
+			"import_scale": 0.754369064509708,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/SubmachineGun_3.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Quaternius",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_file": "content/models/SubmachineGun_3.glb",
+				"source_page": "https://quaternius.com/packs/ultimategun.html"
+			},
+			"render_model": "content/models/weapons/smg_p90.gltf",
+			"render_model_sha256": "e50711f8557d60a432bd9cde9a2914e8312fab84b703b32f45db7fdab1a38e83",
+			"sha256": "55d2040d95e550f0debd9104d8e470ae430ecf5f1fec5334bef937ff03fb61f9",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					0.0,
+					0.0673099979758263,
+					-0.437449991703033
+				],
+				"optic": [
+					0,
+					0.0995099991559982,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/44e99086-b803-4f8f-b1e4-302068cff16a.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"smg_v45": {
+			"import_scale": 1.05252076009879,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/SubmachineGun_2.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Quaternius",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_file": "content/models/SubmachineGun_2.glb",
+				"source_page": "https://quaternius.com/packs/ultimategun.html"
+			},
+			"render_model": "content/models/weapons/smg_v45.gltf",
+			"render_model_sha256": "748db8b31e3329883364a9dedac34031dbfeba88bc26caa46c2f79a96cc1078b",
+			"sha256": "c71d4c083e296cd8cbbbebb70d7016d399cd551af5aa293617443df765b54c40",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					0.00101000000722706,
+					0.112680003046989,
+					-0.313529998064041
+				],
+				"optic": [
+					0,
+					0.153459995985031,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/100fd5db-d5e8-4db7-8ad3-9a96cc217e56.glb",
+			"yaw_rotation_radians": 0.0
+		},
+		"sniper_s90": {
+			"import_scale": 0.991084373425723,
+			"license": "CC0-1.0",
+			"mirror": "https://poly.pizza/bundle/Ultimate-Guns-Pack-cpgUfI4t2F",
+			"path": "content/models/SniperRifle_1.glb",
+			"render_derivation": {
+				"conversion": "tools/refine_combat_art.py",
+				"creator": "Tabasco",
+				"license": "CC0-1.0",
+				"modifications": "Static transform/skin bake; scale and muzzle normalization; machined edge bevels; weighted normals; material finish",
+				"source_archive_sha256": "fac981bb2df3dac9574e3567ef40df0fa5b77f0d6be0a36b83bdd95fcc86a492",
+				"source_file": "mosin9130.blend",
+				"source_page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol"
+			},
+			"render_model": "content/models/weapons/sniper_s90.gltf",
+			"render_model_sha256": "2ee647480fb690f49ae64a95141c1e997c9da315709752d4fbe781e59863b957",
+			"sha256": "c69b8d4088176580819c20f44fc80d7742e6ad00ba1ca09cd064d8677b1c4be5",
+			"sockets": {
+				"grip": [
+					0,
+					-0.12,
+					-0.23
+				],
+				"muzzle": [
+					-0.00693000014871359,
+					0.0574599988758564,
+					-0.615490019321442
+				],
+				"optic": [
+					0,
+					0.0924900025129318,
+					-0.07
+				]
+			},
+			"source_pack": "https://quaternius.com/packs/ultimategun.html",
+			"url": "https://static.poly.pizza/701c17ec-1b9b-4091-8c8b-54ed125078b9.glb",
+			"yaw_rotation_radians": 0.0
+		}
+	},
+	"conversion_tool": {
+		"name": "Blender",
+		"purpose": "One-time source conversion only; not required for prepare or gameplay",
+		"sha256": "ecbeaef4abbeb045de8465e78b3f97aec9b67faf2fc71b20e5eca37bf1caf874",
+		"url": "https://download.blender.org/release/Blender3.6/blender-3.6.23-macos-arm64.dmg",
+		"version": "3.6.23"
+	},
+	"engine": "4.7.2.stable.official.ed1daf0bf",
+	"first_person_arms": {
+		"clip": "T-Pose",
+		"creator": "para / MakeHuman",
+		"generator": "tools/build_arms.gd",
+		"hand_bones": [
+			"hand.L",
+			"hand.R"
+		],
+		"license": "CC0-1.0",
+		"pose_adjustment": "Phalanges and thumbs curled; palms aligned to weapon; forearms extended below camera frame",
+		"prepared_meshes": [
+			"content/models/generated/arm_l.tres",
+			"content/models/generated/arm_r.tres"
+		],
+		"source": "content/models/realism/arms.glb",
+		"source_archive_sha256": "31f6c7bd5caea8856c4aafca8461f38a3c8bfdd3d8f05c898e403b9475e54562",
+		"source_archive_url": "https://opengameart.org/sites/default/files/fps%20arms.7z",
+		"source_page": "https://opengameart.org/content/fps-arms-rigged-only",
+		"source_sha256": "c45aca9d713aff94d7421420ad1d6247693068181aa7e64478430ba9da75be63"
+	},
+	"soldier": {
+		"animations": [
+			"CharacterArmature|Death",
+			"CharacterArmature|Gun_Shoot",
+			"CharacterArmature|HitRecieve",
+			"CharacterArmature|HitRecieve_2",
+			"CharacterArmature|Idle",
+			"CharacterArmature|Idle_Gun",
+			"CharacterArmature|Idle_Gun_Pointing",
+			"CharacterArmature|Idle_Gun_Shoot",
+			"CharacterArmature|Idle_Neutral",
+			"CharacterArmature|Idle_Sword",
+			"CharacterArmature|Interact",
+			"CharacterArmature|Kick_Left",
+			"CharacterArmature|Kick_Right",
+			"CharacterArmature|Punch_Left",
+			"CharacterArmature|Punch_Right",
+			"CharacterArmature|Roll",
+			"CharacterArmature|Run",
+			"CharacterArmature|Run_Back",
+			"CharacterArmature|Run_Left",
+			"CharacterArmature|Run_Right",
+			"CharacterArmature|Run_Shoot",
+			"CharacterArmature|Sword_Slash",
+			"CharacterArmature|Walk",
+			"CharacterArmature|Wave"
+		],
+		"import_scale": 0.970953774750987,
+		"imported_bones": [
+			"Root",
+			"Body",
+			"Hips",
+			"Abdomen",
+			"Torso",
+			"Chest",
+			"Neck",
+			"Head",
+			"Shoulder.L",
+			"UpperArm.L",
+			"LowerArm.L",
+			"Wrist.L",
+			"Index1.L",
+			"Index2.L",
+			"Index3.L",
+			"Index4.L",
+			"Middle1.L",
+			"Middle2.L",
+			"Middle3.L",
+			"Middle4.L",
+			"Ring1.L",
+			"Ring2.L",
+			"Ring3.L",
+			"Ring4.L",
+			"Pinky1.L",
+			"Pinky2.L",
+			"Pinky3.L",
+			"Pinky4.L",
+			"Thumb1.L",
+			"Thumb2.L",
+			"Thumb3.L",
+			"Shoulder.R",
+			"UpperArm.R",
+			"LowerArm.R",
+			"Wrist.R",
+			"Index1.R",
+			"Index2.R",
+			"Index3.R",
+			"Index4.R",
+			"Middle1.R",
+			"Middle2.R",
+			"Middle3.R",
+			"Middle4.R",
+			"Ring1.R",
+			"Ring2.R",
+			"Ring3.R",
+			"Ring4.R",
+			"Pinky1.R",
+			"Pinky2.R",
+			"Pinky3.R",
+			"Pinky4.R",
+			"Thumb1.R",
+			"Thumb2.R",
+			"Thumb3.R",
+			"UpperLeg.L",
+			"LowerLeg.L",
+			"UpperLeg.R",
+			"LowerLeg.R",
+			"Foot.L",
+			"PT.L",
+			"Foot.R",
+			"PT.R"
+		],
+		"license": "CC0-1.0",
+		"modifications": "Original geometry, skin bindings and 24 clips preserved; smooth normals; woven fabric surface; muted blue/tan uniforms; two-handed weapon IK",
+		"nodes": [
+			"RootNode",
+			"CharacterArmature",
+			"Root",
+			"Body",
+			"Hips",
+			"Abdomen",
+			"Torso",
+			"Chest",
+			"Neck",
+			"Head",
+			"Head_end",
+			"Shoulder.L",
+			"UpperArm.L",
+			"LowerArm.L",
+			"Wrist.L",
+			"Index1.L",
+			"Index2.L",
+			"Index3.L",
+			"Index4.L",
+			"Index4.L_end",
+			"Middle1.L",
+			"Middle2.L",
+			"Middle3.L",
+			"Middle4.L",
+			"Middle4.L_end",
+			"Ring1.L",
+			"Ring2.L",
+			"Ring3.L",
+			"Ring4.L",
+			"Ring4.L_end",
+			"Pinky1.L",
+			"Pinky2.L",
+			"Pinky3.L",
+			"Pinky4.L",
+			"Pinky4.L_end",
+			"Thumb1.L",
+			"Thumb2.L",
+			"Thumb3.L",
+			"Thumb3.L_end",
+			"Shoulder.R",
+			"UpperArm.R",
+			"LowerArm.R",
+			"Wrist.R",
+			"Index1.R",
+			"Index2.R",
+			"Index3.R",
+			"Index4.R",
+			"Index4.R_end",
+			"Middle1.R",
+			"Middle2.R",
+			"Middle3.R",
+			"Middle4.R",
+			"Middle4.R_end",
+			"Ring1.R",
+			"Ring2.R",
+			"Ring3.R",
+			"Ring4.R",
+			"Ring4.R_end",
+			"Pinky1.R",
+			"Pinky2.R",
+			"Pinky3.R",
+			"Pinky4.R",
+			"Pinky4.R_end",
+			"Thumb1.R",
+			"Thumb2.R",
+			"Thumb3.R",
+			"Thumb3.R_end",
+			"UpperLeg.L",
+			"LowerLeg.L",
+			"LowerLeg.L_end",
+			"UpperLeg.R",
+			"LowerLeg.R",
+			"LowerLeg.R_end",
+			"Foot.L",
+			"Foot.L_end",
+			"PT.L",
+			"PT.L_end",
+			"Foot.R",
+			"Foot.R_end",
+			"PT.R",
+			"PT.R_end",
+			"Swat_Legs",
+			"Swat_Feet",
+			"Swat_Body",
+			"Swat_Head"
+		],
+		"path": "content/models/soldier.glb",
+		"render_model": "content/models/realism/operator_combat.glb",
+		"render_model_sha256": "e5d9e5bcf857c72ebc2889a15c6f9a514c4e116199561005125b5d110efc59f5",
+		"sha256": "a835107bac833eb916c494e10997ae1709e85957ea6f6c59ace3c9a66f6d1fec",
+		"source": "https://poly.pizza/m/Btfn3G5Xv4",
+		"weapon_hand_bone": "Wrist.R"
+	},
+	"template_sha256": "88df5e2e6fee99088699be66e6d42e4da4fb0c5619d054297d755a49558a4792"
+}

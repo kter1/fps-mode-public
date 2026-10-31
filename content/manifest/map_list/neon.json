@@ -1,0 +1,256 @@
+{
+  "capture": {
+    "blue_spawn": {
+      "position": [
+        -46,
+        1.8,
+        -18
+      ],
+      "target": [
+        -24,
+        2,
+        -10
+      ]
+    },
+    "center_interior": {
+      "position": [
+        -10,
+        1.7,
+        0
+      ],
+      "target": [
+        10,
+        2.5,
+        0
+      ]
+    },
+    "elevated": {
+      "position": [
+        -2,
+        5.4,
+        -13.6
+      ],
+      "target": [
+        8,
+        1.5,
+        -6
+      ]
+    },
+    "first_person": {
+      "position": [
+        -30,
+        1.62,
+        6
+      ],
+      "target": [
+        -10,
+        2,
+        0
+      ]
+    },
+    "north_route": {
+      "position": [
+        -20,
+        1.8,
+        -32
+      ],
+      "target": [
+        20,
+        2,
+        -30
+      ]
+    },
+    "red_spawn": {
+      "position": [
+        46,
+        1.8,
+        18
+      ],
+      "target": [
+        24,
+        2,
+        10
+      ]
+    },
+    "south_route": {
+      "position": [
+        -24,
+        1.8,
+        34
+      ],
+      "target": [
+        24,
+        2,
+        32
+      ]
+    }
+  },
+  "display_name": "Neon Circuit",
+  "extent": [
+    110,
+    90
+  ],
+  "id": "neon",
+  "layout": "res://game/maps/layouts/neon.gd",
+  "lighting": {
+    "fog": 0.0012,
+    "haze": "232c44",
+    "hdri": "res://content/sky/kloofendal_overcast_puresky_2k.hdr",
+    "sky_energy": 0.22,
+    "sky_turn": -10.0,
+    "sun_color": [
+      1.0,
+      0.55,
+      0.35
+    ],
+    "sun_elevation": 5.0,
+    "sun_energy": 0.45,
+    "sun_u": 0.5889,
+    "volume": 0.004
+  },
+  "menu_subtitle": "Blacklight arena, themed arcades, food court & cinema lot",
+  "minimap": {
+    "bounds": [
+      -59,
+      -59,
+      59,
+      59
+    ],
+    "texture": "res://content/minimaps/neon.png"
+  },
+  "order": 60,
+  "overview": [
+    {
+      "color": "28e0ff",
+      "point": [
+        -30,
+        0,
+        0
+      ],
+      "text": "ARCADE ROW"
+    },
+    {
+      "color": "ff2fd6",
+      "point": [
+        0,
+        0,
+        0
+      ],
+      "text": "LASER TAG ARENA"
+    },
+    {
+      "color": "ffb02e",
+      "point": [
+        0,
+        0,
+        -32
+      ],
+      "text": "FOOD COURT"
+    },
+    {
+      "color": "8250ff",
+      "point": [
+        0,
+        0,
+        36
+      ],
+      "text": "CINEMA PARKING"
+    }
+  ],
+  "seed": 2401,
+  "style": {
+    "accent": "ff2fd6",
+    "asphalt_patches": 10,
+    "backdrop": {
+      "kind": "skyline",
+      "nearest": 48.0
+    },
+    "ground": {
+      "layers": [
+        "asphalt",
+        "concrete_floor",
+        "dirt",
+        "gravel"
+      ],
+      "tint": [
+        0.45,
+        0.47,
+        0.55
+      ]
+    },
+    "ground_clutter": "manhole",
+    "ground_clutter_count": 4,
+    "ground_impact": "concrete",
+    "lane_arrows": [
+      [
+        -20,
+        0,
+        -41
+      ],
+      [
+        20,
+        0,
+        31
+      ]
+    ],
+    "terrain": {
+      "kind": "plain",
+      "layers": [
+        "asphalt",
+        "concrete_floor",
+        "gravel",
+        "dirt"
+      ]
+    },
+    "wall_kind": "brick"
+  },
+  "tests": {
+    "navigation_points": [
+      [
+        -30,
+        0,
+        3
+      ],
+      [
+        30,
+        0,
+        3
+      ],
+      [
+        0,
+        3.6,
+        -13.6
+      ],
+      [
+        -8,
+        0,
+        -20
+      ],
+      [
+        8,
+        0,
+        -20
+      ],
+      [
+        -8,
+        0,
+        20
+      ],
+      [
+        8,
+        0,
+        20
+      ]
+    ],
+    "smoke_origin": [
+      0,
+      2,
+      14
+    ],
+    "upper_point": [
+      0,
+      3.6,
+      -13.6
+    ]
+  }
+}

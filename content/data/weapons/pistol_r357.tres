@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WeaponDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/weapon_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "pistol_r357"
+display_name = "L08 Luger"
+category = "sidearm"
+automatic = false
+damage = 55.0
+rpm = 180.0
+capacity = 6
+reload_seconds = 2.8
+pellets = 1
+shell_reload = false
+ads_seconds = 0.14
+range_start = 15.0
+range_end = 50.0
+min_damage = 0.6
+hip_spread = 2
+ads_spread = 0.15
+recoil = 1.5
+model_path = "res://content/models/weapons/pistol_r357.gltf"
+audio_path = "res://content/audio/sidearm_0.wav"

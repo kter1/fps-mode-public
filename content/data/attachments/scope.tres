@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="AttachmentDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/attachment_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "scope"
+slot = "optic"
+display_name = "3× Scope"
+description = "3× sight · +50ms aim"
+modifiers = {"magnification": 3.0, "ads_add": 0.05}

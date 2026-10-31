@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WeaponDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/weapon_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "sniper_s90"
+display_name = "S90 Precision"
+category = "sniper"
+automatic = false
+damage = 90.0
+rpm = 50.0
+capacity = 5
+reload_seconds = 3.0
+pellets = 1
+shell_reload = false
+ads_seconds = 0.38
+range_start = 100.0
+range_end = 200.0
+min_damage = 0.85
+hip_spread = 5
+ads_spread = 0.015
+recoil = 3.8
+model_path = "res://content/models/weapons/sniper_s90.gltf"
+audio_path = "res://content/audio/sniper_0.wav"

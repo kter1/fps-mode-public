@@ -1,0 +1,25 @@
+{
+ "assets": [
+  {
+   "id": "metal_stool_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/metal_stool_02"
+  },
+  {
+   "id": "security_camera_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/security_camera_02"
+  },
+  {
+   "id": "small_lpg_tank",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/small_lpg_tank"
+  }
+ ]
+}

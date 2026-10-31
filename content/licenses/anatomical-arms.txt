@@ -1,0 +1,10 @@
+FPS Arms (rigged only)
+Creator: para; base anatomy derived from MakeHuman.
+License: Creative Commons CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+Creator's original model page and license declaration:
+https://opengameart.org/content/fps-arms-rigged-only
+Source download: https://opengameart.org/sites/default/files/fps%20arms.7z
+Modified for this game: GLB conversion, original skin texture binding, finger and
+thumb grip posing, separate left/right baked meshes, forearm extension.
+The game ships prepared meshes and an editable GLB, not a Blender dependency.
