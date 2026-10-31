@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "pool_cap": 24,
+  "starting_points": 500,
+  "starting_ammo": [
+    8,
+    32
+  ],
+  "frag_damage": 350,
+  "frag_radius": 6,
+  "crawler_threshold": 60,
+  "crawler_speed": 0.65,
+  "barrier_boards": 6,
+  "repair_seconds": 0.65,
+  "tear_seconds": 1.2,
+  "box_cost": 950,
+  "upgrade_cost": 5000,
+  "perk_limit": 4
+}

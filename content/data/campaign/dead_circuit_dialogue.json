@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "title": "Dead Circuit / West Gate",
+  "lead_seconds": 1.8,
+  "cues": [
+    {
+      "id": "01_rook",
+      "speaker": "rook",
+      "text": "Blackout Station. No lights, no traffic. Atlas, stay close. Control, we're at the west gate.",
+      "audio": "res://content/audio/campaign/dead_circuit/01_rook.wav",
+      "take": 2,
+      "gain_db": 5.76,
+      "gap": 0.65,
+      "sha256": "4ff50c81dd546e52c5d864392c4b979fc738a1f672cef11f3705459f6a03b921"
+    },
+    {
+      "id": "02_control",
+      "speaker": "control",
+      "text": "Copy. Emergency power should still be online. Get inside and find out what shut it down.",
+      "audio": "res://content/audio/campaign/dead_circuit/02_control.wav",
+      "take": 1,
+      "gain_db": -1.88,
+      "gap": 0.3,
+      "sha256": "5ea946fc07efde7f709f4cc875786f12120601c99d8986d4ca7cdb9127325bca"
+    },
+    {
+      "id": "03_atlas",
+      "speaker": "atlas",
+      "text": "That wasn't a shutdown. Someone cut the feed... Rook, those doors are moving.",
+      "audio": "res://content/audio/campaign/dead_circuit/03_atlas.wav",
+      "take": 1,
+      "gain_db": 3.38,
+      "gap": 0.08,
+      "sha256": "d18edf47f19e177631a7b2c7deaf9373f724e0299bf2f7b77115673376cee1d7"
+    },
+    {
+      "id": "04_rook",
+      "speaker": "rook",
+      "text": "Contact! Behind the glass! Get down!",
+      "audio": "res://content/audio/campaign/dead_circuit/04_rook.wav",
+      "take": 1,
+      "gain_db": -1.42,
+      "gap": 0.75,
+      "sha256": "b66d116c896a90cdc9911b79a87943108468461f71cfbeda1cebb47b8915e02e"
+    },
+    {
+      "id": "05_control",
+      "speaker": "control",
+      "text": "Rook, report. I've lost your camera.",
+      "audio": "res://content/audio/campaign/dead_circuit/05_control.wav",
+      "take": 2,
+      "gain_db": 2.32,
+      "gap": 0.2,
+      "sha256": "8096c22d82935106c5cf625ef68187cc919b02df00671afe19921b8c8b3fde13"
+    },
+    {
+      "id": "06_atlas",
+      "speaker": "atlas",
+      "text": "We're here. They're waiting for us. Give me ten seconds with that relay.",
+      "audio": "res://content/audio/campaign/dead_circuit/06_atlas.wav",
+      "take": 2,
+      "gain_db": 2.55,
+      "gap": 0.15,
+      "sha256": "8d0e947a2adb279032069a19455fc3227dca73ff0048fe0ad8bf6d30ef5637d9"
+    },
+    {
+      "id": "07_rook",
+      "speaker": "rook",
+      "text": "You've got five. I'll cover the hall. Keep your head down.",
+      "audio": "res://content/audio/campaign/dead_circuit/07_rook.wav",
+      "take": 1,
+      "gain_db": -0.45,
+      "gap": 0.3,
+      "sha256": "f3f71379676227d8ccccb44f47eca865b0c9025bacfac549dd84667045a954c5"
+    },
+    {
+      "id": "08_control",
+      "speaker": "control",
+      "text": "Listen carefully. Restore power, recover the records, then head for the seawall. No detours.",
+      "audio": "res://content/audio/campaign/dead_circuit/08_control.wav",
+      "take": 2,
+      "gain_db": -0.9,
+      "gap": 0.35,
+      "sha256": "0e9261d5a6cdd5e8e5b4adc9c543ccbfc2dd6471092bbe43f2f7e414f1b1c4da"
+    },
+    {
+      "id": "09_atlas",
+      "speaker": "atlas",
+      "text": "Right. Lights first. Bad decisions after.",
+      "audio": "res://content/audio/campaign/dead_circuit/09_atlas.wav",
+      "take": 1,
+      "gain_db": 4.59,
+      "gap": 0.65,
+      "sha256": "550dfba186c95edad2b793d1d187043de294bf63c423b99d121d0d6b015675b3"
+    },
+    {
+      "id": "10_rook",
+      "speaker": "rook",
+      "text": "On me. We finish this together.",
+      "audio": "res://content/audio/campaign/dead_circuit/10_rook.wav",
+      "take": 2,
+      "gain_db": 1.47,
+      "gap": 1.5,
+      "sha256": "3393143e3e694259b4787655e424525fca5c92f6659191151172045b52a82142"
+    }
+  ],
+  "provenance": {
+    "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+    "model_license": "Apache-2.0",
+    "model_revisions": {
+      "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+      "mlx-community/whisper-base.en-mlx": "aa0678c3466ed62c5c6114ec600a0e1f96820089"
+    },
+    "cost_usd": 0,
+    "user_approved_revision": 2
+  }
+}

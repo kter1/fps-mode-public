@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WeaponDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/weapon_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "pistol_p9"
+display_name = "P9 Duty"
+category = "sidearm"
+automatic = false
+damage = 30.0
+rpm = 360.0
+capacity = 17
+reload_seconds = 1.5
+pellets = 1
+shell_reload = false
+ads_seconds = 0.14
+range_start = 15.0
+range_end = 50.0
+min_damage = 0.6
+hip_spread = 2
+ads_spread = 0.15
+recoil = 1.5
+model_path = "res://content/models/weapons/pistol_p9.gltf"
+audio_path = "res://content/audio/sidearm_0.wav"

@@ -1,0 +1,18 @@
+ambientCG materials and decals
+License: Creative Commons CC0 1.0 Universal
+https://docs.ambientcg.com/license/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+- AsphaltDamage001 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=AsphaltDamage001
+- Bark014 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=Bark014
+- Foliage001 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=Foliage001
+- LeafSet004 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=LeafSet004
+- LeafSet019 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=LeafSet019
+- LeafSet024 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=LeafSet024
+- Leaking004 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=Leaking004
+- Leaking006 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=Leaking006
+- Leaking008 (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=Leaking008
+- RoadLines020C (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=RoadLines020C
+- RoadLines030C (maps): ambientCG (Lennart Demes). https://ambientcg.com/view?id=RoadLines030C
+
+Delivered paths and hashes: content/manifest/maps.json.

@@ -1,0 +1,521 @@
+{
+  "version": 1,
+  "zones": [
+    {
+      "id": "zone_0",
+      "name": "Ticket Office",
+      "center": [
+        -22,
+        0,
+        13
+      ]
+    },
+    {
+      "id": "zone_1",
+      "name": "Baggage Service",
+      "center": [
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "id": "zone_2",
+      "name": "Security Hall",
+      "center": [
+        -22,
+        0,
+        -13
+      ]
+    },
+    {
+      "id": "zone_3",
+      "name": "Gate Lounge",
+      "center": [
+        0,
+        0,
+        -13
+      ]
+    },
+    {
+      "id": "zone_4",
+      "name": "Maintenance Room",
+      "center": [
+        22,
+        0,
+        -13
+      ]
+    },
+    {
+      "id": "zone_5",
+      "name": "Loading Apron",
+      "center": [
+        22,
+        0,
+        13
+      ]
+    }
+  ],
+  "player_start": [
+    -28,
+    0,
+    16
+  ],
+  "doors": [
+    {
+      "id": "door_0_1",
+      "kind": "door",
+      "title": "Ticket Office / Baggage Service",
+      "position": [
+        -11,
+        0,
+        13
+      ],
+      "yaw": 1.5707963267948966,
+      "price": 750,
+      "zones": [
+        0,
+        1
+      ],
+      "zone": 0
+    },
+    {
+      "id": "door_0_2",
+      "kind": "door",
+      "title": "Ticket Office / Security Hall",
+      "position": [
+        -22,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "price": 750,
+      "zones": [
+        0,
+        2
+      ],
+      "zone": 0
+    },
+    {
+      "id": "door_1_3",
+      "kind": "door",
+      "title": "Baggage Service / Gate Lounge",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "price": 1000,
+      "zones": [
+        1,
+        3
+      ],
+      "zone": 1
+    },
+    {
+      "id": "door_2_3",
+      "kind": "door",
+      "title": "Security Hall / Gate Lounge",
+      "position": [
+        -11,
+        0,
+        -13
+      ],
+      "yaw": 1.5707963267948966,
+      "price": 1000,
+      "zones": [
+        2,
+        3
+      ],
+      "zone": 2
+    },
+    {
+      "id": "door_3_4",
+      "kind": "door",
+      "title": "Gate Lounge / Maintenance Room",
+      "position": [
+        11,
+        0,
+        -13
+      ],
+      "yaw": 1.5707963267948966,
+      "price": 1250,
+      "zones": [
+        3,
+        4
+      ],
+      "zone": 3
+    },
+    {
+      "id": "door_1_5",
+      "kind": "door",
+      "title": "Baggage Service / Loading Apron",
+      "position": [
+        11,
+        0,
+        13
+      ],
+      "yaw": 1.5707963267948966,
+      "price": 1250,
+      "zones": [
+        1,
+        5
+      ],
+      "zone": 1
+    },
+    {
+      "id": "door_4_5",
+      "kind": "door",
+      "title": "Maintenance Room / Loading Apron",
+      "position": [
+        22,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "price": 1000,
+      "zones": [
+        4,
+        5
+      ],
+      "zone": 4
+    }
+  ],
+  "barriers": [
+    {
+      "id": "window_0_-6",
+      "zone": 0,
+      "position": [
+        -28,
+        0,
+        26
+      ],
+      "yaw": 0
+    },
+    {
+      "id": "window_0_6",
+      "zone": 0,
+      "position": [
+        -16,
+        0,
+        26
+      ],
+      "yaw": 0
+    },
+    {
+      "id": "window_1_-6",
+      "zone": 1,
+      "position": [
+        -6,
+        0,
+        26
+      ],
+      "yaw": 0
+    },
+    {
+      "id": "window_1_6",
+      "zone": 1,
+      "position": [
+        6,
+        0,
+        26
+      ],
+      "yaw": 0
+    },
+    {
+      "id": "window_2_-6",
+      "zone": 2,
+      "position": [
+        -28,
+        0,
+        -26
+      ],
+      "yaw": 3.141592653589793
+    },
+    {
+      "id": "window_2_6",
+      "zone": 2,
+      "position": [
+        -16,
+        0,
+        -26
+      ],
+      "yaw": 3.141592653589793
+    },
+    {
+      "id": "window_3_-6",
+      "zone": 3,
+      "position": [
+        -6,
+        0,
+        -26
+      ],
+      "yaw": 3.141592653589793
+    },
+    {
+      "id": "window_3_6",
+      "zone": 3,
+      "position": [
+        6,
+        0,
+        -26
+      ],
+      "yaw": 3.141592653589793
+    },
+    {
+      "id": "window_4_-6",
+      "zone": 4,
+      "position": [
+        16,
+        0,
+        -26
+      ],
+      "yaw": 3.141592653589793
+    },
+    {
+      "id": "window_4_6",
+      "zone": 4,
+      "position": [
+        28,
+        0,
+        -26
+      ],
+      "yaw": 3.141592653589793
+    },
+    {
+      "id": "window_5_-6",
+      "zone": 5,
+      "position": [
+        16,
+        0,
+        26
+      ],
+      "yaw": 0
+    },
+    {
+      "id": "window_5_6",
+      "zone": 5,
+      "position": [
+        28,
+        0,
+        26
+      ],
+      "yaw": 0
+    },
+    {
+      "id": "window_start_7",
+      "zone": 0,
+      "position": [
+        -33,
+        0,
+        7
+      ],
+      "yaw": -1.5707963267948966
+    },
+    {
+      "id": "window_start_19",
+      "zone": 0,
+      "position": [
+        -33,
+        0,
+        19
+      ],
+      "yaw": -1.5707963267948966
+    }
+  ],
+  "stations": [
+    {
+      "id": "wall_pistol_p9",
+      "kind": "wall",
+      "item": "pistol_p9",
+      "title": "PISTOL P9",
+      "position": [
+        -28,
+        0,
+        1.4499999999999993
+      ],
+      "price": 500,
+      "zone": 0
+    },
+    {
+      "id": "wall_sg_p12",
+      "kind": "wall",
+      "item": "sg_p12",
+      "title": "SG P12",
+      "position": [
+        -16,
+        0,
+        1.4499999999999993
+      ],
+      "price": 750,
+      "zone": 0
+    },
+    {
+      "id": "wall_smg_mp9",
+      "kind": "wall",
+      "item": "smg_mp9",
+      "title": "SMG MP9",
+      "position": [
+        -6,
+        0,
+        1.4499999999999993
+      ],
+      "price": 1000,
+      "zone": 1
+    },
+    {
+      "id": "wall_ar_a4",
+      "kind": "wall",
+      "item": "ar_a4",
+      "title": "AR A4",
+      "position": [
+        -16,
+        0,
+        -24.55
+      ],
+      "price": 1500,
+      "zone": 2
+    },
+    {
+      "id": "wall_lmg_l56",
+      "kind": "wall",
+      "item": "lmg_l56",
+      "title": "LMG L56",
+      "position": [
+        -6,
+        0,
+        -24.55
+      ],
+      "price": 2000,
+      "zone": 3
+    },
+    {
+      "id": "perk_revive",
+      "kind": "perk",
+      "item": "revive",
+      "title": "SECOND WIND",
+      "position": [
+        -15,
+        0,
+        3.5
+      ],
+      "price": 500,
+      "zone": 0
+    },
+    {
+      "id": "perk_stride",
+      "kind": "perk",
+      "item": "stride",
+      "title": "LONG STRIDE",
+      "position": [
+        7,
+        0,
+        3.5
+      ],
+      "price": 2000,
+      "zone": 1
+    },
+    {
+      "id": "perk_hands",
+      "kind": "perk",
+      "item": "hands",
+      "title": "QUICK HANDS",
+      "position": [
+        -15,
+        0,
+        -22.5
+      ],
+      "price": 3000,
+      "zone": 2
+    },
+    {
+      "id": "perk_heart",
+      "kind": "perk",
+      "item": "heart",
+      "title": "IRONHEART",
+      "position": [
+        7,
+        0,
+        -22.5
+      ],
+      "price": 2500,
+      "zone": 3
+    },
+    {
+      "id": "perk_overdrive",
+      "kind": "perk",
+      "item": "overdrive",
+      "title": "OVERDRIVE",
+      "position": [
+        29,
+        0,
+        3.5
+      ],
+      "price": 2000,
+      "zone": 5
+    },
+    {
+      "id": "power",
+      "kind": "power",
+      "position": [
+        27,
+        0,
+        -21
+      ],
+      "title": "POWER",
+      "price": 0,
+      "zone": 4
+    },
+    {
+      "id": "upgrade",
+      "kind": "upgrade",
+      "position": [
+        17,
+        0,
+        -21
+      ],
+      "title": "UPGRADE",
+      "price": 5000,
+      "zone": 4
+    },
+    {
+      "id": "trap",
+      "kind": "trap",
+      "position": [
+        28,
+        0,
+        5
+      ],
+      "title": "TRAP",
+      "price": 1000,
+      "zone": 5
+    }
+  ],
+  "box_sites": [
+    {
+      "zone": 1,
+      "position": [
+        -7,
+        0,
+        21
+      ]
+    },
+    {
+      "zone": 3,
+      "position": [
+        -7,
+        0,
+        -5
+      ]
+    },
+    {
+      "zone": 5,
+      "position": [
+        15,
+        0,
+        21
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "glacier_peak",
+  "display_name": "Glacier Peak",
+  "order": 70,
+  "blurb": "A snow-covered glacier margin with a crevasse-cut river, survey crossing, scanned moraine and scattered expedition refuges.",
+  "menu_subtitle": "TDM  /  FRACTURE BASIN \u2014 ICE RIVER & EXPEDITION CAMPS",
+  "layout": "res://game/maps/layouts/glacier_peak.gd",
+  "seed": 2410,
+  "extent": [
+    112,
+    100
+  ],
+  "minimap": {
+    "bounds": [
+      -62,
+      -62,
+      62,
+      62
+    ],
+    "texture": "res://content/minimaps/glacier_peak.png"
+  },
+  "style": {
+    "ground_base": "brushed_concrete",
+    "ground_red": "snow_02",
+    "ground_green": "gravel_stones",
+    "ground_blue": "lichen_rock",
+    "ground_tint": "d8e0e6",
+    "authored_dressing": true,
+    "wall": "corrugated_iron_02",
+    "roof": "painted_metal_shutter",
+    "trim": "painted_metal_shutter",
+    "plinth": "brushed_concrete",
+    "road": "brushed_concrete",
+    "walk": "concrete_floor_worn_001",
+    "gravel": "gravel_stones",
+    "dirt": "snow_02",
+    "interior_floor": "concrete_floor_worn_001",
+    "crate": "wooden_crate_02",
+    "crate_height": 0.96,
+    "palette": [
+      "1f2e3d",
+      "d95326",
+      "158594",
+      "eab308",
+      "e8eef2",
+      "23282d"
+    ],
+    "office_paint": "e8eef2",
+    "hall_paint": "1f2e3d",
+    "plant_paint": "d95326",
+    "wall_alt": "concrete_wall_004",
+    "ground": {
+      "layers": [
+        "snow",
+        "snow",
+        "rock",
+        "snow"
+      ],
+      "tint": "e7eff4"
+    },
+    "terrain": {
+      "layers": [
+        "snow",
+        "rock",
+        "snow",
+        "snow"
+      ],
+      "tint": "d8e0e6",
+      "steep_projection": true
+    },
+    "ground_impact": "earth"
+  },
+  "lighting": {
+    "hdri": "res://content/sky/kloofendal_43d_clear_puresky_2k.hdr",
+    "sun_u": 0.1462,
+    "sun_elevation": 43.0,
+    "sky_turn": -35.52,
+    "sun_color": [
+      1,
+      0.96,
+      0.9
+    ],
+    "sun_energy": 1.9,
+    "sky_energy": 0.9,
+    "haze": "becfdf",
+    "fog": 0.0008,
+    "volume": 0.0015
+  },
+  "capture": {
+    "blue_spawn": {
+      "position": [
+        -48,
+        6.0,
+        -36
+      ],
+      "target": [
+        -10,
+        3,
+        -12
+      ],
+      "fov": 72
+    },
+    "red_spawn": {
+      "position": [
+        48,
+        3.0,
+        36
+      ],
+      "target": [
+        2,
+        2.5,
+        7
+      ],
+      "fov": 72
+    },
+    "north_route": {
+      "position": [
+        -15,
+        6,
+        -36
+      ],
+      "target": [
+        28,
+        6,
+        -32
+      ],
+      "fov": 68
+    },
+    "center_interior": {
+      "position": [
+        -39,
+        5.1,
+        -29
+      ],
+      "target": [
+        -28,
+        5.1,
+        -29
+      ],
+      "fov": 72
+    },
+    "south_route": {
+      "position": [
+        23,
+        2,
+        11
+      ],
+      "target": [
+        24,
+        3,
+        31
+      ],
+      "fov": 72
+    },
+    "elevated": {
+      "position": [
+        0,
+        5.5,
+        0
+      ],
+      "target": [
+        12,
+        0,
+        29
+      ],
+      "fov": 74
+    },
+    "first_person": {
+      "position": [
+        -23,
+        1.8,
+        -5
+      ],
+      "target": [
+        4,
+        3.8,
+        0
+      ],
+      "fov": 74
+    }
+  },
+  "overview": [
+    {
+      "text": "ASCENT CAMP",
+      "point": [
+        -35,
+        12,
+        -29
+      ],
+      "color": "e8eef2"
+    },
+    {
+      "text": "WEATHER RELAY",
+      "point": [
+        28,
+        12,
+        -32
+      ],
+      "color": "e8eef2"
+    },
+    {
+      "text": "FRACTURE CROSSING",
+      "point": [
+        0,
+        12,
+        0
+      ],
+      "color": "e8eef2"
+    },
+    {
+      "text": "CREVASSE RUN",
+      "point": [
+        23,
+        12,
+        24
+      ],
+      "color": "e8eef2"
+    },
+    {
+      "text": "RESCUE REFUGE",
+      "point": [
+        -29,
+        10,
+        28
+      ],
+      "color": "e8eef2"
+    }
+  ],
+  "tests": {
+    "smoke_origin": [
+      -30,
+      2,
+      0
+    ],
+    "upper_point": [
+      0,
+      3.8,
+      0
+    ],
+    "upper_min_height": 3.5,
+    "navigation_points": [
+      [
+        0,
+        3.8,
+        0
+      ],
+      [
+        -35,
+        3.4,
+        -29
+      ],
+      [
+        28,
+        3.4,
+        -32
+      ],
+      [
+        -29,
+        0,
+        28
+      ],
+      [
+        23,
+        0,
+        24
+      ],
+      [
+        0,
+        -3.2,
+        0
+      ]
+    ],
+    "min_scanned_nodes": 100,
+    "fall_limit": -5.0
+  },
+  "supported_modes": [
+    "tdm"
+  ]
+}

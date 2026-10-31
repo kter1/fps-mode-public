@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="WeaponDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/weapon_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "dmr_d14"
+display_name = "D14 Marksman"
+category = "marksman"
+automatic = false
+damage = 56.0
+rpm = 240.0
+capacity = 20
+reload_seconds = 2.6
+pellets = 1
+shell_reload = false
+ads_seconds = 0.28
+range_start = 60.0
+range_end = 140.0
+min_damage = 0.75
+hip_spread = 2.5
+ads_spread = 0.04
+recoil = 2.1
+model_path = "res://content/models/weapons/dmr_d14.gltf"
+audio_path = "res://content/audio/marksman_0.wav"

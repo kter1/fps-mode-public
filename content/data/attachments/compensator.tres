@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="AttachmentDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://game/combat/attachment_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "compensator"
+slot = "muzzle"
+display_name = "Compensator"
+description = "−20% recoil · +15ms aim"
+modifiers = {"recoil": 0.8, "ads_add": 0.015}

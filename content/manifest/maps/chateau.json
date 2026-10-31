@@ -1,0 +1,633 @@
+{
+  "assets": {
+    "bar_chair_round_01": {
+      "creator": "Dairon Sanchez",
+      "fetched_unix": 1793216720,
+      "files": [
+        {
+          "path": "content/models/props/bar_chair_round_01/bar_chair_round_01_1k.gltf",
+          "sha256": "6a8f92123245268cbb69fc96f305ee710b32a7a06761b143d3049eaabfcbdd32"
+        },
+        {
+          "path": "content/models/props/bar_chair_round_01/textures/bar_chair_round_01_arm_1k.jpg",
+          "sha256": "9f34b279bdd1527ec19fc3a3bb0ce374f0c0ba2dc05dfbd58f561bc317bd36c7"
+        },
+        {
+          "path": "content/models/props/bar_chair_round_01/bar_chair_round_01.bin",
+          "sha256": "2bda85d89beb91097998b25293f10e72686b972aecffd2c14d1b5412cc1da276"
+        },
+        {
+          "path": "content/models/props/bar_chair_round_01/textures/bar_chair_round_01_diff_1k.jpg",
+          "sha256": "1b3912fe1102b4082d7421aeb2e2717d3ebe914d261700f8710c0fdb7d7463bb"
+        },
+        {
+          "path": "content/models/props/bar_chair_round_01/textures/bar_chair_round_01_nor_gl_1k.jpg",
+          "sha256": "91e4310863002228003d100be83e0524832e532d05f27ef8ed62675b116f0bd1"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 14373,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/bar_chair_round_01",
+      "type": "model"
+    },
+    "chess_set": {
+      "creator": "Riley Queen",
+      "fetched_unix": 1793216714,
+      "files": [
+        {
+          "path": "content/models/props/chess_set/chess_set_1k.gltf",
+          "sha256": "3e21ecd0c2ffb703dfdb3f3ea7a379c1dbd4ec513ba2cb8e6cb1e5f276d7eb91"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_pieces_white_nor_gl_1k.jpg",
+          "sha256": "51c31dc44d1d0f01c10b759be7903bea9d5b04781b63dc45738dd70a6e31dd6c"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_pieces_black_nor_gl_1k.jpg",
+          "sha256": "b92343bba552e82f271f86def504e806e73c6f5dfc4469a90fa5b4f66013bfcd"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_pieces_black_arm_1k.jpg",
+          "sha256": "e0413b36e970c645bd9b6192bfe788b318d9bd9f4f3746cf137552bfee118982"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_board_diff_1k.jpg",
+          "sha256": "cca44d214f48ebe2205362a3996265d1fed727e094835bec2c873e91c653eaa5"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_board_nor_gl_1k.jpg",
+          "sha256": "bc5657ec58e0e04a2e8fa6d50ec0f6e3009b1c22b8391ccdde1a4d5d9db30d4d"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_board_arm_1k.jpg",
+          "sha256": "67387308ce3a6424a1666e742c6556853344c01fbfcda8453b6e2e2f62bc6d30"
+        },
+        {
+          "path": "content/models/props/chess_set/chess_set.bin",
+          "sha256": "c73476fd032a2cb4a9c256f70573eed260708132fdc42fec161c6216711560b3"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_pieces_white_arm_1k.jpg",
+          "sha256": "9604c461ee6d5d4f5937891b0468ff7efd354299074b139d04029b03c326e434"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_pieces_black_diff_1k.jpg",
+          "sha256": "74471018f96f197c963cc89e7dae19960b03bc2e4bf448e4b0beb51bfee5b85d"
+        },
+        {
+          "path": "content/models/props/chess_set/textures/chess_set_pieces_white_diff_1k.jpg",
+          "sha256": "d9e06002509d73c3f343e1643f0c89ef84e24602f1f6858b5628e8f3e55ae77d"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 76920,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/chess_set",
+      "type": "model"
+    },
+    "dining_chair_02": {
+      "creator": "James Ray Cock",
+      "fetched_unix": 1793216719,
+      "files": [
+        {
+          "path": "content/models/props/dining_chair_02/dining_chair_02_1k.gltf",
+          "sha256": "88352a44a17319846f61fe03ce75c79fb1849aa508b6a262366c149c1bbd06b8"
+        },
+        {
+          "path": "content/models/props/dining_chair_02/dining_chair_02.bin",
+          "sha256": "c7f1ef858f73815176d2ab304472a69ccf6097e971e5258eb924a75f841d4af5"
+        },
+        {
+          "path": "content/models/props/dining_chair_02/textures/dining_chair_02_nor_gl_1k.jpg",
+          "sha256": "348703512ca1215f8389e9108419c2d1a46537663db25f423c3ef900d20cfe61"
+        },
+        {
+          "path": "content/models/props/dining_chair_02/textures/dining_chair_02_diff_1k.jpg",
+          "sha256": "343990f764790da1149485a422dee2bc6797945a6af06a37d02d7a7de041acf5"
+        },
+        {
+          "path": "content/models/props/dining_chair_02/textures/dining_chair_02_arm_1k.jpg",
+          "sha256": "0a81c0c886baa1e65d94fb6fb90ab4751bee319888ecf1c428ae62042d8a5b15"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 22013,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/dining_chair_02",
+      "type": "model"
+    },
+    "herringbone_parquet": {
+      "creator": "Jenelle van Heerden, Sergej Majboroda",
+      "fetched_unix": 1793216705,
+      "files": [
+        {
+          "path": "content/materials/herringbone_parquet/herringbone_parquet_diff_2k.jpg",
+          "sha256": "8305c12adf1da61f4d267611948bfdc9293c9b9915da64e41cc1ab68c0167ff1"
+        },
+        {
+          "path": "content/materials/herringbone_parquet/herringbone_parquet_nor_gl_2k.jpg",
+          "sha256": "8891325197ab8a77689506118fade7bc812944a03bcce47b802e4b8742e590cd"
+        },
+        {
+          "path": "content/materials/herringbone_parquet/herringbone_parquet_arm_2k.jpg",
+          "sha256": "300b8df5e0aeec4133722b64d271bfac91a965c4a42cdfa46dff82562e471916"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": null,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/herringbone_parquet",
+      "type": "texture"
+    },
+    "lantern_chandelier_01": {
+      "creator": "Kirill Sannikov",
+      "fetched_unix": 1793216725,
+      "files": [
+        {
+          "path": "content/models/props/lantern_chandelier_01/lantern_chandelier_01_1k.gltf",
+          "sha256": "dc5480e03b82d12521fc46bdb73d4a0291641cfa0d4e4c0fe21f3a087bc69468"
+        },
+        {
+          "path": "content/models/props/lantern_chandelier_01/textures/lantern_chandelier_01_glass_arm_1k.jpg",
+          "sha256": "0946fcf83e9839caaa91e978d851cebcdb080f5e58e41cb912a967efdda8eca2"
+        },
+        {
+          "path": "content/models/props/lantern_chandelier_01/textures/lantern_chandelier_01_glass_nor_gl_1k.jpg",
+          "sha256": "b2b71d166f9f42ac916c3d3139652cd2bbb8158ba69003777ecb9ec326ecfdc7"
+        },
+        {
+          "path": "content/models/props/lantern_chandelier_01/textures/lantern_chandelier_01_arm_1k.jpg",
+          "sha256": "759c5d302fb6b6443677d221b16010395f70018d0f5eb83913c4c9ebad5efb0e"
+        },
+        {
+          "path": "content/models/props/lantern_chandelier_01/textures/lantern_chandelier_01_diff_1k.jpg",
+          "sha256": "72b46da4e813c1e3ef27a9ddc4cc849a4c6de313ac2925b189c58a8813233313"
+        },
+        {
+          "path": "content/models/props/lantern_chandelier_01/textures/lantern_chandelier_01_glass_diff_1k.jpg",
+          "sha256": "b7f9a93f77db82980c2e5f5e5667e1e073118e881bd500e9e1a45e5de5551103"
+        },
+        {
+          "path": "content/models/props/lantern_chandelier_01/textures/lantern_chandelier_01_glass_alpha_1k.jpg",
+          "sha256": "facc4b2c8b0530175cb669c3230ad42c001402d6125d7954aa6506a76f7a423f"
+        },
+        {
+          "path": "content/models/props/lantern_chandelier_01/textures/lantern_chandelier_01_nor_gl_1k.jpg",
+          "sha256": "c09551358d2f95467e3af5ec5b2cd9338f84a23980c1536157e9291e01c3d94d"
+        },
+        {
+          "path": "content/models/props/lantern_chandelier_01/lantern_chandelier_01.bin",
+          "sha256": "2431ab40b0c336600ba58c3144b6cb257370245a5096938363aa4b796aaa5cee"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 5971,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/lantern_chandelier_01",
+      "type": "model"
+    },
+    "marble_tiles": {
+      "creator": "Charlotte Baglioni",
+      "fetched_unix": 1793216703,
+      "files": [
+        {
+          "path": "content/materials/marble_tiles/marble_tiles_diff_2k.jpg",
+          "sha256": "9a73fe867cf0c4a14b903542106dee4e33a1de8abf942b1725ff679c00492668"
+        },
+        {
+          "path": "content/materials/marble_tiles/marble_tiles_nor_gl_2k.jpg",
+          "sha256": "632eda29b682fb3757fc5d646e53577f80d1546985bf2adae04ec6c4c4c84df0"
+        },
+        {
+          "path": "content/materials/marble_tiles/marble_tiles_arm_2k.jpg",
+          "sha256": "5da7e0cceb3f822bff1735b43c6a67082aa94fadd5b8dd7641353f521ce88e8a"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": null,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/marble_tiles",
+      "type": "texture"
+    },
+    "outdoor_table_chair_set_01": {
+      "creator": "James Ray Cock",
+      "fetched_unix": 1793216716,
+      "files": [
+        {
+          "path": "content/models/props/outdoor_table_chair_set_01/outdoor_table_chair_set_01_1k.gltf",
+          "sha256": "1b718deb56a9f07b260a5f95926fb7caa5fd27918cacca283414c840e46415f2"
+        },
+        {
+          "path": "content/models/props/outdoor_table_chair_set_01/textures/outdoor_table_chair_set_01_table_nor_gl_1k.jpg",
+          "sha256": "e30e3f639bea22013149e73bcbaeb95805bf831c7b93b80ab83a33e42672b044"
+        },
+        {
+          "path": "content/models/props/outdoor_table_chair_set_01/textures/outdoor_table_chair_set_01_chair_arm_1k.jpg",
+          "sha256": "71ac20bb124af45c3ff2fc5eee11d7c9d277ac245ac14ee4ba87291bb768937d"
+        },
+        {
+          "path": "content/models/props/outdoor_table_chair_set_01/textures/outdoor_table_chair_set_01_table_arm_1k.jpg",
+          "sha256": "fecbe0e42db83d6f0ee8186afece1fd5c3a5834ff07926c00ac18468757d4377"
+        },
+        {
+          "path": "content/models/props/outdoor_table_chair_set_01/textures/outdoor_table_chair_set_01_table_diff_1k.jpg",
+          "sha256": "7743a55a3a646ebdd9969e72594cb8b94e318d38956f2172a5e6934609a68bf4"
+        },
+        {
+          "path": "content/models/props/outdoor_table_chair_set_01/outdoor_table_chair_set_01.bin",
+          "sha256": "d62458c79c6c902d1195bff875e42bf7579c6b309c6b96f9cd7543af43170220"
+        },
+        {
+          "path": "content/models/props/outdoor_table_chair_set_01/textures/outdoor_table_chair_set_01_chair_nor_gl_1k.jpg",
+          "sha256": "9b57cd67775146b0865f3e5409b54661080625789042846569f7f65ab37258b3"
+        },
+        {
+          "path": "content/models/props/outdoor_table_chair_set_01/textures/outdoor_table_chair_set_01_chair_diff_1k.jpg",
+          "sha256": "60ed02a2c36098069235ad82937b2602e8940346f1d6a75c6386e78e03dbacb3"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 9828,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/outdoor_table_chair_set_01",
+      "type": "model"
+    },
+    "planter_pot_clay": {
+      "creator": "Amal Kumar",
+      "fetched_unix": 1793216727,
+      "files": [
+        {
+          "path": "content/models/props/planter_pot_clay/planter_pot_clay_1k.gltf",
+          "sha256": "f2989068dcff9737c9f3d49d435b70e36d553822ac87134daac055ae9706af1e"
+        },
+        {
+          "path": "content/models/props/planter_pot_clay/textures/planter_pot_clay_diff_1k.jpg",
+          "sha256": "4f2962fd238401e49fd400596fdccd1ee9e2cca9ed21e44bb924dca3076f524c"
+        },
+        {
+          "path": "content/models/props/planter_pot_clay/planter_pot_clay.bin",
+          "sha256": "effd0a038a75a054e55e2f5f71a84c57c1c6efc4e453ae3e62d4ce5167a2913c"
+        },
+        {
+          "path": "content/models/props/planter_pot_clay/textures/planter_pot_clay_arm_1k.jpg",
+          "sha256": "68e9e509db4e330b48924c606d4a9a99b54e105c1fe1690ff2811a05d95a0def"
+        },
+        {
+          "path": "content/models/props/planter_pot_clay/textures/planter_pot_clay_nor_gl_1k.jpg",
+          "sha256": "25a564e55b247a94863b513853b1aeaad5c894dd78e92e1fd89e794b83b483c4"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 3080,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/planter_pot_clay",
+      "type": "model"
+    },
+    "roof_slates_02": {
+      "creator": "Rob Tuytel",
+      "fetched_unix": 1793216702,
+      "files": [
+        {
+          "path": "content/materials/roof_slates_02/roof_slates_02_diff_2k.jpg",
+          "sha256": "5be7e739997e9f5560b07ee42f335d7ad70213359d48cbffc9c04ad129e9a2c4"
+        },
+        {
+          "path": "content/materials/roof_slates_02/roof_slates_02_nor_gl_2k.jpg",
+          "sha256": "4ff2618aa5f2eac52f728b8b4f7e715d87c410719effc66eb6f528378ef9f49e"
+        },
+        {
+          "path": "content/materials/roof_slates_02/roof_slates_02_arm_2k.jpg",
+          "sha256": "2696f42f9d3d021ce32fa7999bbb0b1e33dab673a5df2a334214526d1d456193"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": null,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/roof_slates_02",
+      "type": "texture"
+    },
+    "round_wooden_table_01": {
+      "creator": "Ulan Cabanilla",
+      "fetched_unix": 1793216717,
+      "files": [
+        {
+          "path": "content/models/props/round_wooden_table_01/round_wooden_table_01_1k.gltf",
+          "sha256": "dd09c1663b10d15a1fda12ba4f53743e8b8379b17254a78be22100d584738b48"
+        },
+        {
+          "path": "content/models/props/round_wooden_table_01/textures/round_wooden_table_01_nor_gl_1k.jpg",
+          "sha256": "5f80ed76e2eccaea8ab7c0cc9c85d29cc9b164aabfa2403304e1ec79dc47150c"
+        },
+        {
+          "path": "content/models/props/round_wooden_table_01/textures/round_wooden_table_01_arm_1k.jpg",
+          "sha256": "32b5056dc36e3081987c20cd03f15e73298266c1aff3e573b832e9dd0f8145b9"
+        },
+        {
+          "path": "content/models/props/round_wooden_table_01/textures/round_wooden_table_01_diff_1k.jpg",
+          "sha256": "d83659d8d584bbadf160760b825f990c6264901e33051643d19fcd389b0d19ae"
+        },
+        {
+          "path": "content/models/props/round_wooden_table_01/round_wooden_table_01.bin",
+          "sha256": "c2635368bc86239a73fafdd8bce20b4261155ce7241e95e809a753ed4693f157"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 8640,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/round_wooden_table_01",
+      "type": "model"
+    },
+    "shrub_02": {
+      "creator": "Rico Cilliers",
+      "fetched_unix": 1793216728,
+      "files": [
+        {
+          "path": "content/models/props/shrub_02/shrub_02_1k.gltf",
+          "sha256": "99de0a70fe88ad414615cc8d8e020617c8512e2abfe08b911b153a6fcc40d93e"
+        },
+        {
+          "path": "content/models/props/shrub_02/textures/shrub_02_arm_1k.jpg",
+          "sha256": "7186bf604d5c02f873aef6de2346cc06b6fa48f47d054edbef36d2c3772c0890"
+        },
+        {
+          "path": "content/models/props/shrub_02/textures/shrub_02_nor_gl_1k.jpg",
+          "sha256": "54c24e433365d5410223b7ebd2b33042b80831f80976e10768114db5ef6911d7"
+        },
+        {
+          "path": "content/models/props/shrub_02/shrub_02.bin",
+          "sha256": "5c1b79da1cfdbac90599542ccd1f75ba433a3a4d356b1ea03655adb39b0e2c96"
+        },
+        {
+          "path": "content/models/props/shrub_02/textures/shrub_02_diff_1k.jpg",
+          "sha256": "9956eff294034d70516d867e9668428a23d782feb3d4c34061dce5e44bacd5a8"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 52317,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/shrub_02",
+      "type": "model"
+    },
+    "sofa_02": {
+      "creator": "Kirill Sannikov",
+      "fetched_unix": 1793216723,
+      "files": [
+        {
+          "path": "content/models/props/sofa_02/sofa_02_1k.gltf",
+          "sha256": "5df114209f9b956ccd4831eaeef469a81339ab371d0056eb6d5d29eee08eb431"
+        },
+        {
+          "path": "content/models/props/sofa_02/textures/sofa_02_diff_1k.jpg",
+          "sha256": "4ff65c782578b52eee89cb96cc4e258ce1b6848e1a7655019af1f7207c749840"
+        },
+        {
+          "path": "content/models/props/sofa_02/textures/sofa_02_arm_1k.jpg",
+          "sha256": "f2813f32cd9ec42a9080590d0953ac9e272d9baa0b22fdb5910bf325157393c6"
+        },
+        {
+          "path": "content/models/props/sofa_02/textures/sofa_02_nor_gl_1k.jpg",
+          "sha256": "c97a359703a8ce1cee62cbd9dc4013b611d821afb7769810983b464ebc5d0cfe"
+        },
+        {
+          "path": "content/models/props/sofa_02/sofa_02.bin",
+          "sha256": "cb337e03211be0309afa1ded2b6cbb2d402c0f794aaf8828fba559d27a42d3f5"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 2728,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/sofa_02",
+      "type": "model"
+    },
+    "street_lamp_02": {
+      "creator": "Josh Dean",
+      "fetched_unix": 1793216726,
+      "files": [
+        {
+          "path": "content/models/props/street_lamp_02/street_lamp_02_1k.gltf",
+          "sha256": "3a8a42486c5dc4538a8b44aeeef502c64a1c9d0d42fa5610e37886c355337ff8"
+        },
+        {
+          "path": "content/models/props/street_lamp_02/textures/street_lamp_02_diff_1k.jpg",
+          "sha256": "19882567313dd43fef60f9fa41a4c55f81a957f9fee539e931fc36a32e386b6c"
+        },
+        {
+          "path": "content/models/props/street_lamp_02/textures/street_lamp_02_arm_1k.jpg",
+          "sha256": "a1e2d654e7d5d48a1fdfbf720840192d171df54e5ea5f055145d0472d617eede"
+        },
+        {
+          "path": "content/models/props/street_lamp_02/street_lamp_02.bin",
+          "sha256": "e544c04855dcf728ff2724f691f6784690b8ba3ac323a9a332e56b271ffe1d7c"
+        },
+        {
+          "path": "content/models/props/street_lamp_02/textures/street_lamp_02_nor_gl_1k.jpg",
+          "sha256": "fdd9fb26ca853020ed156fdd84e90ce3f9a68bf94edf71c0ffe72add67e316c6"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 20338,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/street_lamp_02",
+      "type": "model"
+    },
+    "terracotta_floor_tiles": {
+      "creator": "Dimitrios Savva",
+      "fetched_unix": 1793216707,
+      "files": [
+        {
+          "path": "content/materials/terracotta_floor_tiles/terracotta_floor_tiles_diff_2k.jpg",
+          "sha256": "dd1adc1d35618db8fd58f2d22b51242bc570dc83c23518a1100d3570dfe05559"
+        },
+        {
+          "path": "content/materials/terracotta_floor_tiles/terracotta_floor_tiles_nor_gl_2k.jpg",
+          "sha256": "7378375dd7d7ec01a33bce4fc679f8a10fad4085746c7ad698724e8ca1113807"
+        },
+        {
+          "path": "content/materials/terracotta_floor_tiles/terracotta_floor_tiles_arm_2k.jpg",
+          "sha256": "6a44f0a0cec7caab1f7fa0753a958dfd087d8a4dc7003b6fe394aa12b21040eb"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": null,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/terracotta_floor_tiles",
+      "type": "texture"
+    },
+    "white_sandstone_blocks_02": {
+      "creator": "Rob Tuytel",
+      "fetched_unix": 1793216700,
+      "files": [
+        {
+          "path": "content/materials/white_sandstone_blocks_02/white_sandstone_blocks_02_diff_2k.jpg",
+          "sha256": "a6bf9a91fcd5221dfa6ea458740916b03cdc9ce56796779471c8f400c6937dd3"
+        },
+        {
+          "path": "content/materials/white_sandstone_blocks_02/white_sandstone_blocks_02_nor_gl_2k.jpg",
+          "sha256": "e827a760c93df71f1d5695f4feeb4fe5c07b9dfc4bc4657191cf683e3c3645ed"
+        },
+        {
+          "path": "content/materials/white_sandstone_blocks_02/white_sandstone_blocks_02_arm_2k.jpg",
+          "sha256": "f068fd8176fbe8979a4b49da324cdeafa5fd5d5107f8bff36335cd5295346d68"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": null,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/white_sandstone_blocks_02",
+      "type": "texture"
+    },
+    "white_stucco": {
+      "creator": "Amal Kumar",
+      "fetched_unix": 1793216698,
+      "files": [
+        {
+          "path": "content/materials/white_stucco/white_stucco_diff_2k.jpg",
+          "sha256": "a1cf9063e72d82306c5f3330cfaa56ed75ee365dc6a6eb875cde125395dbe4ea"
+        },
+        {
+          "path": "content/materials/white_stucco/white_stucco_nor_gl_2k.jpg",
+          "sha256": "d11eae11d09af20a1bd4e1262b1d35ad4259451a19651307a7fa8f6c0cadfc59"
+        },
+        {
+          "path": "content/materials/white_stucco/white_stucco_arm_2k.jpg",
+          "sha256": "15c6162bd93fc94b1fec078cabe595e44652b1b4d78d5932f8f143e3911b6bb1"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": null,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/white_stucco",
+      "type": "texture"
+    },
+    "wine_barrel_01": {
+      "creator": "James Ray Cock",
+      "fetched_unix": 1793216708,
+      "files": [
+        {
+          "path": "content/models/props/wine_barrel_01/wine_barrel_01_1k.gltf",
+          "sha256": "503d3339677217c3241a3cdbc1c803ed1eb82d1a48f51436d1545ec5745ae8d8"
+        },
+        {
+          "path": "content/models/props/wine_barrel_01/wine_barrel_01.bin",
+          "sha256": "d827c31afed824b923ea9168462c93ab3ad3a88c4a68b155bd35efb1a02cbf00"
+        },
+        {
+          "path": "content/models/props/wine_barrel_01/textures/wine_barrel_01_diff_1k.jpg",
+          "sha256": "6bea25b4fadda0636b6b7e46e0cc15153eda21ef62c823d5ee2e06a5a7589214"
+        },
+        {
+          "path": "content/models/props/wine_barrel_01/textures/wine_barrel_01_arm_1k.jpg",
+          "sha256": "be658e1389dbe8669e847b8fc7df8affdce46d6582f01ac701555b6446a40b9d"
+        },
+        {
+          "path": "content/models/props/wine_barrel_01/textures/wine_barrel_01_nor_gl_1k.jpg",
+          "sha256": "86cdb0729b44d1687c75d895e6d0ef650f7580d70f3bcb52bce6fedc5fd79b6f"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 10820,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/wine_barrel_01",
+      "type": "model"
+    },
+    "wine_bottles_01": {
+      "creator": "Rico Cilliers, Jurita Burger",
+      "fetched_unix": 1793216711,
+      "files": [
+        {
+          "path": "content/models/props/wine_bottles_01/wine_bottles_01_1k.gltf",
+          "sha256": "70a8a5eabeac24cf298774aca78bbcf39145ca6bf5ebdf2f296edab73fbce039"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_label_ftero_vinea_02_arm_1k.jpg",
+          "sha256": "c07bcbd4cde7bf713b0512d52345b949c4684ec0735c5798ac79a0fb4719b92c"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_label_ftero_vinea_01_diff_1k.jpg",
+          "sha256": "3d1f02a201c8d573b155b2ea2265b31bf1d532e4c9a7baf2dfe54e2633e5e9c0"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_label_intertwine_01_arm_1k.jpg",
+          "sha256": "712d20fa4caabdf830e454ddc240643319700843e3bda349ae0c3c98dccbd582"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_label_clearwater_crystals_01_diff_1k.jpg",
+          "sha256": "fca5e598c73d877c636e3c28345254fb9f6320e765fdd0b923fdb4ead5769ccf"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_label_ftero_vinea_01_arm_1k.jpg",
+          "sha256": "5808aed6b27b1812bbead8c6d733d412c1ed56adf587770dedf5f5e9d2e5310f"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_label_clearwater_crystals_01_arm_1k.jpg",
+          "sha256": "67041443fc09702bc93c9481d1492aeaad659cdb9a5a5dab478a86f41017e83c"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_label_ftero_vinea_02_diff_1k.jpg",
+          "sha256": "5a35e83b08e3be62ae42773727d94d5c41da3df55b79fd7e53fca3fadc382a17"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_paper_nor_gl_1k.jpg",
+          "sha256": "b05b6f021b942032d45f23e46066da715c4f9624acea7d8db77928a90076a049"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/wine_bottles_01.bin",
+          "sha256": "a520b717c7f9d15b7f114d1be5f454f18b2cfd056757fb4d4c5f5054de5db6d6"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_label_intertwine_01_diff_1k.jpg",
+          "sha256": "e5571a24e0f025361dfeecd7a09f4c3ee9be36dadf817177ee75919078002513"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_diff_1k.jpg",
+          "sha256": "f440b6364c87eb440c9ca201759cfdaf2735e3147488eadc24be334f1e457a09"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_nor_gl_1k.jpg",
+          "sha256": "ed92387b827b7aebf4602e655c8e9cbaf53bbed24b7228106b04b3456e2d779c"
+        },
+        {
+          "path": "content/models/props/wine_bottles_01/textures/wine_bottles_01_arm_1k.jpg",
+          "sha256": "c3deadf0db4c9c98ad39f389e95fe2b09d8df0e3abb95a47f01478f31fd261a9"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 28848,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/wine_bottles_01",
+      "type": "model"
+    },
+    "wooden_bookshelf_worn": {
+      "creator": "Ulan Cabanilla",
+      "fetched_unix": 1793216722,
+      "files": [
+        {
+          "path": "content/models/props/wooden_bookshelf_worn/wooden_bookshelf_worn_1k.gltf",
+          "sha256": "a1c5b3f1e71ae0b5eb73047e8097bceaa5f17e5d2d0d7ae1b8053d5ec0878fc6"
+        },
+        {
+          "path": "content/models/props/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_nor_gl_1k.jpg",
+          "sha256": "90ffb1b3f7bb638d5a7e1a2b244a260d623e314a6010a6b8c23c57203e510ac9"
+        },
+        {
+          "path": "content/models/props/wooden_bookshelf_worn/wooden_bookshelf_worn.bin",
+          "sha256": "170758113b50132380ab46943f6eab18f2714460dead065aae37241a94abf0f9"
+        },
+        {
+          "path": "content/models/props/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_arm_1k.jpg",
+          "sha256": "41b3aca38fb55cb300d971016a597c80425da3744a6d33d82fe78f9dbe609eaa"
+        },
+        {
+          "path": "content/models/props/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_diff_1k.jpg",
+          "sha256": "970f60178decadd0d8fb1e5872f718350a49b027fd69469210c41ead350cba56"
+        }
+      ],
+      "license": "CC0-1.0",
+      "polycount": 10106,
+      "source": "polyhaven",
+      "source_page": "https://polyhaven.com/a/wooden_bookshelf_worn",
+      "type": "model"
+    }
+  }
+}

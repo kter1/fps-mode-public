@@ -1,0 +1,182 @@
+{
+ "assets": [
+  {
+   "id": "plastic_crate_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/plastic_crate_02"
+  },
+  {
+   "id": "trashbag",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/trashbag"
+  },
+  {
+   "id": "WetFloorSign_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/WetFloorSign_01"
+  },
+  {
+   "id": "korean_fire_extinguisher_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/korean_fire_extinguisher_01"
+  },
+  {
+   "id": "power_box_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/power_box_01"
+  },
+  {
+   "id": "security_camera_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/security_camera_01"
+  },
+  {
+   "id": "metal_stool_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/metal_stool_01"
+  },
+  {
+   "id": "desk_lamp_arm_01",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/desk_lamp_arm_01"
+  },
+  {
+   "id": "office_notepads",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/office_notepads"
+  },
+  {
+   "id": "television_02",
+   "source": "polyhaven",
+   "type": "model",
+   "resolution": "1k",
+   "dest": "content/models/props/television_02"
+  },
+  {
+   "id": "TireTracks001",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/TireTracks001"
+  },
+  {
+   "id": "Leaking001",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/Leaking001"
+  },
+  {
+   "id": "Leaking002",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/Leaking002"
+  },
+  {
+   "id": "Leaking003",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/Leaking003"
+  },
+  {
+   "id": "Leaking005",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/Leaking005"
+  },
+  {
+   "id": "Leaking006",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/Leaking006"
+  },
+  {
+   "id": "Leaking007",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/Leaking007"
+  },
+  {
+   "id": "Leaking009",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/Leaking009"
+  },
+  {
+   "id": "Leaking010A",
+   "source": "ambientcg",
+   "attribute": "1K-JPG",
+   "include": [
+    "*_Color.jpg",
+    "*_Opacity.jpg",
+    "*_NormalGL.jpg",
+    "*_Roughness.jpg"
+   ],
+   "dest": "content/decals/Leaking010A"
+  }
+ ]
+}

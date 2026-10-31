@@ -1,0 +1,263 @@
+{
+	"id": "transit_works",
+	"order": 60,
+	"display_name": "Transit Works",
+	"menu_subtitle": "Locomotive turntable / fan roundhouse / walk-through metro cars",
+	"layout": "res://game/maps/layouts/transit_works.gd",
+	"seed": 1906,
+	"extent": [
+		110,
+		90
+	],
+	"minimap": {
+		"texture": "res://content/minimaps/transit_works.png",
+		"bounds": [
+			-59,
+			-59,
+			59,
+			59
+		]
+	},
+	"style": {
+		"accent": "d9a534",
+		"wall_kind": "brick",
+		"ground_impact": "concrete",
+		"authored_dressing": true,
+		"ground": {
+			"layers": [
+				"asphalt",
+				"concrete_floor",
+				"gravel",
+				"dirt"
+			],
+			"tint": [
+				0.85,
+				0.87,
+				0.9
+			]
+		},
+		"asphalt_patches": 10,
+		"lane_arrows": [
+			[
+				-28,
+				0,
+				-14
+			],
+			[
+				28,
+				0,
+				16
+			]
+		],
+		"ground_clutter": "manhole",
+		"ground_clutter_count": 6,
+		"terrain": {
+			"kind": "plain",
+			"layers": [
+				"gravel",
+				"dirt",
+				"concrete_floor",
+				"asphalt"
+			]
+		},
+		"backdrop": {
+			"kind": "skyline",
+			"nearest": 36.0
+		}
+	},
+	"lighting": {
+		"hdri": "res://content/sky/kloofendal_28d_misty_puresky_2k.hdr",
+		"sun_u": 0.1462,
+		"sun_elevation": 26.8,
+		"sky_turn": 48.0,
+		"sun_color": [
+			1.0,
+			0.92,
+			0.83
+		],
+		"sun_energy": 1.12,
+		"sky_energy": 0.82,
+		"haze": "98a7b3",
+		"fog": 0.00075,
+		"volume": 0.0032
+	},
+	"capture": {
+		"blue_spawn": {
+			"position": [
+				-48.0,
+				1.8,
+				-4.0
+			],
+			"target": [
+				-20.0,
+				2.0,
+				-4.0
+			]
+		},
+		"red_spawn": {
+			"position": [
+				48.0,
+				1.8,
+				4.0
+			],
+			"target": [
+				20.0,
+				2.0,
+				4.0
+			]
+		},
+		"north_route": {
+			"position": [
+				-18.0,
+				1.8,
+				-35.0
+			],
+			"target": [
+				12.0,
+				2.2,
+				-35.0
+			]
+		},
+		"center_interior": {
+			"position": [
+				-12.0,
+				1.7,
+				0.0
+			],
+			"target": [
+				6.0,
+				1.8,
+				5.0
+			]
+		},
+		"south_route": {
+			"position": [
+				-15.0,
+				1.8,
+				22.0
+			],
+			"target": [
+				0.0,
+				2.4,
+				34.0
+			]
+		},
+		"elevated": {
+			"position": [
+				0.0,
+				5.05,
+				-20.5
+			],
+			"target": [
+				0.0,
+				1.8,
+				5.0
+			]
+		},
+		"first_person": {
+			"position": [
+				-26.0,
+				1.62,
+				-5.0
+			],
+			"target": [
+				-12.0,
+				1.8,
+				-5.0
+			]
+		}
+	},
+	"overview": [
+		{
+			"text": "NORTH OVERHAUL CONCOURSE",
+			"point": [
+				0,
+				0,
+				-33
+			],
+			"color": "86c9e5"
+		},
+		{
+			"text": "SIGNAL ROTUNDA (+3.4m)",
+			"point": [
+				0,
+				3.4,
+				-21.5
+			],
+			"color": "f2c96d"
+		},
+		{
+			"text": "ROTARY TURNTABLE / METRO CARS",
+			"point": [
+				0,
+				0,
+				5
+			],
+			"color": "f2c96d"
+		},
+		{
+			"text": "FAN ROUNDHOUSE STALLS 1\u20133",
+			"point": [
+				0,
+				0,
+				34
+			],
+			"color": "9bd69c"
+		}
+	],
+	"tests": {
+		"smoke_origin": [
+			0,
+			2,
+			-14.0
+		],
+		"upper_point": [
+			0,
+			3.4,
+			-26.8
+		],
+		"upper_min_height": 3.0,
+		"navigation_points": [
+			[
+				0,
+				0,
+				-1
+			],
+			[
+				0,
+				3.4,
+				-26.8
+			],
+			[
+				0,
+				3.4,
+				-21.5
+			],
+			[
+				-20,
+				0,
+				-5
+			],
+			[
+				20,
+				0,
+				5
+			],
+			[
+				0,
+				0,
+				34
+			],
+			[
+				-22,
+				0,
+				30
+			],
+			[
+				22,
+				0,
+				30
+			]
+		]
+	}
+}

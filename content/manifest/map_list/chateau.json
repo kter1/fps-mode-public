@@ -1,0 +1,56 @@
+{
+	"id": "chateau",
+	"order": 35,
+	"display_name": "Château Mirelle",
+	"menu_subtitle": "Hillside winery château, vineyards & rotunda",
+	"layout": "res://game/maps/layouts/chateau.gd",
+	"seed": 1907,
+	"extent": [180, 150],
+	"minimap": {"texture": "res://content/minimaps/chateau.png", "bounds": [-95, -95, 95, 95]},
+	"style": {
+		"accent": "b9a27a",
+		"wall_kind": "plaster",
+		"ground_impact": "earth",
+		"authored_dressing": true,
+		"ground": {"layers": ["grass", "dirt", "gravel", "asphalt"], "tint": [0.5, 0.66, 0.36]},
+		"asphalt_patches": 0,
+		"lane_arrows": [],
+		"ground_clutter": "tyre",
+		"terrain": {"kind": "hills", "layers": ["grass", "dirt", "rock", "gravel"], "tint": [0.54, 0.66, 0.4]},
+		"backdrop": {"kind": "forests", "nearest": 40.0}
+	},
+	"lighting": {
+		"hdri": "res://content/sky/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+		"sun_u": 0.6002,
+		"sun_elevation": 48.0,
+		"sky_turn": 30.0,
+		"sun_color": [1.0, 0.96, 0.9],
+		"sun_energy": 2.0,
+		"sky_energy": 0.55,
+		"haze": "b2c4d4",
+		"fog": 0.0006,
+		"volume": 0.0012
+	},
+	"capture": {
+		"blue_spawn": {"position": [-84, 1.8, -22], "target": [-40, 1.7, 0]},
+		"red_spawn": {"position": [84, 1.8, -20], "target": [30, 4, 0]},
+		"north_route": {"position": [-40, 1.8, -40], "target": [20, 2, -42]},
+		"center_interior": {"position": [19.5, 1.7, -5.8], "target": [6, 3.2, 0]},
+		"south_route": {"position": [-40, 1.8, 50.5], "target": [20, 2.5, 44]},
+		"elevated": {"position": [23.4, 6.0, -7.4], "target": [42, 1.5, -6]},
+		"first_person": {"position": [45, 1.62, 4], "target": [22, 5, 0]},
+		"marc": {"position": [6.0, 1.7, -8.2], "target": [16, 1.3, -23]},
+		"marc_porch": {"position": [5.0, 1.7, -27.0], "target": [17, 1.4, -31.5]},
+		"bordeaux_room": {"position": [5.0, 1.7, 8.2], "target": [16, 1.5, 13]},
+		"wine_market": {"position": [5.0, 1.7, 16.0], "target": [17, 1.2, 23]},
+		"velvet_room": {"position": [19.5, 6.1, -9.0], "target": [8, 5.0, -20]},
+		"cask_room": {"position": [-1.8, 1.7, -13.6], "target": [-4.5, 1.2, 4]},
+		"production": {"position": [-9.0, 1.7, -14.5], "target": [-17, 1.5, 4]}
+	},
+	"overview": [
+		{"text": "SERVICE DRIVE", "point": [10, 0, -40]},
+		{"text": "CHÂTEAU", "point": [11, 0, 0]},
+		{"text": "ROTUNDA + VINEYARDS", "point": [20, 0, 52]}
+	],
+	"tests": {"upper_point": [11, 4.4, 18], "navigation_points": [[23.3, 4.4, 0], [13, 4.4, -18], [11, 0, 18]]}
+}

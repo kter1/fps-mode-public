@@ -1,0 +1,89 @@
+{
+  "files": {
+    "ambientcg/Leaking006_1K-JPG.zip": {
+      "sha256": "9f08ba94f7b881addc0925a73aa20f02a404ac9e2bd118c8b5666eb8a883791d",
+      "size": 2201044,
+      "url": "https://ambientcg.com/get?file=Leaking006_1K-JPG.zip"
+    },
+    "ambientcg/RoadLines020C_1K-JPG.zip": {
+      "sha256": "3bced8c5596160dc8e4f40159789d084d63a4fa46430c5fba09d3c7447b7209a",
+      "size": 5574566,
+      "url": "https://ambientcg.com/get?file=RoadLines020C_1K-JPG.zip"
+    },
+    "polyhaven/kloofendal_overcast_puresky_2k.hdr": {
+      "sha256": "312b1b04b7f10057a4f1418abc59d1166c8933cc93fc72051502edaf8d6b2fcd",
+      "size": 4335717,
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_overcast_puresky_2k.hdr"
+    },
+    "polyhaven/models/ocean_buoy_1k/ocean_buoy.bin": {
+      "sha256": "b3c1f9c8170b9c538f8540f324e4b3707b842d37705dda2dfc95d0548b521e80",
+      "size": 426240,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ocean_buoy/ocean_buoy.bin"
+    },
+    "polyhaven/models/ocean_buoy_1k/ocean_buoy_1k.gltf": {
+      "sha256": "7a6e3ba5b2258575464b2af622dbe63b89a74cb9885f8105cfc8fdf30c734d5c",
+      "size": 3228,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ocean_buoy/ocean_buoy_1k.gltf"
+    },
+    "polyhaven/models/ocean_buoy_1k/textures/ocean_buoy_arm_1k.jpg": {
+      "sha256": "4d0d02c386250ff163fb661e2ff6f3777c01d28bdf902508ae8a7808041b381c",
+      "size": 970585,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ocean_buoy/ocean_buoy_arm_1k.jpg"
+    },
+    "polyhaven/models/ocean_buoy_1k/textures/ocean_buoy_diff_1k.jpg": {
+      "sha256": "379e64ed72deca5805df1d5afbd0fdcdd5f8a8d6aa4f156eed9d3643b071b0c2",
+      "size": 827912,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ocean_buoy/ocean_buoy_diff_1k.jpg"
+    },
+    "polyhaven/models/ocean_buoy_1k/textures/ocean_buoy_emission_1k.jpg": {
+      "sha256": "c038be2e4074e2a67eee8d5e4cb2d37f0bdcee5c2a569d8bda2b66e1ab35ce53",
+      "size": 29089,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ocean_buoy/ocean_buoy_emission_1k.jpg"
+    },
+    "polyhaven/models/ocean_buoy_1k/textures/ocean_buoy_nor_gl_1k.jpg": {
+      "sha256": "5d02c9df9b5e76b61bf0845839d9ec99f56f994a9095174076c00b560ece4686",
+      "size": 770155,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ocean_buoy/ocean_buoy_nor_gl_1k.jpg"
+    },
+    "polyhaven/models/wooden_crate_01_1k/textures/wooden_crate_01_arm_1k.jpg": {
+      "sha256": "cd0b031c3924905e16ffd78ead062c2cc274148c4104d09635310097738b4679",
+      "size": 776699,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_arm_1k.jpg"
+    },
+    "polyhaven/models/wooden_crate_01_1k/textures/wooden_crate_01_diff_1k.jpg": {
+      "sha256": "16653f4abaf4c1d9bca94bde3bd8c54d0ea9a5298d1648abcf57de1f7ecc34cc",
+      "size": 711292,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_diff_1k.jpg"
+    },
+    "polyhaven/models/wooden_crate_01_1k/textures/wooden_crate_01_nor_gl_1k.jpg": {
+      "sha256": "f4ea44c7dc1686123d337039cb713d74e8a2dbc6d1bd2beeac276d06f5df3fab",
+      "size": 594076,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_nor_gl_1k.jpg"
+    },
+    "polyhaven/models/wooden_crate_01_1k/wooden_crate_01.bin": {
+      "sha256": "85f381f8035f7a6f2f3b848640894c6d3333b261946dd8a338c0fe19e0bea21e",
+      "size": 189408,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_crate_01/wooden_crate_01.bin"
+    },
+    "polyhaven/models/wooden_crate_01_1k/wooden_crate_01_1k.gltf": {
+      "sha256": "fd9c6073acfc671e12b64666053f2805ae33aff5d3dbbcfe5c97c08c06644927",
+      "size": 5612,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_crate_01/wooden_crate_01_1k.gltf"
+    },
+    "polyhaven/rusty_metal_02_arm_1k.jpg": {
+      "sha256": "2982943ffe3273a65bf788b77fc0c7a4fd8227824386d065d13a8c8c0e07db10",
+      "size": 153031,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_metal_02/rusty_metal_02_arm_1k.jpg"
+    },
+    "polyhaven/rusty_metal_02_diff_1k.jpg": {
+      "sha256": "adaf094391518b6afe787a123942110aa88ef521c844f970b124420f5ed5d3d9",
+      "size": 564932,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_metal_02/rusty_metal_02_diff_1k.jpg"
+    },
+    "polyhaven/rusty_metal_02_nor_gl_1k.jpg": {
+      "sha256": "995197a62cac6fbb000e6e6591a3330a3b77ef069c4ac58f505b586b9bdbd97b",
+      "size": 403156,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rusty_metal_02/rusty_metal_02_nor_gl_1k.jpg"
+    }
+  }
+}

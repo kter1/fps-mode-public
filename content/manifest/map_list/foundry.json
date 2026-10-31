@@ -1,0 +1,50 @@
+{
+	"id": "foundry",
+	"order": 10,
+	"display_name": "Foundry",
+	"menu_subtitle": "Assembly facility",
+	"layout": "res://game/maps/layouts/foundry.gd",
+	"seed": 410,
+	"extent": [110, 90],
+	"minimap": {"texture": "res://content/minimaps/foundry.png", "bounds": [-59, -59, 59, 59]},
+	"style": {
+		"accent": "c9a35a",
+		"wall_kind": "brick",
+		"ground_impact": "concrete",
+		"ground": {"layers": ["asphalt", "concrete_floor", "gravel", "dirt"]},
+		"asphalt_patches": 18,
+		"lane_arrows": [[-20, 0, -41], [20, 0, 41]],
+		"ground_clutter": "manhole",
+		"ground_clutter_count": 4,
+		"terrain": {"kind": "plain", "layers": ["gravel", "dirt", "concrete_floor", "asphalt"]},
+		"backdrop": {"kind": "skyline", "nearest": 48.0}
+	},
+	"lighting": {
+		"hdri": "res://content/sky/kloofendal_28d_misty_puresky_2k.hdr",
+		"sun_u": 0.4696,
+		"sun_elevation": 28.6,
+		"sky_turn": -11.0,
+		"sun_color": [1.0, 0.955, 0.87],
+		"sun_energy": 1.95,
+		"sky_energy": 0.5,
+		"haze": "8e979b",
+		"fog": 0.0007,
+		"volume": 0.003
+	},
+	"menu_backdrop": {"position": [38, 26, 39], "target": [0, 3, 0]},
+	"capture": {
+		"blue_spawn": {"position": [-48, 1.8, -16], "target": [-32, 1.7, -18]},
+		"red_spawn": {"position": [48, 1.8, 16], "target": [32, 1.7, 18]},
+		"north_route": {"position": [-16, 1.8, -25], "target": [14, 1.8, -27]},
+		"center_interior": {"position": [10, 1.7, 0], "target": [-10, 1.7, -2]},
+		"south_route": {"position": [-14, 1.8, 25], "target": [20, 1.7, 29]},
+		"elevated": {"position": [0, 4.82, -17], "target": [20, 4.82, -17]},
+		"first_person": {"position": [-11, 1.62, 17], "target": [11, 1.62, 23]}
+	},
+	"overview": [
+		{"text": "POWER + SERVICE RACK", "point": [0, 0, -32]},
+		{"text": "FOUNDRY HALL", "point": [0, 0, 0]},
+		{"text": "FREIGHT + LOADING", "point": [0, 0, 32]}
+	],
+	"tests": {"upper_point": [0, 3.2, -17]}
+}

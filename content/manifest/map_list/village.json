@@ -1,0 +1,48 @@
+{
+	"id": "village",
+	"order": 30,
+	"display_name": "Village",
+	"menu_subtitle": "Overgrown farming village",
+	"layout": "res://game/maps/layouts/village.gd",
+	"seed": 1730,
+	"extent": [110, 90],
+	"minimap": {"texture": "res://content/minimaps/village.png", "bounds": [-59, -59, 59, 59]},
+	"style": {
+		"accent": "8a6d4b",
+		"wall_kind": "rough_concrete",
+		"ground_impact": "earth",
+		"ground": {"layers": ["grass", "dirt", "gravel", "asphalt"], "tint": [0.7, 0.8, 0.55]},
+		"asphalt_patches": 0,
+		"lane_arrows": [],
+		"ground_clutter": "tyre",
+		"terrain": {"kind": "hills", "layers": ["grass", "dirt", "rock", "gravel"], "tint": [0.62, 0.74, 0.48]},
+		"backdrop": {"kind": "forests", "nearest": 50.0}
+	},
+	"lighting": {
+		"hdri": "res://content/sky/kloofendal_43d_clear_puresky_2k.hdr",
+		"sun_u": 0.6002,
+		"sun_elevation": 43.0,
+		"sky_turn": 30.0,
+		"sun_color": [1.0, 0.96, 0.89],
+		"sun_energy": 2.0,
+		"sky_energy": 0.5,
+		"haze": "a9bccb",
+		"fog": 0.0007,
+		"volume": 0.0015
+	},
+	"capture": {
+		"blue_spawn": {"position": [-48, 1.8, -16], "target": [-30, 1.7, -12]},
+		"red_spawn": {"position": [48, 1.8, 16], "target": [30, 1.7, 12]},
+		"north_route": {"position": [-27, 1.8, -39.5], "target": [10, 1.8, -36]},
+		"center_interior": {"position": [0, 1.7, -14.0], "target": [0, 1.9, -25]},
+		"south_route": {"position": [-30, 1.8, 30], "target": [10, 1.8, 30]},
+		"elevated": {"position": [-23.5, 4.85, -12.8], "target": [-22.9, 4.2, -4]},
+		"first_person": {"position": [-8, 1.62, 6], "target": [12, 2.4, 2]}
+	},
+	"overview": [
+		{"text": "ORCHARD + BARN", "point": [0, 0, -32]},
+		{"text": "CHURCH SQUARE", "point": [0, 0, 0]},
+		{"text": "BACK GARDENS", "point": [0, 0, 32]}
+	],
+	"tests": {"upper_point": [-20, 3.2, -18]}
+}

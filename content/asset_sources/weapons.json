@@ -1,0 +1,62 @@
+{
+  "assets": [
+    {
+      "id": "guns_explosives_pack",
+      "source": "manual",
+      "page": "https://3dmodelscc0.itch.io/free-cc0-guns-explosives-pack",
+      "filename": "Guns&Explosives.rar",
+      "extract": true,
+      "license": "CC0-1.0",
+      "creator": "3DModelsCC0",
+      "include": [
+        "Guns&Explosives/AK-47/*",
+        "Guns&Explosives/M4A1/*",
+        "Guns&Explosives/Shotgun/*",
+        "Guns&Explosives/Sniper/*",
+        "Guns&Explosives/GreaseGun/*",
+        "Guns&Explosives/Suomi_KP/*",
+        "Guns&Explosives/Luger/*",
+        "Guns&Explosives/Pistol_MK/*",
+        "Guns&Explosives/FragGrenade/*",
+        "Guns&Explosives/Smoke_Grenade/*"
+      ],
+      "dest": "content/models/weapons/source/guns_explosives"
+    },
+    {
+      "id": "bolt_action_rifle_7_62",
+      "source": "polyhaven",
+      "type": "model",
+      "resolution": "2k",
+      "dest": "content/models/weapons/source/bolt_action_rifle_7_62"
+    },
+    {
+      "id": "service_pistol",
+      "source": "polyhaven",
+      "type": "model",
+      "resolution": "2k",
+      "dest": "content/models/weapons/source/service_pistol"
+    },
+    {
+      "id": "tabasco_smallarms",
+      "source": "url",
+      "url": "https://opengameart.org/sites/default/files/smallarms.zip",
+      "sha256": "fac981bb2df3dac9574e3567ef40df0fa5b77f0d6be0a36b83bdd95fcc86a492",
+      "extract": true,
+      "page": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol",
+      "license": "CC0-1.0",
+      "creator": "Tabasco",
+      "dest": "content/models/weapons/source/tabasco_smallarms"
+    }
+  ],
+  "pipeline": [
+    {
+      "blender": "tools/blender/build_fp_arms.py"
+    },
+    {
+      "blender": "tools/blender/ingest_weapon.py"
+    },
+    {
+      "blender": "tools/blender/build_attachments.py"
+    }
+  ]
+}
