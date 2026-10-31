@@ -1,4 +1,4 @@
-# GLACIER PEAK (`glacier_peak`) — Lead Level Design Blueprint & Self-Contained Codex Implementation Specification
+# GLACIER PEAK (`glacier_peak`) — Lead Level Design Blueprint & Implementation Specification
 
 **Target Engine & Project:** Godot 4.7.2 (`FPS Mode` — `CompactMapBuilder` / `MapLayout` Pipeline)
 
@@ -434,7 +434,7 @@ All textures, HDRIs, decals, and props are already committed and hash-verified i
 
 ## 10. Acceptance Tests for the Implementation
 
-Codex must verify that the implementation passes **all 10 automated & engine gates** before completion:
+The implementation must verify that the implementation passes **all 10 automated & engine gates** before completion:
 
  1. **GDScript 4.7.2 Strict Static Typing Gate:**
 
@@ -494,9 +494,9 @@ Codex must verify that the implementation passes **all 10 automated & engine gat
 
     * `python3 tools/dev.py benchmark --map glacier_peak --seed 2410 --seconds 600` achieves `>= 60 FPS` average, `p95 <= 20.0 ms`, `<= 2.5M` visible triangles, and `<= 2,500` draw calls at Medium `1920 × 1080`.
 
-## 11. Self-Contained Codex Implementation Handoff
+## 11. Implementation Handoff
 
-Hand the two file specifications below directly to **Codex** to implement `glacier_peak`:
+Hand the two file specifications below to implement `glacier_peak`:
 
 ### File 1: `content/manifest/map_list/glacier_peak.json`
 
@@ -620,9 +620,9 @@ Hand the two file specifications below directly to **Codex** to implement `glaci
 
 ```
 
-### File 2: `game/maps/layouts/glacier_peak.gd` Architecture & Function Contract for Codex
+### File 2: `game/maps/layouts/glacier_peak.gd` Architecture & Function Contract
 
-Codex must implement `game/maps/layouts/glacier_peak.gd` extending `MapLayout` with the following exact functions and coordinates:
+The implementation must implement `game/maps/layouts/glacier_peak.gd` extending `MapLayout` with the following exact functions and coordinates:
 
 1. **`boundaries(builder: CompactMapBuilder) -> void`:**
 

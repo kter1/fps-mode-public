@@ -217,7 +217,7 @@ python3 tools/dev.py test --suite campaign
 
 ### Campaign voices
 
-Dead Circuit opens with the approved three-character voice audition: Rook and
+Dead Circuit opens with three-character voice dialogue: Rook and
 Atlas speak from their squad positions; Control plays through a filtered radio.
 Speaker-labelled subtitles follow the actual clip durations. Atlas's relay line
 uses the approved alternate take. Dialogue begins after the deployment countdown
@@ -227,9 +227,7 @@ Retrying the opening checkpoint plays a fresh introduction; later checkpoints
 skip arrival dialogue. Later objectives retain their text briefings.
 
 The ten individual clean recordings are bundled under
-`content/audio/campaign/dead_circuit/`; no audition ambience is layered over the
-map's existing audio. Generation used free local Qwen3-TTS VoiceDesign, with no
-runtime AI, network connection, subscription, or API key required. Provenance and
-approved take hashes are in `content/data/campaign/dead_circuit_dialogue.json`
+`content/audio/campaign/dead_circuit/`; no extra ambience is layered over the
+map's existing audio. The voices are synthesized and need no network connection at runtime. Approved take hashes are in `content/data/campaign/dead_circuit_dialogue.json`
 and `content/licenses/dead_circuit_voices.txt`. This integration adds voice and
 subtitles; it does not add lip sync or character choreography.

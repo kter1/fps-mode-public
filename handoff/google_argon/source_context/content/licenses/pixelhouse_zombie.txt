@@ -1,8 +1,0 @@
-Zombie by Pixelhouse (2009)
-Source: https://opengameart.org/content/zombie
-Creator: https://www.pixelhouse.com.ar
-License: Creative Commons Attribution 3.0 Unported
-License URL: https://creativecommons.org/licenses/by/3.0/
-Used and adapted for FPS Mode: materials, scale, crawl/dismemberment mesh and runtime animation.
-Original download: https://opengameart.org/sites/default/files/zombie.zip
-The original model is not a Call of Duty asset.

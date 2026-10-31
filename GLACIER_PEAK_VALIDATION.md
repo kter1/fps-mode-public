@@ -62,7 +62,7 @@ The rebuilt, signature-verified `builds/FPSMode.app` includes the new map.
 - Views: `.artifacts/screenshots/glacier_peak/` and
   `.artifacts/screenshots/overviews/glacier_peak.png`.
 - Original handoff README, blueprint and static report: `handoff/glacier_peak/`.
-- Complete supplied design: `GLACIER_PEAK_CODEX_SPEC.md`.
+- Complete supplied design: `GLACIER_PEAK_SPEC.md`.
 
 ## Limits
 
